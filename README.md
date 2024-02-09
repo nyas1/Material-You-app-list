@@ -194,16 +194,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 - `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
 - `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
-- `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit)
-- `MDY` [Focus For Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
+- `MDY` [FocusRed](https://play.google.com/store/apps/details?id=allen.town.focus.red)
 - `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
 - `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
-- `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
 #### <img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="21" height="21" /> **X (Twitter)**
-- `MDY` [FocusTwitter - for Twitter (X)](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
+- `MDY` [Focust](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
 - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
-- `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
-- `MY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="19" height="21" /> **Mastodon**
 - `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
@@ -212,10 +208,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="21" height="21"/> **Discord**
-- `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
 - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
-- `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme) `OR` [`#2`](https://vorlie.pl/materialdetta)
 #### <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="21" height="21" /> **Instagram**
 - `MY` [Instander](https://thedise.me/instander/repo/) 
 - `MY` [Honista](https://t.me/Honistagram)
