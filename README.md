@@ -139,6 +139,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Raven](https://github.com/ksh-b/raven) <sup>`FOSS`</sup>
 - `MDY` [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) <sup>`FOSS`</sup>
 - `MDY` [Untracker](https://github.com/zhanghai/Untracker) <sup>`FOSS`</sup>
 - `MD` [CatTorrent](https://play.google.com/store/apps/details?id=com.piratecats.cattorrent)
@@ -163,9 +164,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Twine](https://github.com/msasikanth/twine/) <sup>`FOSS`</sup>
 - `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
 - `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
-- `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
-- `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
-- `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
