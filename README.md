@@ -425,7 +425,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
 	- `MD` [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor)
 	- `MY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`FOSS`</sup>
-	- `MDY` [Linwood Butterfly](https://github.com/LinwoodDev/Butterfly) <sup>`FOSS`</sup>
+
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -939,6 +939,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### ⏱️ Clocks/Timers
+- `MDY` [Chrono](https://github.com/vicolo-dev/chrono)
 - `MDY` [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
 - `MDY` [Fossify Clock](https://github.com/FossifyOrg/Clock) <sup>`FOSS`</sup>
 - `MDY` [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
