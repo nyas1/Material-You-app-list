@@ -1092,7 +1092,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Tremotesf](https://github.com/equeim/tremotesf-android) <sup>`FOSS`</sup>
 	- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
 	- `MD` [Nyanpasu](https://github.com/Lucchetto/Nyanpasu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MD` [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
+	- `MD` [Flud+](https://play.google.com/store/apps/details?id=com.delphicoder.flud.paid)<sup>`💰`</sup>
 	- `MD` [CatTorrent](https://play.google.com/store/apps/details?id=com.piratecats.cattorrent)
 - **Miscellaneous**
 	- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
