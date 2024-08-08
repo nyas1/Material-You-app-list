@@ -237,7 +237,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`FOSS`</sup> <sup>`🪦`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
 - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🪦`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme)`</sup>
 	- `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup> <sup>`🪦`</sup> 
-	- `MY` [Pyoncord](https://github.com/pyoncord/Pyoncord) <sup>`FOSS`</sup>
+	- `MY` [Bunny](https://github.com/pyoncord/Bunny) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="21" height="21" /> **Instagram**
 - `MY` [Instander](https://thedise.me/instander/repo/) 
 - `MY` [Honista](https://t.me/Honistagram)
@@ -296,7 +296,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
 - `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
-- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
+- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup> <sup> `🪦` </sup>
 - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
 - `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
@@ -307,7 +307,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 📖 Readers
 - **Manga/Novel/E-book Reader**
-	- `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Tachiyomi](https://tachiyomi.org/news/2024-01-13-goodbye) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 		- `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -746,10 +746,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  **Emulators**
 	- `MDY` [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`FOSS`</sup>
 	- `MDY` [Rekado](https://github.com/MenosGrante/Rekado) <sup>`FOSS`</sup>
-	- `MDY` [Skyline Emulator](https://github.com/skyline-emu/skyline) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Joiplay](https://joiplay.org/)
 	- `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) <sup>`FOSS`</sup>
-	- `MDY` [Yuzu](https://github.com/yuzu-emu/yuzu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Lime3DS](https://github.com/Lime3DS/Lime3DS) <sup>`FOSS`</sup>
 - **Tools**
 	- `MDY` [Cavedroid](https://github.com/cyb3rko/cavedroid) <sup>`FOSS`</sup>
 	- `MDY` [Cuberite](https://github.com/cuberite/android) <sup>`FOSS`</sup>
