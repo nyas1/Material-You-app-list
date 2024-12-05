@@ -401,6 +401,129 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup>
 	- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
 	- `MDY` [FA Notes](https://play.google.com/store/apps/details?id=com.Fooks.Animations.and.Applications.Notes)
+        - ### 🏠 Launchers
+- `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) <sup>`FOSS`</sup>
+- `MDY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) <sup>`FOSS`</sup>
+- `MDY` [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) <sup>`🪦`</sup>
+- `MDY` [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
+- `MDY` [Kvaesitso](https://github.com/MM2-0/Kvaesitso) <sup>`FOSS`</sup>
+- `MDY` [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) <sup>`FOSS`</sup>
+- `MDY` [Hyperion Launcher](https://play.google.com/store/apps/details?id=projekt.launcher)
+- `MDY` [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher)
+- `MDY` [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)
+- `MDY` [Fossify Launcher](https://github.com/FossifyOrg/Launcher) <sup>`FOSS`</sup>
+- `MDY` [Nova Launcher 8](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
+- `MY` [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
+- `MY` [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher)
+- `MY` [Easy Homescreen](https://play.google.com/store/apps/details?id=easy.launcher)
+- `MY` [TouchFind](https://play.google.com/store/apps/details?id=com.davesla.easyfind)
+- **Tools**
+	- `MDY` [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) <sup>`FOSS`</sup>
+	- `MDY` [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) <sup>`FOSS`</sup>
+	- `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`FOSS`</sup>
+	- `MDY` [QuickSwitch](https://github.com/skittles9823/QuickSwitch) <sup>`FOSS`</sup>
+	- `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup>
+	- `MDY` [Smart Dock](https://github.com/axel358/smartdock) <sup>`FOSS`</sup>
+	- `MD` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`FOSS`</sup>
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
+### 📝 Notes/To-do/Wish-lists
+- **Notes**
+	- `MDY` [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
+	- `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`FOSS`</sup>
+	- `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
+	- `MDY` [Saber](https://github.com/adil192/saber) <sup>`FOSS`</sup>
+	- `MDY` [Firenote](https://github.com/T8RIN/Firenote) <sup>`FOSS`</sup>
+	- `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) <sup>`FOSS`</sup>
+	- `MDY` [MoeMemos](https://github.com/mudkipme/MoeMemosAndroid) <sup>`FOSS`</sup>
+	- `MDY` [Ruslin](https://github.com/ruslin-note/ruslin-android) <sup>`FOSS`</sup>
+	- `MDY` [Ara Note](https://github.com/hashemi-hossein/ara-note) <sup>`FOSS`</sup>
+	- `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu)
+	- `MDY` [Another Notes](https://github.com/maltaisn/another-notes-app) <sup>`FOSS`</sup>
+	- `MDY` [jtxBoard](https://github.com/TechbeeAT/jtxBoard) <sup>`FOSS`</sup>
+	- `MDY` [Orgzly](https://github.com/orgzly/orgzly-android) <sup>`FOSS`</sup>
+		- `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager)
+	- `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) <sup>`FOSS`</sup>
+	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup>
+	- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
+	- `MDY` [FA Notes](https://play.google.com/store/apps/details?id=com.Fooks.Animations.and.Applications.Notes)
+        - `MDY` [Notify](https://github.com/rajaumair7890/Notify) <sup>`FOSS`</sup>
+	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
+	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
+	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
+	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
+	- `MD` [Snappr](https://github.com/Iamlooker/Snappr/) <sup>`FOSS`</sup>
+	- `MD` [Notify](https://github.com/aritra-tech/Notify)  <sup>`FOSS`</sup>
+- **Todo/Tasks**
+	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
+	- `MDY` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
+	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
+	- `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`FOSS`</sup>
+	- `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases)
+	- `MDY` [TimeNoder2](https://play.google.com/store/apps/details?id=com.janzimola.goal_venture2)
+	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
+	- `MD` [Mightyday](https://play.google.com/store/apps/details?id=com.edisoncal.edison)
+	- `MD` [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
+	- `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
+	- `MD` [ToDark](https://github.com/darkmoonight/ToDark) <sup>`FOSS`</sup>
+	- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
+	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
+- **Diary/Journal**
+	- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
+	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`FOSS`</sup>
+	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
+	- `MDY` [Journal Pro](https://play.google.com/store/apps/details?id=com.alif.diary)
+	- `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
+	- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
+	- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
+	- `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
+- **Reminders**
+	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
+	- `MDY` [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) <sup>`FOSS`</sup>
+	- `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
+	- `MD` [RemindMe](https://play.google.com/store/apps/details?id=com.anafthdev.remindme)
+	- `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
+- **Miscellaneous**
+	- `MDY` [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
+	- `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
+	- `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
+	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
+	- `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`FOSS`</sup>
+	- `MDY` [Function](https://github.com/sirekanian/function) <sup>`FOSS`</sup>
+	- `MDY` [Linwood Butterfly](https://github.com/LinwoodDev/Butterfly) <sup>`FOSS`</sup>
+	- `MD` [Projman](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement)
+	- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
+	- `MD` [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor)
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
+### 🖋️ Text/Code Editors/IDE
+- `MDY` [Code Studio](https://play.google.com/store/apps/details?id=com.alif.ide)
+- `MDY` [PyCode](https://play.google.com/store/apps/details?id=com.alif.ide.python)
+- `MDY` [JStudio](https://play.google.com/store/apps/details?id=com.qamar.ide.java)
+- `MDY` [Html Editor](https://play.google.com/store/apps/details?id=com.qamar.editor.html)
+- `MDY` [WebCode](https://play.google.com/store/apps/details?id=com.qamar.ide.web)
+- `MDY` [LuaDroid](https://play.google.com/store/apps/details?id=com.alif.ide.lua)
+- `MDY` [Shell Script Editor](https://play.google.com/store/apps/details?id=com.qamar.editor.shellscript)
+- `MDY` [Writer Pro](https://play.google.com/store/apps/details?id=com.alif.writer)
+- `MDY` [CodeFusion](https://play.google.com/store/apps/details?id=com.alif.editor.code)
+- `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
+- `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup>
+- `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) <sup>`FOSS`</sup>
+- `MDY` [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) <sup>`FOSS`</sup>
+- `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
+- **Google**
+	- `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
+	- `MDY` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
+	- `MDY` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
