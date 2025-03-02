@@ -615,6 +615,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
  	- `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
 	- `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 	- `MY` [Vivaldi](https://vivaldi.com/source/)
+	- `MY` [Mojo](https://github.com/Muhammad-Noraeii/Mojo-Browser) <sup>`FOSS`</sup>
 - **Other**
 	- `MDY` [FOSS Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>`FOSS`</sup>
 	- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
