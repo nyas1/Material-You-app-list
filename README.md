@@ -283,7 +283,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### <img src="https://i.ibb.co/J3NzWRd/icons8-signal-app-240.png" alt="signal" width="21" height="21"/> **Signal**
 - `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-	- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### <img src="https://cdn-icons-png.freepik.com/512/4138/4138153.png" alt="signal" width="21" height="21"/> **Twitch**
 - `MDY` [Xtra](https://github.com/crackededed/Xtra) <sup>`FOSS`</sup> <sup>`FORK`</sup>
