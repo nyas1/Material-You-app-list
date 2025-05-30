@@ -39,6 +39,7 @@
 - [📋 Disclaimer](#-disclaimer)
 - [🏷️ Tags](#%EF%B8%8F-tags)
 - [🆕 Newly Added Apps!](#-newly-added-apps)
+- [🏆 Material 3 Expressive](#-material-3-expressive)
 - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 - [📱 Known apps](#-known-apps)
 	- [👥 Social Media](#-social-media)
@@ -178,6 +179,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
+## 🏆 Material 3 Expressive
+- `MD3E` [EchoirX](https://github.com/imjyotiraditya/EchoirX) <sup>`FOSS`</sup>
+- `MD3E` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
+- `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
+- `MD3E` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup>
+- `MD3E` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
+
 ## 🏆 Best Implementation of Material You
 - `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
 - `MDY` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
@@ -197,7 +205,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 - `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
-- `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
 - `MDY` [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
 - `MDY` [Tack](https://github.com/patzly/tack-android)  <sup>`FOSS`</sup>
@@ -503,7 +510,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
-- `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
+- `MD3E` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
 - `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -823,7 +830,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Right Gallery](https://play.google.com/store/apps/details?id=com.goodwy.gallery) <sup>`FOSS`</sup>
 - `MY` [Aves](https://github.com/deckerst/aves) <sup>`FOSS`</sup>
 - **Tools**
-	- `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
+	- `MD3E` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
 	- `MDY` [ImageCraft](https://github.com/YangDai2003/ImageCraft-Android) <sup>`FOSS`</sup>
 	- `MDY` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
 	- `MDY` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
