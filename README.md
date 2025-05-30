@@ -123,7 +123,7 @@
 ### 📋 Disclaimer
 This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
 ### 🏷️ Tags
-- **Difference between `MD`, `MY`, `MDY`**
+- **Difference between `MD`, `MY`, `MDY`, `MD3E`**
 
 | Tag | Meaning | Design | Dynamic Color |
 |:-:|-|:-:|:-:|
