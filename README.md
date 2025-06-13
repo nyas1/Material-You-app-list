@@ -86,6 +86,7 @@
 	- [📷 Cameras](#-camera)
 	- [🎙️ Audio Recorders](#%EF%B8%8F-audio-recorder)
 	- [🧘‍♂️ Health & Well-being](#%EF%B8%8F-health--well-being)
+  	- [🍉 Foods](#-foods)
 	- [🛒 Shopping](#-shopping)
 	- [🗺️ Maps/Navigation](#%EF%B8%8F-mapsnavigation)
 	- [📧 Email Clients](#-email-clients)
@@ -151,6 +152,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
 - `MDY` [Driftly](https://github.com/DP-Hridayan/Driftly) <sup>`FOSS`</sup>
 - `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) <sup>`FOSS`</sup>
 - `MD3E` [EchoirX](https://github.com/imjyotiraditya/EchoirX) <sup>`FOSS`</sup>
@@ -175,7 +177,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [DNSNet](https://github.com/t895/DNSNet) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [PodAura](https://github.com/SkyD666/PodAura) <sup>`FOSS`</sup>
-- `MDY` [Youamp](https://github.com/siper/Youamp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -454,7 +455,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Miscellaneous**
 	- `MDY` [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
 	- `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
-	- `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
 	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 	- `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`FOSS`</sup>
 	- `MDY` [Function](https://github.com/sirekanian/function) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -973,6 +973,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Baby on Board (aka. BoB)](https://gitlab.com/LaBaude32/bob) <sup>`FOSS`</sup>
 	- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
 	- `MY` [Calory](https://play.google.com/store/apps/details?id=com.funnmedia.calory)
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
+### 🍉 Foods
+- **Recipe**
+	- `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
+ 	- `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+  	- `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
+   	- `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1593,7 +1603,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
 - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`FOSS`</sup>
 - `MDY` [Android Easter Egg](https://github.com/hushenghao/AndroidEasterEggs) <sup>`FOSS`</sup>
-- `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
 - `MDY` [SongSync](https://github.com/Lambada10/SongSync) <sup>`FOSS`</sup>
 - `MDY` [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter)
 - `MDY` [Key Mapper](https://github.com/keymapperorg/KeyMapper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1648,7 +1657,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) <sup>`FOSS`</sup>
 - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`FOSS`</sup>
 - `MD` [CodeAssist](https://github.com/Deenu488/CodeAssist-Unofficial) <sup>`FOSS`</sup>
-- `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
 - `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler)  <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`FOSS`</sup>
