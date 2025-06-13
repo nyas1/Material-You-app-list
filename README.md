@@ -251,7 +251,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [MyInsta](https://t.me/instasmashrepo)
 
 #### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="21" height="21" /> **Telegram**
-- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 - `MDY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
 - `MDY` [Telegram](https://github.com/DrKLO/Telegram) <sup>`FOSS`</sup>
