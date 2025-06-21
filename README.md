@@ -181,6 +181,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ## 🏆 Material 3 Expressive
+- `MD3E` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
+- `MD3E` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
 - `MD3E` [EchoirX](https://github.com/imjyotiraditya/EchoirX) <sup>`FOSS`</sup>
 - `MD3E` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
@@ -1141,7 +1143,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/) <sup>`FOSS`</sup>
 	- `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) <sup>`FOSS`</sup>
 	- `MDY` [Battery Widget](https://play.google.com/store/apps/details?id=com.lstapps.batterywidget)
-	- `MDY` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
+	- `MD3E` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
 	- `MDY` [Folder Widget](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 	- `MD` [Shortcut](https://play.google.com/store/apps/details?id=any.shortcut)
 - **Dynamic Island**
@@ -1304,7 +1306,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔦 Flashlights
-- `MDY` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
+- `MD3E` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
 - `MDY` [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [FlashDim](https://github.com/cyb3rko/flashdim) <sup>`FOSS`</sup>
 - `MD` [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
