@@ -431,7 +431,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
 	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
 	- `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) <sup>`🪦`</sup>
 	- `MDY` [TimeNoder2](https://play.google.com/store/apps/details?id=com.janzimola.goal_venture2)
 	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
 	- `MD` [Mightyday](https://play.google.com/store/apps/details?id=com.edisoncal.edison)
