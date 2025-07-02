@@ -152,6 +152,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDE3` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
 - `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
 - `MDY` [Driftly](https://github.com/DP-Hridayan/Driftly) <sup>`FOSS`</sup>
 - `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) <sup>`FOSS`</sup>
@@ -176,11 +177,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Dooz](https://github.com/yamin8000/Dooz) <sup>`FOSS`</sup>
 - `MDY` [DNSNet](https://github.com/t895/DNSNet) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [PodAura](https://github.com/SkyD666/PodAura) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ## 🏆 Material 3 Expressive
+- `MDE3` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
 - `MD3E` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
 - `MD3E` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
 - `MD3E` [EchoirX](https://github.com/imjyotiraditya/EchoirX) <sup>`FOSS`</sup>
@@ -718,6 +719,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
 	- `MD` [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user)
 - **Expense Managers**
+	- `MDE3` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
 	- `MDY` [Everplan](https://play.google.com/store/apps/details?id=com.bitmavrick.everplan)
 	- `MDY` [1Money](https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq)
 	- `MDY` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) <sup>`FOSS`</sup>
