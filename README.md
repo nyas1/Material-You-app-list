@@ -923,6 +923,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
 	- `MDY` [Workout Tracker & Gym Plan Log](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
 	- `MDY` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup>
+ 	- `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer)  <sup>`FOSS`</sup>
 	- `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 	- `MD` [Massive](https://github.com/brandonp2412/Massive)  <sup>`FOSS`</sup>
 - **Body Weight**
