@@ -170,7 +170,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) <sup>`FOSS`</sup>
 - `MDY` [GoodNotes](https://github.com/xephosbot/GoodNotesCompose?rgh-link-date=2025-05-09T12%3A42%3A25.000Z)
 - `MDY` [NETI Client](https://github.com/dertefter/NETIClient)
-- `MDY` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
+- `MDE3` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
 - `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) <sup>`FOSS`</sup>
 - `MDY` [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) <sup>`FOSS`</sup>
 - `MDY` [Ampersand](https://github.com/NyaomiDEV/Ampersand) <sup>`FOSS`</sup>
@@ -181,6 +181,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ## 🏆 Material 3 Expressive
+- `MDE3` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
 - `MDE3` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
 - `MD3E` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
 - `MD3E` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
@@ -634,7 +635,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) <sup>`FOSS`</sup>
 
 #### ☮️ Religion
-- `MDY` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
+- `MDE3` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
