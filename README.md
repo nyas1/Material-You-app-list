@@ -1192,11 +1192,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`FOSS`</sup>
 - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
 - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`FOSS`</sup>
+- `MDY` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
+- `MDY` [Hiddify](https://github.com/hiddify/hiddify-app) <sup>`FOSS`</sup>
 - `MD` [NordVPN](https://play.google.com/store/apps/details?id=com.nordvpn.android)
 - `MD` [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 - `MD` [Proton VPN](https://github.com/ProtonVPN/android-app) <sup>`FOSS`</sup>
-- `MD` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
