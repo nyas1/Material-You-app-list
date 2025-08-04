@@ -59,7 +59,7 @@
                     <li>🐘 <a href="#-mastodon">Mastodon</a></li>
                     <li>🎮 <a href="#-discord">Discord</a></li>
                     <li>📸 <a href="#-instagram">Instagram</a></li>
-                    <li>✈️ <a href="#-telegram">Telegram</a></li>
+                    <li>✈️ <a href="#%EF%B8%8F-telegram">Telegram</a></li>
                     <li>🐭 <a href="#-lemmy">Lemmy</a></li>
                     <li>💬 <a href="#-whatsapp">WhatsApp</a></li>
                     <li>🐻‍❄️ <a href="#-vk">VK</a></li>
@@ -344,7 +344,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 - `MDY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
-- `MDY` [Telegram](https://github.com/DrKLO/Telegram) <sup>`FOSS`</sup>
 - `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup>
 - `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Nekogram](https://github.com/Nekogram/Nekogram) <sup>`FOSS`</sup>
