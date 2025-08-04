@@ -918,6 +918,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`FOSS`</sup>
 	- `MDY` [Function](https://github.com/sirekanian/function) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Linwood Butterfly](https://github.com/LinwoodDev/Butterfly) <sup>`FOSS`</sup>
+	- `MDY` [Decisioninja](https://play.google.com/store/apps/details?id=com.decisioninja)
 	- `MD` [Projman](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) <sup>`🪦`</sup>
 	- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
 	- `MD` [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) <sup>`🪦`</sup>
@@ -1452,6 +1453,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata)
 	- `MDY` [Eye Care](https://play.google.com/store/apps/details?id=com.a3.eyecare)
 	- `MDY` [Mindful](https://github.com/akaMrNagar/Mindful/) <sup>`FOSS`</sup>
+	- `MDY` [Auraninja](https://play.google.com/store/apps/details?id=com.auraninja)
 	- `MD` [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
 	- `MD` [Baby on Board (aka. BoB)](https://gitlab.com/LaBaude32/bob) <sup>`FOSS`</sup>
 	- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
