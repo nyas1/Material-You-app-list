@@ -247,6 +247,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Immich](https://github.com/immich-app/immich) <sup>`FOSS`</sup>
+- `MD3E` [RvKernel Manager](https://github.com/Rve27/RvKernel-Manager) <sup>`FOSS`</sup>
+- `MD3E` [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) <sup>`FOSS`</sup>
 - `MDY` [Athena](https://github.com/Kin69/Athena) <sup>`FOSS`</sup>
 - `MDY` [Driftly](https://github.com/DP-Hridayan/Driftly) <sup>`FOSS`</sup>
 - `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) <sup>`FOSS`</sup>
@@ -270,9 +273,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AppListBackup](https://github.com/AndroidLabs-org/AppListBackup) <sup>`FOSS`</sup>
 - `MDY` [Dooz](https://github.com/yamin8000/Dooz) <sup>`FOSS`</sup>
 - `MDY` [DNSNet](https://github.com/t895/DNSNet) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [PodAura](https://github.com/SkyD666/PodAura) <sup>`FOSS`</sup>
-- `MDY` [Youamp](https://github.com/siper/Youamp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1354,7 +1354,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 - `MD3E` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
 - `MD3E` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
-- `MD3E` [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) <sup>`FOSS`</sup>
+- `MDY` [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
