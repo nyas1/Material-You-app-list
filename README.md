@@ -519,7 +519,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Telemone](https://github.com/Number869/TeleMone) <sup>`FOSS`</sup>
 - **SystemUI**
 	- `MDY` [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) <sup>`FOSS`</sup>
-	- `MDY` [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 	- `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) <sup>`FOSS`</sup>
 	- `MDY` [Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker)
 	- `MDY` [SystemUI Tuner](https://github.com/zacharee/Tweaker) <sup>`FOSS`</sup>
@@ -531,7 +530,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
  	- `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
 - **Miscellaneous**
 	- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup>
-	- `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`FOSS`</sup>
+	- `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -748,7 +747,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`FOSS`</sup>
 - `MDY` [Nekome](https://github.com/Chesire/Nekome) <sup>`FOSS`</sup>
 - `MDY` [PiliPala](https://github.com/guozhigq/pilipala) <sup>`FOSS`</sup>
-- `MDY` [Tivi](https://github.com/chrisbanes/tivi) <sup>`FOSS`</sup>
+- `MDY` [Tivi](https://github.com/chrisbanes/tivi) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) <sup>`FOSS`</sup>
 - `MDY` [Aluminium for Anilist](https://play.google.com/store/apps/details?id=moe.emi.aluminium)
 - `MDY` [StreamGuide](https://play.google.com/store/apps/details?id=app.streamguide)
