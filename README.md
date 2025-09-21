@@ -38,9 +38,7 @@
   <li>📋 <a href="#-disclaimer">Disclaimer</a></li>
   <li>🏷️ <a href="#%EF%B8%8F-tags">Tags</a></li>
   <li>🆕 <a href="#-newly-added-apps">Newly Added Apps!</a></li>
-  <li>🏆 <a href="#-best-implementation-of-material-you">Best Implementation of Material You</a></li>
 </ul>
-
 <ul>
   <li>
     <details open>
@@ -177,8 +175,8 @@
           <details>
             <summary>🍏 <a href="#-health--lifestyle">Health & Lifestyle</a></summary>
             <ul>
-              <li>🧘‍♂️ <a href="#-health--well-being">Health & Well-being</a></li>
-              <li>🛒 <a href="#-shopping">Shopping</a></li>
+              <li>🧘‍♂️ <a href="#‍%EF%B8%8F-health--well-being">Health & Well-being</a></li>
+              <li>🛒 <a href="#-shopping--household">Shopping & Household</a></li>
               <li>💸 <a href="#-economy">Economy</a></li>
               <li>🌦️ <a href="#-weather">Weather</a></li>
             </ul>
@@ -279,32 +277,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) <sup>`FOSS`</sup>
 - `MDY` [Ampersand](https://github.com/NyaomiDEV/Ampersand) <sup>`FOSS`</sup>
 - `MDY` [AppListBackup](https://github.com/AndroidLabs-org/AppListBackup) <sup>`FOSS`</sup>
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
-## 🏆 Best Implementation of Material You
-- `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
-- `MDY` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
-- `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`FOSS`</sup>
-- `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
-- `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup>
-- `MDY` [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
-- `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) <sup>`FOSS`</sup>
-- `MDY` [Material Files](https://github.com/zhanghai/MaterialFiles) <sup>`FOSS`</sup>
-- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
-- `MDY` [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
-- `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu)
-- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`FOSS`</sup>
-- `MDY` [Gallery](https://github.com/IacobIonut01/Gallery) <sup>`FOSS`</sup>
-- `MDY` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app)
-- `MDY` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
-- `MD3E` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
-- `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup>
-- `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
-- `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
-- `MDY` [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
-- `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
-- `MDY` [Tack](https://github.com/patzly/tack-android)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1475,10 +1447,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
 - `MD` [Shopin](https://github.com/erdemklync/Shopin) <sup>`FOSS`</sup>
 - **Recipes**
-- `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
-- `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
-- `MDY` [Hungry Recipes](https://play.google.com/store/apps/details?id=luddosaurus.nom.hungry)
-- `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
+	- `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
+	- `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
+	- `MDY` [Hungry Recipes](https://play.google.com/store/apps/details?id=luddosaurus.nom.hungry)
+	- `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1812,4 +1784,5 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🔧 Tools Used
 - [✍️ StackEdit](https://stackedit.io/)
 - [📜 DocToc](https://github.com/thlorenz/doctoc)
+
 
