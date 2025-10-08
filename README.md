@@ -1589,7 +1589,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🔑 Password Manager
 - `MDY` [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) <sup>`FOSS`</sup>
-- `MDY` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app)
+- `MD3E` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app)
 - `MDY` [Nextcloud Passwords](https://github.com/hegocre/NextcloudPasswords) <sup>`FOSS`</sup>
 - `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`FOSS`</sup>
 - `MDY` [Pincredible](https://github.com/cyb3rko/pincredible) <sup>`FOSS`</sup>
