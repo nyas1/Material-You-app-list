@@ -42,7 +42,7 @@
 <ul>
   <li>
     <details open>
-      <summary>📱 <a href="#-known-apps">Known Apps</a></summary>
+      <summary>📱 Known Apps</summary>
       <ul>
         <li>
           <details>
@@ -53,14 +53,14 @@
                   <summary>👥 <a href="#-social-media">Social Media</a></summary>
                   <ul>
                     <li>🧠 <a href="#-reddit">Reddit</a></li>
-                    <li>🕊️ <a href="#-x-twitter">X (Twitter)</a></li>
+                    <li>🕊️ <a href="#%EF%B8%8F-x-twitter">X (Twitter)</a></li>
                     <li>🐘 <a href="#-mastodon">Mastodon</a></li>
                     <li>🎮 <a href="#-discord">Discord</a></li>
                     <li>📸 <a href="#-instagram">Instagram</a></li>
                     <li>✈️ <a href="#%EF%B8%8F-telegram">Telegram</a></li>
                     <li>🐭 <a href="#-lemmy">Lemmy</a></li>
                     <li>💬 <a href="#-whatsapp">WhatsApp</a></li>
-                    <li>🐻‍❄️ <a href="#-vk">VK</a></li>
+                    <li>🐻‍❄️ <a href="#‍%EF%B8%8F-vk">VK</a></li>
                     <li>🎨 <a href="#-pixiv">Pixiv</a></li>
                     <li>🔐 <a href="#-signal">Signal</a></li>
                     <li>🎥 <a href="#-twitch">Twitch</a></li>
@@ -70,18 +70,18 @@
               <li>📞 <a href="#-communication">Communication</a></li>
               <li>📧 <a href="#-email-clients">Email Clients</a></li>
               <li>🈸 <a href="#-translators">Translators</a></li>
-              <li>👁️‍🗨️ <a href="#-accessibility">Accessibility</a></li>
+              <li>👁️‍🗨️ <a href="#%EF%B8%8F%EF%B8%8F-accessibility">Accessibility</a></li>
               <li>🔧 <a href="#-miscellaneous">Miscellaneous</a></li>
             </ul>
           </details>
         </li>
         <li>
           <details>
-            <summary>🎨 <a href="#-personalization--ui">Personalization & UI</a></summary>
+            <summary>🎨 <a href="#-personalization-and-ui">Personalization & UI</a></summary>
             <ul>
               <li>🏠 <a href="#-launchers">Launchers</a></li>
-              <li>🖌️ <a href="#-theming-apps">Theming Apps</a></li>
-              <li>⌨️ <a href="#-keyboards">Keyboards</a></li>
+              <li>🖌️ <a href="#%EF%B8%8F-theming-apps">Theming Apps</a></li>
+              <li>⌨️ <a href="#%EF%B8%8F-keyboards">Keyboards</a></li>
               <li>🎴 <a href="#-iconswallpaperswidgets">Icons/Wallpapers/Widgets</a></li>
               <li>👋 <a href="#-gesture-control">Gesture Control</a></li>
             </ul>
@@ -92,7 +92,7 @@
             <summary>🎬 <a href="#-media--entertainment">Media & Entertainment</a></summary>
             <ul>
               <li>🎵 <a href="#-music-players">Music Players</a></li>
-              <li>📽️ <a href="#-video-players">Video Players</a></li>
+              <li>📽️ <a href="#%EF%B8%8F-video-players">Video Players</a></li>
               <li>
                 <details>
                   <summary>📺 <a href="#-streaming-services">Streaming Services</a></summary>
@@ -107,12 +107,12 @@
               </li>
               <li>📑 <a href="#-tracking-services">Tracking Services</a></li>
               <li>🎙️ <a href="#-podcast">Podcast</a></li>
-              <li>📖 <a href="#-audiobook">Audiobook & Misc.</a></li>
-              <li>🖥️ <a href="#-media-servers">Media Servers</a></li>
-              <li>🎛️ <a href="#-equalizers">Equalizers</a></li>
-              <li>🖼️ <a href="#-galleries">Galleries & Tools</a></li>
-              <li>📷 <a href="#-cameras">Cameras</a></li>
-              <li>🎙️ <a href="#-audio-recorders">Audio Recorders</a></li>
+              <li>📖 <a href="#-audiobook--misc">Audiobook & Misc.</a></li>
+              <li>🖥️ <a href="#%EF%B8%8F-media-servers">Media Servers</a></li>
+              <li>🎛️ <a href="#%EF%B8%8F-equalizers">Equalizers</a></li>
+              <li>🖼️ <a href="#%EF%B8%8F-gallery--tools">Galleries & Tools</a></li>
+              <li>📷 <a href="#-camera">Cameras</a></li>
+              <li>🎙️ <a href="#%EF%B8%8F-audio-recorders">Audio Recorders</a></li>
             </ul>
           </details>
         </li>
@@ -120,10 +120,10 @@
           <details>
             <summary>🧠 <a href="#-productivity--organization">Productivity & Organization</a></summary>
             <ul>
-              <li>📝 <a href="#-notestodowish-lists">Notes/To-do/Wish-lists</a></li>
+              <li>📝 <a href="#-notesto-dowish-lists">Notes/To-do/Wish-lists</a></li>
               <li>📖 <a href="#-readers">Readers (RSS, Manga, etc.)</a></li>
-              <li>🗓️ <a href="#-calendars">Calendars</a></li>
-              <li>⏱️ <a href="#-clockstimers">Clocks/Timers</a></li>
+              <li>🗓️ <a href="#%EF%B8%8F-calendar">Calendars</a></li>
+              <li>⏱️ <a href="#%EF%B8%8F-clockstimers">Clocks/Timers</a></li>
               <li>🔢 <a href="#-counters">Counters</a></li>
               <li>🧮 <a href="#-calculatorsunit-convertors">Calculators/Unit Convertors</a></li>
               <li>🎓 <a href="#-educationschool">Education/School</a></li>
@@ -135,13 +135,13 @@
             <summary>🧰 <a href="#-power-tools--utilities">Power Tools & Utilities</a></summary>
             <ul>
               <li>📁 <a href="#-file-explorers">File Explorers</a></li>
-              <li>🛍️ <a href="#-app-stores">App Stores</a></li>
+              <li>🛍️ <a href="#%EF%B8%8F-app-stores">App Stores</a></li>
               <li>📦 <a href="#-app-managers">App Managers</a></li>
               <li>💾 <a href="#-backup">Backup</a></li>
               <li>🧹 <a href="#-optimizercleaners">Optimizer/Cleaners</a></li>
               <li>🪛 <a href="#-adb-tools">ADB Tools</a></li>
               <li>📲 <a href="#-device-infomonitors">Device Info/Monitors</a></li>
-              <li>#️⃣ <a href="#-superuser-root">SuperUser (Root)</a></li>
+              <li>#️⃣ <a href="#%EF%B8%8F⃣-superuser-root">SuperUser (Root)</a></li>
               <li>🔬 <a href="#-scanners">Scanners</a></li>
               <li>🔦 <a href="#-flashlights">Flashlights</a></li>
             </ul>
@@ -153,9 +153,9 @@
             <ul>
               <li>🌐 <a href="#-browsers">Browsers</a></li>
               <li>🌎 <a href="#-vpnsproxies">VPNs/Proxies</a></li>
-              <li>⬇️ <a href="#-download-managers">Download Managers</a></li>
-              <li>🗺️ <a href="#-mapsnavigation">Maps/Navigation</a></li>
-              <li>🛰️ <a href="#-remotes-and-smart-devices">Remotes and Smart Devices</a></li>
+              <li>⬇️ <a href="#%EF%B8%8F-download-managers">Download Managers</a></li>
+              <li>🗺️ <a href="#%EF%B8%8F-mapsnavigation">Maps/Navigation</a></li>
+              <li>🛰️ <a href="#%EF%B8%8F-remotes-and-smart-devices">Remotes and Smart Devices</a></li>
             </ul>
           </details>
         </li>
@@ -166,7 +166,7 @@
               <li>🧑‍💻 <a href="#-textcode-editorside">Text/Code Editors/IDE</a></li>
               <li>📄 <a href="#-document-reader">Document Reader</a></li>
               <li>🧩 <a href="#-material-catalogs">Material Catalogs</a></li>
-              <li>🕹️ <a href="#-device-automation">Device Automation</a></li>
+              <li>🕹️ <a href="#%EF%B8%8F-device-automation">Device Automation</a></li>
               <li>🤖 <a href="#-artificial-intelligence-ai">Artificial Intelligence (AI)</a></li>
             </ul>
           </details>
@@ -175,10 +175,10 @@
           <details>
             <summary>🍏 <a href="#-health--lifestyle">Health & Lifestyle</a></summary>
             <ul>
-              <li>🧘‍♂️ <a href="#‍%EF%B8%8F-health--well-being">Health & Well-being</a></li>
+              <li>🧘‍♂️ <a href="#%EF%B8%8F-health--well-being">Health & Well-being</a></li>
               <li>🛒 <a href="#-shopping--household">Shopping & Household</a></li>
               <li>💸 <a href="#-economy">Economy</a></li>
-              <li>🌦️ <a href="#-weather">Weather</a></li>
+              <li>🌦️ <a href="#%EF%B8%8F-weather">Weather</a></li>
             </ul>
           </details>
         </li>
@@ -199,9 +199,9 @@
               <li>🪪 <a href="#-2fa">2FA</a></li>
               <li>🔑 <a href="#-password-manager">Password Manager</a></li>
               <li>🧱 <a href="#-firewallad-blocker">Firewall/Ad-blocker</a></li>
-              <li>🗳️ <a href="#-fileapp-encryption">File/App Encryption</a></li>
-              <li>⛓️‍💥 <a href="#-link-cleaners">Link Cleaners</a></li>
-              <li>🔧 <a href="#-miscellaneous">Miscellaneous</a></li>
+              <li>🗳️ <a href="#%EF%B8%8F-fileapp-encryption">File/App Encryption</a></li>
+              <li>⛓️‍💥 <a href="#%EF%B8%8F‍-link-cleaners">Link Cleaners</a></li>
+              <li>🔧 <a href="#-miscellaneous-1">Miscellaneous</a></li>
             </ul>
           </details>
         </li>
@@ -1562,7 +1562,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-### 🔧Miscellaneous Tools
+### 🔧 Miscellaneous Tools
 - `MDY` [Cavedroid](https://github.com/cyb3rko/cavedroid) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Cuberite](https://github.com/cuberite/android) <sup>`FOSS`</sup>
 - `MDY` [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) <sup>`FOSS`</sup>
