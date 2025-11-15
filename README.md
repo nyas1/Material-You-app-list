@@ -245,6 +245,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD3E` [PixelPlay](https://github.com/theovilardo/PixelPlay) <sup>`FOSS`</sup>
 - `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
 - `MDY` [Hungry Recipes](https://play.google.com/store/apps/details?id=luddosaurus.nom.hungry)
 - `MDY` [Speech Central](https://play.google.com/store/apps/details?id=com.labsiisoftware.speechcentral)
@@ -276,7 +277,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) <sup>`FOSS`</sup>
 - `MDY` [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) <sup>`FOSS`</sup>
 - `MDY` [Ampersand](https://github.com/NyaomiDEV/Ampersand) <sup>`FOSS`</sup>
-- `MDY` [AppListBackup](https://github.com/AndroidLabs-org/AppListBackup) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -640,6 +640,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
+- `MD3E` [PixelPlay](https://github.com/theovilardo/PixelPlay) <sup>`FOSS`</sup>
 - `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
