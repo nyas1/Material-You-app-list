@@ -245,6 +245,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MD3E` [PixelPlay](https://github.com/theovilardo/PixelPlay) <sup>`FOSS`</sup>
 - `MD3E` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
 - `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
@@ -651,6 +652,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### ▶️ Video Players
+- `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
 - `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sup>`FOSS`</sup>
