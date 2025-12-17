@@ -245,7 +245,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
-- `MDY` [Summary Expressive](https://github.com/kid1412621/SummaryExpressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Summary Expressive](https://github.com/kid1412621/SummaryExpressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [mpvEx](https://github.com/marlboro-advance/mpvEx) <sup>`FOSS`</sup>
 - `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer)  <sup>`FOSS`</sup>
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
@@ -272,7 +272,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [GitNex](https://codeberg.org/gitnex/GitNex) <sup>`FOSS`</sup>
 - `MDY` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
 - `MDY` [CoffeGram](https://github.com/phansier/Coffeegram) <sup>`FOSS`</sup>
-- `MDY` [DioHub - Dev](https://github.com/namanshergill/diohub) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1371,7 +1370,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Lumi AI](https://github.com/iamlooper/Lumi-AI)
 - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`FOSS`</sup>
 - `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
-	- `MDY` [Summary Expressive](https://github.com/kid1412621/SummaryExpressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MD3E` [Summary Expressive](https://github.com/kid1412621/SummaryExpressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Grok](https://play.google.com/store/apps/details?id=ai.x.grok)
 - `MDY` [RikkaHub](https://github.com/rikkahub/rikkahub) <sup>`FOSS`</sup>
 - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
