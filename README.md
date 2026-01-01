@@ -245,6 +245,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Github Store](https://github.com/rainxchzed/Github-Store) <sup>`FOSS`</sup>
 - `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Self Attendance](https://github.com/xtractiion/self.attendance)
 - `MD3E` [Summary Expressive](https://github.com/kid1412621/SummaryExpressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -268,8 +270,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Driftly](https://github.com/DP-Hridayan/Driftly) <sup>`FOSS`</sup>
 - `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) <sup>`FOSS`</sup>
 - `MDY` [Groovy](https://play.google.com/store/apps/details?id=com.bitmavrick.groovy)
-- `MDY` [Everplan](https://play.google.com/store/apps/details?id=com.bitmavrick.everplan)
-- `MDY` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
