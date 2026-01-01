@@ -245,6 +245,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Self Attendance](https://github.com/xtractiion/self.attendance)
 - `MD3E` [Summary Expressive](https://github.com/kid1412621/SummaryExpressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [mpvEx](https://github.com/marlboro-advance/mpvEx) <sup>`FOSS`</sup>
@@ -269,10 +270,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Groovy](https://play.google.com/store/apps/details?id=com.bitmavrick.groovy)
 - `MDY` [Everplan](https://play.google.com/store/apps/details?id=com.bitmavrick.everplan)
 - `MDY` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
-- `MDY` [Booming Music](https://github.com/mardous/BoomingMusic) <sup>`FOSS`</sup>
-- `MDY` [GitNex](https://codeberg.org/gitnex/GitNex) <sup>`FOSS`</sup>
-- `MDY` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
-- `MDY` [CoffeGram](https://github.com/phansier/Coffeegram) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
