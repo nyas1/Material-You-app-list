@@ -364,7 +364,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 🦋 **Bluesky**
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 
-### 🦤 Nostr
+#### 🦤 Nostr
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
 - `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 
