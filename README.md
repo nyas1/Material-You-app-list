@@ -63,6 +63,7 @@
                     <li>🐻‍❄️ <a href="#‍%EF%B8%8F-vk">VK</a></li>
                     <li>🎨 <a href="#-pixiv">Pixiv</a></li>
                     <li>🔐 <a href="#-signal">Signal</a></li>
+                    <li>🗣️ <a href="#-matrix">Matrix</a></li>
                     <li>🎥 <a href="#-twitch">Twitch</a></li>
                     <li>🦋 <a href="#-bluesky">Bluesky</a></li>
                   </ul>
@@ -246,6 +247,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [\< polycule \>](https://gitlab.com/polycule_client/polycule) <sup>`FOSS`</sup>
+- `MD` [Mages](https://github.com/mlm-games/Mages) <sup>`FOSS`</sup>
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 - `MDY` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Github Store](https://github.com/rainxchzed/Github-Store) <sup>`FOSS`</sup>
@@ -269,8 +272,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Piko for Twitter](https://github.com/crimera/twitter-apk) <sup>`FOSS`</sup>
 - `MDY` [Pixel Weather](https://www.apkmirror.com/apk/google-inc/pixel-weather/)
 - `MDY` [Athena](https://github.com/Kin69/Athena) <sup>`FOSS`</sup>
-- `MDY` [Driftly](https://github.com/DP-Hridayan/Driftly) <sup>`FOSS`</sup>
-- `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -356,6 +357,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
+#### 🗣️ **Matrix**
+- `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`FOSS`</sup>
+- `MDY` [\< polycule \>](https://gitlab.com/polycule_client/polycule) <sup>`FOSS`</sup>
+- `MD` [Mages](https://github.com/mlm-games/Mages) <sup>`FOSS`</sup>
+
 #### 🎥 **Twitch**
 - `MDY` [Xtra](https://github.com/crackededed/Xtra) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
@@ -364,7 +370,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 
 #### 🔧 **Miscellaneous**
-- `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`FOSS`</sup>
 - `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 - `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
 - `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
