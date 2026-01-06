@@ -64,6 +64,7 @@
                     <li>🎨 <a href="#-pixiv">Pixiv</a></li>
                     <li>🔐 <a href="#-signal">Signal</a></li>
                     <li>🎥 <a href="#-twitch">Twitch</a></li>
+					<li>🦤 <a href="#-nostr">Nostr</a></li>
                   </ul>
                 </details>
               </li>
