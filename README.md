@@ -64,7 +64,8 @@
                     <li>🎨 <a href="#-pixiv">Pixiv</a></li>
                     <li>🔐 <a href="#-signal">Signal</a></li>
                     <li>🎥 <a href="#-twitch">Twitch</a></li>
-					<li>🦤 <a href="#-nostr">Nostr</a></li>
+                    <li>🦋 <a href="#-bluesky">Bluesky</a></li>
+                    <li>🦤 <a href="#-nostr">Nostr</a></li>
                   </ul>
                 </details>
               </li>
@@ -246,6 +247,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 - `MDY` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Github Store](https://github.com/rainxchzed/Github-Store) <sup>`FOSS`</sup>
 - `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -270,7 +272,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Athena](https://github.com/Kin69/Athena) <sup>`FOSS`</sup>
 - `MDY` [Driftly](https://github.com/DP-Hridayan/Driftly) <sup>`FOSS`</sup>
 - `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) <sup>`FOSS`</sup>
-- `MDY` [Groovy](https://play.google.com/store/apps/details?id=com.bitmavrick.groovy)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -361,6 +362,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 🎥 **Twitch**
 - `MDY` [Xtra](https://github.com/crackededed/Xtra) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
+
+#### 🦋 **Bluesky**
+- `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 
 #### 🦤 Nostr
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
@@ -673,7 +677,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 	- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-	- `MDY` [Metrolist](https://github.com/mostafaalagamy/Metrolist) <sup>`FOSS`</sup>  <sup>`FORK`</sup>
+	- `MD3E` [Metrolist](https://github.com/mostafaalagamy/Metrolist) <sup>`FOSS`</sup>  <sup>`FORK`</sup>
 		- `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MY` [RiMusic](https://github.com/fast4x/RiMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup><sup>`FORK`</sup>
@@ -689,6 +693,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Jetispot](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🐡 Subsonic Clients
+- `MD3E` [Navic](https://github.com/paigely/Navic) <sup>`FOSS`</sup>
 - `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`FOSS`</sup>
 - `MDY` [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`FOSS`</sup>
 - `MDY` [Youamp](https://github.com/siper/Youamp) <sup>`FOSS`</sup>
@@ -836,9 +841,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 📝 Notes/To-do/Wish-lists
 - **Notes**
 	- `MD3E` [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
+    - `MD3E` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
 	- `MDY` [GoodNotes](https://github.com/xephosbot/GoodNotesCompose) <sup>`FOSS`</sup>
 	- `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`FOSS`</sup>
-    - `MDY` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
 	- `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 	- `MDY` [Saber](https://github.com/adil192/saber) <sup>`FOSS`</sup>
 	- `MDY` [Firenote](https://github.com/T8RIN/Firenote) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -863,6 +868,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Notify](https://github.com/aritra-tech/Notify)  <sup>`FOSS`</sup>
 - **Todo/Tasks**
 	- `MD3E` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
+    - `MD3E` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
 	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
 	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
 	- `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`FOSS`</sup> <sup>`🪦`</sup>
