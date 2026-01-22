@@ -690,6 +690,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Jetispot](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🐡 Subsonic Clients
+- `MD3E` [Navic](https://github.com/paigely/Navic) <sup>`FOSS`</sup>
 - `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`FOSS`</sup>
 - `MDY` [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`FOSS`</sup>
 - `MDY` [Youamp](https://github.com/siper/Youamp) <sup>`FOSS`</sup>
