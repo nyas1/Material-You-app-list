@@ -1323,7 +1323,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup>
 - `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) <sup>`FOSS`</sup>
-- `MDY` [Karbon](https://github.com/Xed-Editor/Xed-Editor) <sup>`FOSS`</sup>
+- `MDY` [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) <sup>`FOSS`</sup>
 - `MDY` [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) <sup>`FOSS`</sup>
 - `MDY` [Writer Pro](https://play.google.com/store/apps/details?id=com.alif.writer)
 - `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
