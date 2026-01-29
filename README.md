@@ -65,6 +65,7 @@
                     <li>🔐 <a href="#-signal">Signal</a></li>
                     <li>🎥 <a href="#-twitch">Twitch</a></li>
                     <li>🦋 <a href="#-bluesky">Bluesky</a></li>
+                    <li>🦤 <a href="#-nostr">Nostr</a></li>
                   </ul>
                 </details>
               </li>
@@ -299,6 +300,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
 - `MD` [Pachli](https://github.com/pachli/pachli-android) <sup>`FOSS`</sup>
+- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
 
 #### 🎮 **Discord**
 - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -353,8 +356,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 🔐 **Signal**
 - `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
-	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 
 #### 🎥 **Twitch**
 - `MDY` [Xtra](https://github.com/crackededed/Xtra) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -363,15 +366,17 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 🦋 **Bluesky**
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 
+#### 🦤 Nostr
+- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
+- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
+
 #### 🔧 **Miscellaneous**
 - `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`FOSS`</sup>
 - `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 - `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
 - `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
 - `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`FOSS`</sup>
 - `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup>
 - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
@@ -380,8 +385,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
-- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 - `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
