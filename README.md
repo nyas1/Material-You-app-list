@@ -318,10 +318,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [MyInsta](https://t.me/instasmashrepo)
 
 #### ✈️ **Telegram**
-- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 - `MDY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
 - `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup>
+- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram)
 - `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Nekogram](https://github.com/Nekogram/Nekogram) <sup>`FOSS`</sup>
 - `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
