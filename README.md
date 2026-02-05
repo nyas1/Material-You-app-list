@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="Stars Badge">
+  <a href="https://github.com/nyas1/Material-You-app-list">
+	  <img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="Stars Badge">
+  </a>
 </p>
 
 <p align="center">
