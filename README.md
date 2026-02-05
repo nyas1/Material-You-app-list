@@ -5,27 +5,27 @@
 </p>
 
 <p align="center">
-  <img src="images/material_you.png" alt="Material You">
+  <img src="images/material_you.png" alt="Material You"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/nyas1/Material-You-app-list">
-	  <img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="Stars Badge">
+	  <img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="Stars Badge"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://t.me/materialyouapps">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=A6C8FF&colorB=003060&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram">
+    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=A6C8FF&colorB=003060&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://t.me/materialyouappschat">
-    <img src="https://img.shields.io/endpoint?style=for-the-badge&colorA=DAB9FF&colorB=470084&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouappschat" alt="Telegram Chat">
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&colorA=DAB9FF&colorB=470084&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouappschat" alt="Telegram Chat"/>
   </a>
   <a href="https://discord.com/invite/JtUJTTuNW6">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FJtUJTTuNW6%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Discord%20Server&colorA=504976&colorB=DD9193&style=for-the-badge" alt="Discord">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FJtUJTTuNW6%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Discord%20Server&colorA=504976&colorB=DD9193&style=for-the-badge" alt="Discord"/>
   </a>
 </p>
 
