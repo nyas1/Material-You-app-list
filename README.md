@@ -261,6 +261,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MD3E` [PixelPlay](https://github.com/theovilardo/PixelPlay) <sup>`FOSS`</sup>
 - `MD3E` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
+- `MD3E` [TrenScan](https://play.google.com/store/apps/details?id=com.dflgpp.trenscan.trenscan&hl)
 - `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
 - `MDY` [Hungry Recipes](https://play.google.com/store/apps/details?id=luddosaurus.nom.hungry)
 - `MDY` [Speech Central](https://play.google.com/store/apps/details?id=com.labsiisoftware.speechcentral)
@@ -1531,6 +1532,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Overmorrow](https://github.com/bmaroti9/Overmorrow)  <sup>`FOSS`</sup>
 - `MD` [Rain](https://github.com/DarkMooNight/Rain) <sup>`FOSS`</sup>
 - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
+### ✈️ Travel
+- `MD3E` [TrenScan](https://play.google.com/store/apps/details?id=com.dflgpp.trenscan.trenscan&hl)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
