@@ -250,6 +250,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Searxist](https://codeberg.org/Linerly/searxist) <sup>`FOSS`</sup>
 - `MDY` [\< polycule \>](https://gitlab.com/polycule_client/polycule) <sup>`FOSS`</sup>
 - `MD` [Mages](https://github.com/mlm-games/Mages) <sup>`FOSS`</sup>
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
@@ -274,7 +275,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) <sup>`FOSS`</sup>
 - `MY` [Piko for Twitter](https://github.com/crimera/twitter-apk) <sup>`FOSS`</sup>
 - `MDY` [Pixel Weather](https://www.apkmirror.com/apk/google-inc/pixel-weather/)
-- `MDY` [Athena](https://github.com/Kin69/Athena) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1238,6 +1238,8 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
 	- `MD` [Omnivore](https://github.com/omnivore-app/omnivore)  <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [frigoligo](https://github.com/casimir/frigoligo)  <sup>`FOSS`</sup>
+- **Search Engines**
+	- `MDY` [Searxist](https://codeberg.org/Linerly/searxist) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
