@@ -1266,6 +1266,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MY` [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
 - **YouTube**
 	- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`FOSS`</sup>
+		- `MDY` [Seal Plus](https://github.com/MaheshTechnicals/Sealplus) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [YTDLnis](https://github.com/deniscerri/ytdlnis) <sup>`FOSS`</sup>
 - **Music**
 	- `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup>
