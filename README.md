@@ -1665,7 +1665,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ---
 ### 🔧 Miscellaneous
 - **Email Forwarding**
-	- `MDY` [AnonAddy](https://github.com/anonaddy/addy-android) <sup>`FOSS`</sup>
+	- `MDY` [addy.io](https://github.com/anonaddy/addy-android) <sup>`FOSS`</sup>
 - **Permission Managers**
 	- `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`FOSS`</sup>
 	- `MD` [Permission Pilot](https://github.com/d4rken-org/permission-pilot) <sup>`FOSS`</sup>
