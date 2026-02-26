@@ -691,7 +691,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MY` [RiMusic](https://github.com/fast4x/RiMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup><sup>`FORK`</sup>
 	- `MY` [ViTune](https://github.com/25huizengek1/ViTune) <sup>`FOSS`</sup> <sup>`🪦`</sup><sup>`FORK`</sup>
-- `MDY` [Vibe Music](https://github.com/sheikhhaziq/vibemusic) <sup>`FOSS`</sup>
+- `MDY` [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music) <sup>`FOSS`</sup>
 - `MDY` [Musify](https://github.com/gokadzev/Musify) <sup>`FOSS`</sup>
 - `MDY` [You Tune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`FOSS`</sup>
