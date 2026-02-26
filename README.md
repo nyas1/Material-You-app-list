@@ -866,7 +866,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Orgzly](https://github.com/orgzly/orgzly-android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 		- `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) <sup>`🪦`</sup>
-	- `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) <sup>`FOSS`</sup>
+	- `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) <sup>`🪦`</sup>
 	- `MDY` [FA Notes](https://play.google.com/store/apps/details?id=com.Fooks.Animations.and.Applications.Notes)
@@ -983,7 +983,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
 - `MD3E` [Cofi](https://github.com/rozPierog/Cofi) <sup>`FOSS`</sup>
 - `MDY` [MotoClock](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
-- `MDY` [Clock You](https://github.com/you-apps/ClockYou) <sup>`FOSS`</sup>
+- `MDY` [Clock You](https://github.com/you-apps/ClockYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Overload](https://github.com/pabloscloud/Overload) <sup>`FOSS`</sup>
 - `MDY` [AtomicClock](https://play.google.com/store/apps/details?id=partl.atomicclock)
 - `MD` [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch)
