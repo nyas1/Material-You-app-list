@@ -843,6 +843,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MY` [MotoAudioRecorder](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - **Miscellaneous**
 	- `MDY` [Audire](https://github.com/alexmercerind/audire) <sup>`FOSS`</sup>
+	- `MDY` [Audile](https://github.com/aleksey-saenko/MusicRecognizer) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
