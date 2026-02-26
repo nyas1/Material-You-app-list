@@ -888,12 +888,12 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
 	- `MD` [Mightyday](https://play.google.com/store/apps/details?id=com.edisoncal.edison)
 	- `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
-	- `MD` [ToDark](https://github.com/darkmoonight/ToDark) <sup>`FOSS`</sup>
+	- `MD` [Zest](https://github.com/darkmoonight/Zest) <sup>`FOSS`</sup>
 	- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
 - **Diary/Journal**
 	- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
-	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`FOSS`</sup>
+	- `MDY` [StoryPad](https://github.com/theachoem/storypad) <sup>`FOSS`</sup>
 	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
 	- `MDY` [Journal Pro](https://play.google.com/store/apps/details?id=com.alif.diary) <sup>`🪦`</sup>
 	- `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
