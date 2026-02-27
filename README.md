@@ -1137,6 +1137,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### 📲 Device Info/Monitors
+- `MD3E` [Traffic Light](https://github.com/leekleak/traffic-light) <sup>`FOSS`</sup>
 - `MDY` [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
 - `MDY` [YASNAC](https://github.com/RikkaW/YASNAC)  <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Internet Speed](https://play.google.com/store/apps/details?id=com.paget96.netspeedindicator)
