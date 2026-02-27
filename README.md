@@ -1081,6 +1081,8 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - **Play Store Clients**
 	- `MDY` [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <sup>`FOSS`</sup>
 - **Miscellaneous**
+	- `MD3E` [URV Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager)
+	- `MD3E` [Morphe Manager](https://github.com/MorpheApp/morphe-manager)
 	- `MDY` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`FOSS`</sup>
 	- `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`FOSS`</sup>
 	- `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) <sup>`FOSS`</sup> <sup>🪦</sup>
