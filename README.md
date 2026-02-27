@@ -1053,6 +1053,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ## 🧰 Power Tools & Utilities
 ### 📁 File Explorers
 - `MD3E` [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
+- `MD3E` [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 - `MDY` [Material Files](https://github.com/zhanghai/MaterialFiles) <sup>`FOSS`</sup>
 - `MDY` [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) <sup>`FOSS`</sup>
 - `MDY` [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) <sup>`FOSS`</sup>
