@@ -1224,7 +1224,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Bromite](https://github.com/bromite/bromite) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 		- `MDY` [Cromite](https://github.com/uazo/cromite) <sup>`FOSS`</sup>  <sup>`FORK`</sup>
 	- `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [Mulch](https://divestos.org/pages/our_apps#mulch) <sup>`FOSS`</sup>
+	- `MDY` [Mulch](https://divestos.org/pages/our_apps#mulch) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Mask Browser](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
  	- `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
 	- `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
@@ -1233,7 +1233,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [FOSS Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>`FOSS`</sup>
 	- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
 	- `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`FOSS`</sup>
-	- `MDY` [Styx](https://github.com/jamal2362/Styx) <sup>`FOSS`</sup>
+	- `MDY` [Styx](https://github.com/jamal2362/Styx) <sup>`FOSS`</sup> <sup>`🪦`</sup>
  	- `MDY` [Viola Browser](https://codeberg.org/TipzTeam/viola) <sup>`FOSS`</sup>
 - **Bookmark Managers/Read it later**
 	- `MDY` [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)  <sup>`FOSS`</sup>
