@@ -634,7 +634,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
 - `MD3E` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MDY` [Groovy](https://play.google.com/store/apps/details?id=com.bitmavrick.groovy)
-- `MDY` [Booming Music](https://github.com/mardous/BoomingMusic) <sup>`FOSS`</sup>
+- `MDY` [Booming Music](https://github.com/ProjectOrbital/BoomingMusic) <sup>`FOSS`</sup>
 - `MDY` [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup>
 	- `MDY` [Metro](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 	- `MDY` [Apex Music](https://play.google.com/store/apps/details?id=com.ttop.app.apex) <sup>`FORK`</sup> <sup>`🪦`</sup>
