@@ -250,6 +250,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [ANX Reader](https://github.com/Anxcye/anx-reader) <sup>`FOSS`</sup>
+- `MDY` [Muviz Widgets](https://play.google.com/store/apps/details?id=com.sparkine.widgets) <sup>`💰`</sup>
+- `MDY` [Video Player - Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
+- `MDY` [EON](https://play.google.com/store/apps/details?id=qijaz221.github.io.musicplayer)
+- `MDY` [Harmonoid](https://github.com/harmonoid/harmonoid) <sup>`FOSS`</sup>
+- `MDY` [SaTunes](https://codeberg.org/antoinepirlot/Satunes) <sup>`FOSS`</sup>
 - `MDY` [VIVI](https://github.com/vivizzz007/vivi-music) <sup>`FOSS`</sup>
 - `MD3E` [Tomato](https://github.com/nsh07/Tomato) <sup>`FOSS`</sup>
 - `MD` [Mint Calculator](https://github.com/boredcodebyk/mintcalc) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -611,6 +617,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MY` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`FOSS`</sup>
 - **Widgets/Shortcuts**
 	- `MDY` [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) <sup>`FOSS`</sup>
+	- `MDY` [Muviz Widgets](https://play.google.com/store/apps/details?id=com.sparkine.widgets) <sup>`💰`</sup>
 	- `MDY` [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget) <sup>`💰`</sup>
 	- `MDY` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) <sup>`💰`</sup>
 	- `MDY` [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker)
@@ -657,6 +664,9 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ---
 ## 🎬 Media & Entertainment
 #### 🎵 Music Players
+- `MDY` [SaTunes](https://codeberg.org/antoinepirlot/Satunes) <sup>`FOSS`</sup>
+- `MDY` [Harmonoid](https://github.com/harmonoid/harmonoid) <sup>`FOSS`</sup>
+- `MDY` [EON](https://play.google.com/store/apps/details?id=qijaz221.github.io.musicplayer)
 - `MD3E` [PixelPlayer](https://github.com/theovilardo/PixelPlayer) <sup>`FOSS`</sup>
 - `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
 - `MD3E` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
@@ -687,6 +697,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### ▶️ Video Players
+- `MDY` [Video Player - Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MD3E` [mpvEx](https://github.com/marlboro-advance/mpvEx) <sup>`FOSS`</sup>
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
@@ -955,6 +966,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ---
 ### 📖 Readers
 - **Manga/Novel/E-book Reader**
+	- `MDY` [ANX Reader](https://github.com/Anxcye/anx-reader) <sup>`FOSS`</sup>
 	- `MDY` [Tachiyomi](https://tachiyomi.org/news/2024-01-13-goodbye) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 		- `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup> <sup>`FORK`</sup>
