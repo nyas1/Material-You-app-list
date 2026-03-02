@@ -1,21 +1,20 @@
 name: Add app request
 description: Request adding a new app to the list
 title: "[APP] "
-labels:
-  - app request
+labels: ["app request"]
 body:
   - type: markdown
     attributes:
       value: |
         Please provide complete app details.
 
-        **Source URL priority (mandatory):**
-        1. If app is FOSS: provide **GitHub/GitLab/Codeberg** URL (preferred)
-        2. Otherwise: provide **Play Store** URL
-        3. Website/other links are fallback only
+        Source URL priority:
+        1) FOSS app: GitHub/GitLab/Codeberg URL
+        2) Otherwise: Play Store URL
+        3) Website/other links only as fallback
 
   - type: input
-    id: app-name
+    id: app_name
     attributes:
       label: App name
       placeholder: Example App
@@ -23,10 +22,9 @@ body:
       required: true
 
   - type: dropdown
-    id: app-type
+    id: app_type
     attributes:
       label: App type
-      description: Select one
       options:
         - FOSS
         - Proprietary
@@ -34,27 +32,20 @@ body:
       required: true
 
   - type: input
-    id: primary-url
+    id: source_url
     attributes:
-      label: Primary source URL (GitHub/GitLab/Codeberg for FOSS, else Play Store)
+      label: Primary source URL
+      description: GitHub/GitLab/Codeberg for FOSS, otherwise Play Store
       placeholder: https://github.com/owner/repo
     validations:
       required: true
 
-  - type: input
-    id: secondary-url
-    attributes:
-      label: Secondary URL (optional)
-      placeholder: https://play.google.com/store/apps/details?id=
-    validations:
-      required: false
-
-  - type: input
+  - type: textarea
     id: tags
     attributes:
       label: Tags (explicitly list all applicable)
-      description: Use comma-separated tags, e.g. MDY, FOSS, FORK
-      placeholder: MD3E, MDY, MD, MY, FOSS, FORK, MOD, 💰, 🪦
+      description: Include relevant tags such as MD3E, MDY, MD, MY, FOSS, FORK, MOD, 💰, 🪦
+      placeholder: MDY, FOSS
     validations:
       required: true
 
@@ -62,24 +53,14 @@ body:
     id: section
     attributes:
       label: Suggested section/subsection
-      placeholder: Example: 🌐 Social & Communication > 🟣 Pixelfed
+      placeholder: Social & Communication > Pixelfed
     validations:
       required: true
-
-  - type: textarea
-    id: notes
-    attributes:
-      label: Extra notes
-      placeholder: Any relevant details, current status, forks, etc.
-    validations:
-      required: false
 
   - type: checkboxes
     id: confirmation
     attributes:
       label: Confirmation
       options:
-        - label: I provided a GitHub/GitLab/Codeberg link for FOSS apps, or a Play Store URL for non-FOSS apps.
-          required: true
-        - label: I explicitly selected all applicable tags.
+        - label: I followed source URL priority and listed all applicable tags.
           required: true
