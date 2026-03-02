@@ -63,7 +63,7 @@ body:
         - https://github.com/owner/repo
         - https://play.google.com/store/apps/details?id=...
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: notes
