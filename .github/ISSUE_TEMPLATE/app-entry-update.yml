@@ -1,0 +1,84 @@
+name: Update existing app entry
+description: Request changes to an app already in the list
+title: "[UPDATE] "
+labels: ["update request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to request updates for apps already listed.
+
+        Examples:
+        - Theme tag update (e.g., MDY -> MD3E)
+        - Mark app as archived/unarchived
+        - Fix or replace links
+        - Badge/tag corrections
+
+  - type: input
+    id: app_name
+    attributes:
+      label: App name
+      placeholder: Example App
+    validations:
+      required: true
+
+  - type: input
+    id: current_entry_link
+    attributes:
+      label: Current README entry link (if available)
+      placeholder: https://github.com/nyas1/Material-You-app-list/blob/main/README.md#...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: update_type
+    attributes:
+      label: What needs to be updated?
+      options:
+        - label: Theme tag change (MD3E / MDY / MD / MY)
+        - label: Archived status change (🪦 add/remove)
+        - label: Link update (GitHub / Play Store / website)
+        - label: Badge/tag update (FOSS / FORK / MOD / 💰)
+        - label: Section/subsection move
+        - label: Other metadata correction
+
+  - type: textarea
+    id: requested_changes
+    attributes:
+      label: Requested change details
+      description: Be explicit about current value -> new value.
+      placeholder: |
+        - Theme tag: MDY -> MD3E
+        - Archived: add 🪦
+        - Link: old URL -> new URL
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / source URLs
+      description: Provide links that justify the change (release notes, repo, Play Store listing, official announcement).
+      placeholder: |
+        - https://github.com/owner/repo
+        - https://play.google.com/store/apps/details?id=...
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Extra notes (optional)
+      placeholder: Any extra context
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I confirmed this app already exists in the README.
+          required: true
+        - label: I provided clear before/after update details and source links.
+          required: true
