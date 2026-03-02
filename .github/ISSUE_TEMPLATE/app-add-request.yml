@@ -1,0 +1,103 @@
+name: Add app request
+description: Request adding a new app to the list
+title: "[APP] "
+labels:
+  - app request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide complete app details.
+
+        **Source URL priority (mandatory):**
+        1. If app is FOSS: provide **GitHub/GitLab/Codeberg** URL (preferred)
+        2. Otherwise: provide **Play Store** URL
+        3. Website/other links are fallback only
+
+  - type: input
+    id: app_name
+    attributes:
+      label: App name
+      placeholder: Example App
+    validations:
+      required: true
+
+  - type: dropdown
+    id: app_type
+    attributes:
+      label: App type
+      description: Select one
+      options:
+        - FOSS
+        - Proprietary
+    validations:
+      required: true
+
+  - type: input
+    id: github_url
+    attributes:
+      label: GitHub / GitLab / Codeberg URL (required for FOSS)
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: false
+
+  - type: input
+    id: playstore_url
+    attributes:
+      label: Play Store URL (highest priority for non-FOSS)
+      placeholder: https://play.google.com/store/apps/details?id=
+    validations:
+      required: false
+
+  - type: input
+    id: fallback_url
+    attributes:
+      label: Website/other URL (only if above are unavailable)
+      placeholder: https://example.com
+    validations:
+      required: false
+
+  - type: dropdown
+    id: tags
+    attributes:
+      label: Tags (select all applicable)
+      description: Explicitly mention all tags that apply
+      multiple: true
+      options:
+        - MD3E
+        - MDY
+        - MD
+        - MY
+        - FOSS
+        - FORK
+        - MOD
+        - 💰
+        - 🪦
+    validations:
+      required: true
+
+  - type: textarea
+    id: section
+    attributes:
+      label: Suggested section/subsection
+      placeholder: Example: 🌐 Social & Communication > 🟣 Pixelfed
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Extra notes
+      placeholder: Any relevant details, current status, forks, etc.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I provided a GitHub/GitLab/Codeberg link for FOSS apps, or a Play Store URL for non-FOSS apps.
+          required: true
+        - label: I explicitly selected all applicable tags.
+          required: true
