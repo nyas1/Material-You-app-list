@@ -40,14 +40,20 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: checkboxes
     id: tags
     attributes:
-      label: Tags (explicitly list all applicable)
-      description: Include relevant tags such as MD3E, MDY, MD, MY, FOSS, FORK, MOD, 💰, 🪦
-      placeholder: MDY, FOSS
-    validations:
-      required: true
+      label: Tags (select all that apply)
+      options:
+        - label: MD3E
+        - label: MDY
+        - label: MD
+        - label: MY
+        - label: FOSS
+        - label: FORK
+        - label: MOD
+        - label: 💰
+        - label: 🪦
 
   - type: textarea
     id: section
@@ -62,5 +68,5 @@ body:
     attributes:
       label: Confirmation
       options:
-        - label: I followed source URL priority and listed all applicable tags.
+        - label: I followed source URL priority and selected all applicable tags.
           required: true
