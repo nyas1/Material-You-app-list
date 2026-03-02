@@ -1,7 +1,7 @@
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 
 <p align="center">
-  <i><b>Material You</b> (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.</i>
+  <i><b>Material You</b> (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, colors, icons, and more.</i>
 </p>
 
 <p align="center">
@@ -251,11 +251,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 - `MD3E` [VerveDo](https://github.com/Super12138/VerveDo) <sup>`FOSS`</sup>
+- `MDY` [FUTO Keyboard](https://keyboard.futo.org/) <sup>`FOSS`</sup>
 - `MDY` [Searxist](https://codeberg.org/Linerly/searxist) <sup>`FOSS`</sup>
 - `MDY` [\< polycule \>](https://gitlab.com/polycule_client/polycule) <sup>`FOSS`</sup>
 - `MD` [Mages](https://github.com/mlm-games/Mages) <sup>`FOSS`</sup>
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
-- `MDY` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Github Store](https://github.com/rainxchzed/Github-Store) <sup>`FOSS`</sup>
 - `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Self Attendance](https://github.com/xtractiion/self.attendance)
@@ -263,8 +264,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [mpvEx](https://github.com/marlboro-advance/mpvEx) <sup>`FOSS`</sup>
 - `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer)  <sup>`FOSS`</sup>
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
-- `MD3E` [PixelPlay](https://github.com/theovilardo/PixelPlay) <sup>`FOSS`</sup>
+- `MD3E` [PixelPlayer](https://github.com/theovilardo/PixelPlayer) <sup>`FOSS`</sup>
 - `MD3E` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
+- `MD3E` [TrenScan](https://play.google.com/store/apps/details?id=com.dflgpp.trenscan.trenscan&hl)
 - `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
 - `MDY` [Hungry Recipes](https://play.google.com/store/apps/details?id=luddosaurus.nom.hungry)
 - `MDY` [Speech Central](https://play.google.com/store/apps/details?id=com.labsiisoftware.speechcentral)
@@ -275,7 +277,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [RvKernel Manager](https://github.com/Rve27/RvKernel-Manager) <sup>`FOSS`</sup>
 - `MD3E` [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) <sup>`FOSS`</sup>
 - `MY` [Piko for Twitter](https://github.com/crimera/twitter-apk) <sup>`FOSS`</sup>
-- `MDY` [Pixel Weather](https://www.apkmirror.com/apk/google-inc/pixel-weather/)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -524,6 +525,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### ⌨️ Keyboards
+- `MDY` [FUTO Keyboard](https://keyboard.futo.org/) <sup>`FOSS`</sup>
 - `MDY` [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard) <sup>`FOSS`</sup>
 - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 - `MDY` [HeliBoard](https://github.com/Helium314/HeliBoard) <sup>`FOSS`</sup>
@@ -649,7 +651,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MD3E` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
-- `MD3E` [PixelPlay](https://github.com/theovilardo/PixelPlay) <sup>`FOSS`</sup>
+- `MD3E` [PixelPlayer](https://github.com/theovilardo/PixelPlayer) <sup>`FOSS`</sup>
 - `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
@@ -1541,6 +1543,12 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
+---
+### ✈️ Travel
+- `MD3E` [TrenScan](https://play.google.com/store/apps/details?id=com.dflgpp.trenscan.trenscan&hl)
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
 ## 🎮 Games & Emulators
 ### 🎮 Games
 - `MDY` [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) <sup>`FOSS`</sup>
@@ -1727,7 +1735,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Insigno](https://github.com/MindsHub/insigno_frontend) <sup>`FOSS`</sup>
 - `MDY` [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) <sup>`FOSS`</sup>
 - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MD3E` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [PI](https://github.com/SanmerApps/PI) <sup>`FOSS`</sup>
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
