@@ -250,6 +250,19 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
+- `MDY` [Seal Plus](https://github.com/MaheshTechnicals/Sealplus) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Kori](https://github.com/YangDai2003/Kori) <sup>`FOSS`</sup>
+- `MDY` [Audile](https://github.com/aleksey-saenko/MusicRecognizer) <sup>`FOSS`</sup>
+- `MDY` [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) <sup>`FOSS`</sup>
+- `MDY` [Boundo](https://github.com/cliuff/boundo) <sup>`FOSS`</sup>
+- `MD3E` [Traffic Light](https://github.com/leekleak/traffic-light) <sup>`FOSS`</sup>
+- `MD3E` [Google Journal](https://play.google.com/store/apps/details?id=com.google.android.apps.pixel.aurelius)
+- `MD3E` [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) <sup>`💰`</sup>
+- `MD3E` [URV Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) <sup>`FOSS`</sup>
+- `MD3E` [Morphe Manager](https://github.com/MorpheApp/morphe-manager) <sup>`FOSS`</sup>
+- `MD` [Orion Store](https://github.com/RookieEnough/Orion-Store) <sup>`FOSS`</sup>
 - `MD3E` [VerveDo](https://github.com/Super12138/VerveDo) <sup>`FOSS`</sup>
 - `MDY` [FUTO Keyboard](https://keyboard.futo.org/) <sup>`FOSS`</sup>
 - `MDY` [Searxist](https://codeberg.org/Linerly/searxist) <sup>`FOSS`</sup>
@@ -1828,5 +1841,3 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ## 🔧 Tools Used
 - [✍️ StackEdit](https://stackedit.io/)
 - [📜 DocToc](https://github.com/thlorenz/doctoc)
-
-
