@@ -1,0 +1,43 @@
+name: General issue / suggestion
+description: Suggestions, corrections, or general questions
+title: "[GENERAL] "
+labels: ["general"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for non-app-add and non-app-update topics.
+
+  - type: checkboxes
+    id: category
+    attributes:
+      label: Category (select all that apply)
+      options:
+        - label: Suggestion / improvement
+        - label: Report incorrect info in README
+        - label: General question
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain clearly what you want to suggest/report/ask.
+      placeholder: Describe the issue or suggestion in detail.
+    validations:
+      required: true
+
+  - type: input
+    id: relevant_link
+    attributes:
+      label: Relevant link (optional)
+      placeholder: https://github.com/nyas1/Material-You-app-list/blob/main/README.md#...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I used this template only for general/suggestion topics.
+          required: true
