@@ -15,7 +15,7 @@ body:
         3. Website/other links are fallback only
 
   - type: input
-    id: app_name
+    id: app-name
     attributes:
       label: App name
       placeholder: Example App
@@ -23,7 +23,7 @@ body:
       required: true
 
   - type: dropdown
-    id: app_type
+    id: app-type
     attributes:
       label: App type
       description: Select one
@@ -34,45 +34,27 @@ body:
       required: true
 
   - type: input
-    id: github_url
+    id: primary-url
     attributes:
-      label: GitHub / GitLab / Codeberg URL (required for FOSS)
+      label: Primary source URL (GitHub/GitLab/Codeberg for FOSS, else Play Store)
       placeholder: https://github.com/owner/repo
     validations:
-      required: false
+      required: true
 
   - type: input
-    id: playstore_url
+    id: secondary-url
     attributes:
-      label: Play Store URL (highest priority for non-FOSS)
+      label: Secondary URL (optional)
       placeholder: https://play.google.com/store/apps/details?id=
     validations:
       required: false
 
   - type: input
-    id: fallback_url
-    attributes:
-      label: Website/other URL (only if above are unavailable)
-      placeholder: https://example.com
-    validations:
-      required: false
-
-  - type: dropdown
     id: tags
     attributes:
-      label: Tags (select all applicable)
-      description: Explicitly mention all tags that apply
-      multiple: true
-      options:
-        - MD3E
-        - MDY
-        - MD
-        - MY
-        - FOSS
-        - FORK
-        - MOD
-        - 💰
-        - 🪦
+      label: Tags (explicitly list all applicable)
+      description: Use comma-separated tags, e.g. MDY, FOSS, FORK
+      placeholder: MD3E, MDY, MD, MY, FOSS, FORK, MOD, 💰, 🪦
     validations:
       required: true
 
