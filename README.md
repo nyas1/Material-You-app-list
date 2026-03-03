@@ -1,9 +1,4 @@
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
-
-<p align="center">
-  <i><b>Material You</b> (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, colors, icons, and more.</i>
-</p>
-
 <p align="center">
   <img src="images/material_you.png" alt="Material You"/>
 </p>
