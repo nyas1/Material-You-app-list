@@ -3,6 +3,10 @@
   <img src="images/material_you.png" alt="Material You"/>
 </p>
 
+<h2 align="center">
+	<a href="https://myal.vercel.app"><strong>🌐 Visit the all new website! 🌐</strong></a>
+</h2>
+
 <p align="center">
   <a href="https://github.com/nyas1/Material-You-app-list">
 	  <img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="Stars Badge"/>
