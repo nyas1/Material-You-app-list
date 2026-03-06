@@ -293,9 +293,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🕊️ **X (Twitter)**
-- `MDY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
+- `MDY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [QuaX](https://github.com/Teskann/QuaX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Focust](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
-- `MD` [Squawker](https://github.com/j-fbriere/squawker) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD` [Squawker](https://github.com/j-fbriere/squawker) <sup>`FOSS`</sup>
 - `MY` [Piko for Twitter](https://github.com/crimera/twitter-apk) <sup>`FOSS`</sup>
 - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) <sup>`🪦`</sup>
