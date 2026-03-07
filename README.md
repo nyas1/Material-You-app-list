@@ -1110,6 +1110,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) <sup>`FOSS`</sup> <sup>🪦</sup>
 	- `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`FOSS`</sup> <sup>`🪦`</sup>
  		- `MDY` [Bunny Manager](https://github.com/pyoncord/BunnyManager) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
+			- `MDY` [Revenge Manager](https://github.com/revenge-mod/revenge-manager) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Accrescent](https://github.com/accrescent/accrescent) <sup>`FOSS`</sup>
 	- `MDY` [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) <sup>`FOSS`</sup>
  	- `MDY` [APK Updater](https://github.com/rumboalla/apkupdater) <sup>`FOSS`</sup>
