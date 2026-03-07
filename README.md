@@ -278,7 +278,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) <sup>`FOSS`</sup>
 - `MDY` [Boundo](https://github.com/cliuff/boundo) <sup>`FOSS`</sup>
 - `MD3E` [Traffic Light](https://github.com/leekleak/traffic-light) <sup>`FOSS`</sup>
-- `MD3E` [Google Journal](https://play.google.com/store/apps/details?id=com.google.android.apps.pixel.aurelius)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
