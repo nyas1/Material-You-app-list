@@ -105,7 +105,7 @@
                     <li>🎶 <a href="#-youtube-music-clients">YouTube Music</a></li>
                     <li>🟢 <a href="#-spotify-clients">Spotify</a></li>
                     <li>🐡 <a href="#-subsonic-clients">Subsonic</a></li>
-                    <li>🔧 <a href="#misc">Miscellaneous (Anime, etc.)</a></li>
+					<li>🔧 <a href="#-miscellaneous-anime-etc">Miscellaneous (Anime, etc.)</a></li>
                   </ul>
                 </details>
               </li>
@@ -216,7 +216,6 @@
 </ul>
 <ul>
   <li>🪢 <a href="#-sources">Sources</a></li>
-  <li>🔧 <a href="#-tools-used">Tools Used</a></li>
 </ul>
 
 ---
@@ -249,6 +248,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [Revenge Manager](https://github.com/revenge-mod/revenge-manager) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [QuaX](https://github.com/Teskann/QuaX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Pixelix](https://github.com/ghostbyte-dev/pixelix) <sup>`FOSS`</sup>
 - `MDY` [KashCal](https://github.com/KashCal/KashCal/) <sup>`FOSS`</sup>
 - `MDY` [Material Download Manager](https://play.google.com/store/apps/details?id=com.akira.mdm)
@@ -278,7 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Boundo](https://github.com/cliuff/boundo) <sup>`FOSS`</sup>
 - `MD3E` [Traffic Light](https://github.com/leekleak/traffic-light) <sup>`FOSS`</sup>
 - `MD3E` [Google Journal](https://play.google.com/store/apps/details?id=com.google.android.apps.pixel.aurelius)
-- `MD3E` [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) <sup>`💰`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -293,7 +293,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🕊️ **X (Twitter)**
-- `MDY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Quacker](https://github.com/witchfindertr/Quacker) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [QuaX](https://github.com/Teskann/QuaX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Focust](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
 - `MD` [Squawker](https://github.com/j-fbriere/squawker) <sup>`FOSS`</sup> <sup>`🪦`</sup>
