@@ -285,11 +285,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 👥 Social Media
 #### 🧠 **Reddit**
 *How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/Reddit-Client-ID-Guide.md)!
-- `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/) <sup>`🪦`</sup>
-- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
-- `MDY` [Boost for Reddit](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/) <sup>`🪦`</sup>
 - `MDY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
 	- `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
+- `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/) <sup>`🪦`</sup>
+- `MDY` [Boost for Reddit](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/) <sup>`🪦`</sup>
 
 #### 🕊️ **X (Twitter)**
 - `MDY` [Quacker](https://github.com/witchfindertr/Quacker) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -303,11 +303,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 🐘 **Mastodon**
 - `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Focus for Mastodon](https://github.com/allentown521/FocusMastodon) <sup>`FOSS`</sup>
-- `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
+- `MDY` [Focus for Mastodon](https://github.com/allentown521/FocusMastodon) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) <sup>`🪦`</sup>
 - `MD` [Pachli](https://github.com/pachli/pachli-android) <sup>`FOSS`</sup>
 
 #### 🎮 **Discord**
