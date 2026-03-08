@@ -248,6 +248,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Essentials](https://github.com/sameerasw/essentials) <sup>`FOSS`</sup>
 - `MD3E` [AirSync](https://github.com/sameerasw/airsync-android) <sup>`FOSS`</sup>
 - `MDY` [Revenge Manager](https://github.com/revenge-mod/revenge-manager) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [QuaX](https://github.com/Teskann/QuaX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -277,7 +278,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Kori](https://github.com/YangDai2003/Kori) <sup>`FOSS`</sup>
 - `MDY` [Audile](https://github.com/aleksey-saenko/MusicRecognizer) <sup>`FOSS`</sup>
 - `MDY` [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) <sup>`FOSS`</sup>
-- `MDY` [Boundo](https://github.com/cliuff/boundo) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1728,6 +1728,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### 🔧 Uncategorized Tools
+- `MD3E` [Essentials](https://github.com/sameerasw/essentials) <sup>`FOSS`</sup>
 - `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [GitNex](https://codeberg.org/gitnex/GitNex) <sup>`FOSS`</sup>
 - `MDY` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
