@@ -301,11 +301,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) <sup>`🪦`</sup>
 
 #### 🐘 **Mastodon**
-- `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
-- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
-- `MDY` [Focus for Mastodon](https://github.com/allentown521/FocusMastodon) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 - `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Focus for Mastodon](https://github.com/allentown521/FocusMastodon) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) <sup>`🪦`</sup>
 - `MD` [Pachli](https://github.com/pachli/pachli-android) <sup>`FOSS`</sup>
@@ -316,8 +316,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/LampDelivery/Materii) OR [`#2`](
 https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedrice/MatuNight)</sup>
 - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🪦`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme)</sup>
-	- `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup>
-	- `MY` [Bunny](https://github.com/pyoncord/Bunny) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MY` [Bunny](https://github.com/pyoncord/Bunny) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 
 #### 📸 **Instagram**
 - `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🪦`</sup>
