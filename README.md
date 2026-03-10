@@ -354,9 +354,9 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MD` [WA Tweaker](https://watweaker.com/)
 
 #### 🐻‍❄️ **VK**
-- `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
+- `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup>
 - `MY` [VK Equals](https://t.me/vkequals)
+- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🎨 **Pixiv**
 - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
@@ -383,9 +383,9 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 #### 🦋 **Bluesky**
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 
-#### 🦤 Nostr
-- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
+#### 🦤 **Nostr**
 - `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
+- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🔧 **Miscellaneous**
 - `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
