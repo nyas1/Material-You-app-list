@@ -408,8 +408,8 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ### 📞 Communication
 - **Contacts**
 	- `MD3E` [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
-	- `MDY` [Fossify Contacts](https://github.com/FossifyOrg/Contacts) <sup>`FOSS`</sup>
 	- `MDY` [Connect You](https://github.com/you-apps/ConnectYou) <sup>`FOSS`</sup>
+	- `MDY` [Fossify Contacts](https://github.com/FossifyOrg/Contacts) <sup>`FOSS`</sup>
 	- `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts) <sup>`FOSS`</sup>
 - **Dialer**
 	- `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
