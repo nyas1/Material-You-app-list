@@ -453,14 +453,14 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### 👁️‍🗨️ Accessibility
-- `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
-- `MDY` [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader)
-- `MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
-- `MDY` [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber)
 - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
 - `MDY` [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit)
+- `MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
 - `MDY` [Speech Central](https://play.google.com/store/apps/details?id=com.labsiisoftware.speechcentral)
+- `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
+- `MDY` [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber)
+- `MDY` [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader) <sup>`🪦`</sup>
 - `MD` [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
