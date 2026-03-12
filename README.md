@@ -412,18 +412,18 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Fossify Contacts](https://github.com/FossifyOrg/Contacts) <sup>`FOSS`</sup>
 	- `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts) <sup>`FOSS`</sup>
 - **Dialer**
-	- `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 	- `MD3E` [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) <sup>`FOSS`</sup>
-	- `MDY` [MotoDialer](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
-	- `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup>
+  	- `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+  	- `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) <sup>`FOSS`</sup>
 	- `MDY` [Right Dialer](https://play.google.com/store/apps/details?id=com.goodwy.dialer) <sup>`FOSS`</sup>
-	- `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) <sup>`FOSS`</sup>
+	- `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [MotoDialer](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 	- `MY` [Octavi Dialer](https://www.pling.com/p/1571900) <sup>`PORT`</sup>
 - **SMS Messenger**
 	- `MD3E` [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
-	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
+ 	- `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) <sup>`FOSS`</sup>
 	- `MDY` [Right Messages](https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger) <sup>`FOSS`</sup>
-	- `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) <sup>`FOSS`</sup>
+	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - **Voicemail**
 	- `MDY` [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
 
