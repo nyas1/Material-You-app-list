@@ -433,8 +433,8 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ### 📧 Email Clients
 - `MD3E` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
-- `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
+- `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
 - `MD` [Thunderbird](https://github.com/thunderbird/thunderbird-android)  <sup>`FOSS`</sup>
 - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
 
