@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
 - `MDY` [DosesPro - GLP-1 Tracker](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
+- `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 - `MD3E` [Gumroad Stats](https://github.com/sameerasw/GumroadStats) <sup>`FOSS`</sup>
 - `MD3E` [Canvas](https://github.com/sameerasw/canvas) <sup>`FOSS`</sup>
 - `MD3E` [Essentials](https://github.com/sameerasw/essentials) <sup>`FOSS`</sup>
@@ -277,8 +278,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [LoveAlarm](https://github.com/harsh251004/LoveAlarm)
 - `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
-- `MDY` [Seal Plus](https://github.com/MaheshTechnicals/Sealplus) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [Kori](https://github.com/YangDai2003/Kori) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -338,14 +337,14 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🐭 **Lemmy**
-- `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
 - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
 - `MDY` [Raccoon for Lemmy](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) <sup>`FOSS`</sup>
-- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
-- `MDY` [Boost for Lemmy](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy)
 - `MDY` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
-- `MDY` [Eternity for Lemmy](https://codeberg.org/Bazsalanszky/Eternity) <sup>`FOSS`</sup>
-- `MD` [Summit for Lemmy](https://github.com/idunnololz/summit-for-lemmy) <sup>`FOSS`</sup>
+- `MDY` [Boost for Lemmy](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy)
+- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
+- `MDY` [Eternity for Lemmy](https://codeberg.org/Bazsalanszky/Eternity) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync) <sup>`🪦`</sup>
+- `MD` [Summit for Lemmy](https://github.com/idunnololz/summit-for-lemmy) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 💬 **Whatsapp**
 - `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) <sup>`⚠️Requires Additional Setup:`[`#1`](https://t.me/MaterialYouApps/217)</sup>
@@ -355,9 +354,9 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MD` [WA Tweaker](https://watweaker.com/)
 
 #### 🐻‍❄️ **VK**
-- `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
+- `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup>
 - `MY` [VK Equals](https://t.me/vkequals)
+- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🎨 **Pixiv**
 - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
@@ -384,22 +383,22 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 #### 🦋 **Bluesky**
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 
-#### 🦤 Nostr
-- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
+#### 🦤 **Nostr**
 - `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
+- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🔧 **Miscellaneous**
-- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
-- `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
-- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup>
-- `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
-- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
-- `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
+- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
+- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) <sup>`🪦`</sup>
 - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
@@ -409,22 +408,22 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ### 📞 Communication
 - **Contacts**
 	- `MD3E` [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
-	- `MDY` [Fossify Contacts](https://github.com/FossifyOrg/Contacts) <sup>`FOSS`</sup>
 	- `MDY` [Connect You](https://github.com/you-apps/ConnectYou) <sup>`FOSS`</sup>
+	- `MDY` [Fossify Contacts](https://github.com/FossifyOrg/Contacts) <sup>`FOSS`</sup>
 	- `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts) <sup>`FOSS`</sup>
 - **Dialer**
-	- `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 	- `MD3E` [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) <sup>`FOSS`</sup>
-	- `MDY` [MotoDialer](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
-	- `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup>
+  	- `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+  	- `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) <sup>`FOSS`</sup>
 	- `MDY` [Right Dialer](https://play.google.com/store/apps/details?id=com.goodwy.dialer) <sup>`FOSS`</sup>
-	- `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) <sup>`FOSS`</sup>
+	- `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [MotoDialer](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 	- `MY` [Octavi Dialer](https://www.pling.com/p/1571900) <sup>`PORT`</sup>
 - **SMS Messenger**
 	- `MD3E` [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
-	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
+ 	- `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) <sup>`FOSS`</sup>
 	- `MDY` [Right Messages](https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger) <sup>`FOSS`</sup>
-	- `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) <sup>`FOSS`</sup>
+	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - **Voicemail**
 	- `MDY` [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
 
@@ -434,8 +433,8 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ### 📧 Email Clients
 - `MD3E` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
-- `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
+- `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
 - `MD` [Thunderbird](https://github.com/thunderbird/thunderbird-android)  <sup>`FOSS`</sup>
 - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
 
@@ -445,23 +444,23 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ### 🈸 Translators
 - `MD3E` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 - `MDY` [Translate You](https://github.com/you-apps/TranslateYou) <sup>`FOSS`</sup>
-- `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) <sup>`FOSS`</sup>
-- `MDY` [Monocles Translator](https://codeberg.org/Arne/monocles_translator) <sup>`FOSS`</sup>
-- `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`FOSS`</sup>
+- `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Monocles Translator](https://codeberg.org/Arne/monocles_translator) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Instant Translate on Screen](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ### 👁️‍🗨️ Accessibility
-- `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
-- `MDY` [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader)
-- `MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
-- `MDY` [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber)
 - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
 - `MDY` [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit)
+- `MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
 - `MDY` [Speech Central](https://play.google.com/store/apps/details?id=com.labsiisoftware.speechcentral)
+- `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
+- `MDY` [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber)
+- `MDY` [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader) <sup>`🪦`</sup>
 - `MD` [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -717,6 +716,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 #### 🟢 Spotify Clients
 - `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Jetispot](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 
 #### 🐡 Subsonic Clients
 - `MD3E` [Navic](https://github.com/paigely/Navic) <sup>`FOSS`</sup>
