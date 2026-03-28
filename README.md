@@ -256,7 +256,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [June](https://github.com/DenserMeerkat/June) <sup>`FOSS`</sup>
 - `MD` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) <sup>`FOSS`</sup>
 - `MDY` [vFlow](https://github.com/Chaomixian/vFlow) <sup>`FOSS`</sup>
-- `MDY` [DosesPro - GLP-1 Tracker](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
+- `MDY` [DosesPro](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 - `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 - `MD3E` [Gumroad Stats](https://github.com/sameerasw/GumroadStats) <sup>`FOSS`</sup>
 - `MD3E` [Canvas](https://github.com/sameerasw/canvas) <sup>`FOSS`</sup>
