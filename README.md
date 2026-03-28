@@ -248,6 +248,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [DosesPro - GLP-1 Tracker](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 - `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 - `MD3E` [Gumroad Stats](https://github.com/sameerasw/GumroadStats) <sup>`FOSS`</sup>
 - `MD3E` [Canvas](https://github.com/sameerasw/canvas) <sup>`FOSS`</sup>
@@ -277,7 +278,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [LoveAlarm](https://github.com/harsh251004/LoveAlarm)
 - `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
-- `MDY` [Seal Plus](https://github.com/MaheshTechnicals/Sealplus) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1478,6 +1478,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - **Screen Time**
 	- `MD3E` [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
 - **Medicine Reminder**
+	- `MDY` [DosesPro - GLP-1 Tracker](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 	- `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App) <sup>`FOSS`</sup>
 	- `MDY` [MedTimer](https://github.com/Futsch1/medTimer)  <sup>`FOSS`</sup>
 	- `MD` [MediTrak](https://github.com/AdamGuidarini/MediTrak)  <sup>`FOSS`</sup>
