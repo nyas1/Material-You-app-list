@@ -646,7 +646,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MD3E` [Dustvalve Next](https://github.com/Pingasmaster/dustvalve_next) <sup>`FOSS`</sup>
 - `MD3E` [PixelPlayer](https://github.com/theovilardo/PixelPlayer) <sup>`FOSS`</sup>
 - `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
-- `MD3E` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
+- `MD3E` [Chocola](https://github.com/sosauce/Chocola) <sup>`FOSS`</sup>
 - `MDY` [SaTunes](https://codeberg.org/antoinepirlot/Satunes) <sup>`FOSS`</sup>
 - `MDY` [Harmonoid](https://github.com/harmonoid/harmonoid) <sup>`FOSS`</sup>
 - `MDY` [EON](https://play.google.com/store/apps/details?id=qijaz221.github.io.musicplayer)
@@ -1034,7 +1034,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ### 🧮 Calculators/Unit Convertors
 - `MY` [Calculite PWA](https://github.com/ingStudiosOfficial/calculite) <sup>`FOSS`</sup>
 - `MD3E` [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
-- `MD3E` [CuteCalc](https://github.com/sosauce/CuteCalc) <sup>`FOSS`</sup>
+- `MD3E` [Vanilla](https://github.com/sosauce/Vanilla) <sup>`FOSS`</sup>
 - `MDY` [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [OpenCalc](https://github.com/Darkempire78/OpenCalc) <sup>`FOSS`</sup>
 - `MDY` [zCalc](https://github.com/ziadOUA/zCalc) <sup>`FOSS`</sup> <sup>`🪦`</sup>
