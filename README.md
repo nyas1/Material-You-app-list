@@ -249,6 +249,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MY` [DisCorkie](https://play.google.com/store/apps/details?id=dev.appoutlet.DisCorkie)
 - `MD3E` [Dustvalve Next](https://github.com/Pingasmaster/dustvalve_next) <sup>`FOSS`</sup>
 - `MD3E` [Examduler PWA](https://github.com/ingStudiosOfficial/examduler) <sup>`FOSS`</sup>
 - `MY` [Calculite PWA](https://github.com/ingStudiosOfficial/calculite) <sup>`FOSS`</sup>
@@ -276,9 +278,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [EON](https://play.google.com/store/apps/details?id=qijaz221.github.io.musicplayer)
 - `MDY` [Harmonoid](https://github.com/harmonoid/harmonoid) <sup>`FOSS`</sup>
 - `MDY` [SaTunes](https://codeberg.org/antoinepirlot/Satunes) <sup>`FOSS`</sup>
-- `MDY` [VIVI](https://github.com/vivizzz007/vivi-music) <sup>`FOSS`</sup>
-- `MD3E` [Tomato](https://github.com/nsh07/Tomato) <sup>`FOSS`</sup>
-- `MD` [Mint Calculator](https://github.com/boredcodebyk/mintcalc) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD3E` [VIVI](https://github.com/vivizzz007/vivi-music) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -402,6 +402,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) <sup>`🪦`</sup>
 - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MY` [DisCorkie](https://play.google.com/store/apps/details?id=dev.appoutlet.DisCorkie)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -536,6 +537,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard) <sup>`FOSS`</sup>
 - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 - `MDY` [HeliBoard](https://github.com/Helium314/HeliBoard) <sup>`FOSS`</sup>
+	- `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
 - `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`FOSS`</sup>
 - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
@@ -698,7 +700,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 #### 🎶 Youtube Music Clients
 - `MD3E` [Umihi Music](https://github.com/ilianoKokoro/umihi-music) <sup>`FOSS`</sup>
-- `MDY` [VIVI](https://github.com/vivizzz007/vivi-music) <sup>`FOSS`</sup>
+- `MD3E` [VIVI](https://github.com/vivizzz007/vivi-music) <sup>`FOSS`</sup>
 - `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) <sup>`FOSS`</sup>
 - `MDY` [OpenTune](https://github.com/Arturo254/OpenTune) <sup>`FOSS`</sup>
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
@@ -1592,7 +1594,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### ✈️ Travel
-- `MD3E` [TrenScan](https://play.google.com/store/apps/details?id=com.dflgpp.trenscan.trenscan&hl)
+- `MD3E` [TrenScan](https://play.google.com/store/apps/details?id=com.dflgpp.trenscan.trenscan)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
