@@ -1156,7 +1156,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ---
 ### 🧹 Optimizer/Cleaners
 - `MDY` [Android Enhancer](https://github.com/iamlooper/Android-Enhancer)
-- `MDY` [Cleaner](https://github.com/D4rK7355608/com.d4rk.cleaner) <sup>`FOSS`</sup>
+- `MDY` [Smart Cleaner](https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android) <sup>`FOSS`</sup>
 - `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
 - `MDY` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 
@@ -1636,7 +1636,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Joiplay](https://joiplay.net/)
 - `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) <sup>`FOSS`</sup>
 - `MDY` [Lime3DS](https://github.com/Lime3DS/Lime3DS) <sup>`FOSS`</sup>
-- `MDY` [Better xCloud](https://github.com/redphx/better-xcloud-android) <sup>`FOSS`</sup>
+- `MDY` [Better xCloud](https://github.com/redphx/better-xcloud-android)
 - `MDY` [RenPlay](https://github.com/Reset171/RenPlay) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
