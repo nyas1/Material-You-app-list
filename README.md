@@ -332,7 +332,6 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Forkgram](https://github.com/forkgram/TelegramAndroid) <sup>`FOSS`</sup>
 - `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
-- `MY` [Nekogram](https://github.com/Nekogram/Nekogram) <sup>`FOSS`</sup>
 - `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
 - `MY` [Mercurygram](https://github.com/Mercurygram/Mercurygram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
