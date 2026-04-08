@@ -1,6 +1,6 @@
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 <p align="center">
-  <img src="images/material_you.png" alt="Material You"/>
+	<img src="images/material_you.png" alt="Material You"/>
 </p>
 
 <h2 align="center">
@@ -8,214 +8,214 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/nyas1/Material-You-app-list">
-	  <img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="Stars Badge"/>
-  </a>
+	<a href="https://github.com/nyas1/Material-You-app-list">
+		<img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list" alt="Stars Badge"/>
+	</a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/materialyouapps">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=A6C8FF&colorB=003060&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram"/>
-  </a>
+	<a href="https://t.me/materialyouapps">
+		<img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=A6C8FF&colorB=003060&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram"/>
+	</a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/materialyouappschat">
-    <img src="https://img.shields.io/endpoint?style=for-the-badge&colorA=DAB9FF&colorB=470084&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouappschat" alt="Telegram Chat"/>
-  </a>
-  <a href="https://discord.com/invite/JtUJTTuNW6">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FJtUJTTuNW6%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Discord%20Server&colorA=504976&colorB=DD9193&style=for-the-badge" alt="Discord"/>
-  </a>
+	<a href="https://t.me/materialyouappschat">
+		<img src="https://img.shields.io/endpoint?style=for-the-badge&colorA=DAB9FF&colorB=470084&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouappschat" alt="Telegram Chat"/>
+	</a>
+	<a href="https://discord.com/invite/JtUJTTuNW6">
+		<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FJtUJTTuNW6%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Discord%20Server&colorA=504976&colorB=DD9193&style=for-the-badge" alt="Discord"/>
+	</a>
 </p>
 
 <p align="center">
-  <a href="#-newly-added-apps">
-    <strong><u>🆕 CHECKOUT NEWLY ADDED APPS HERE! 🆕</u></strong>
-  </a>
+	<a href="#-newly-added-apps">
+		<strong><u>🆕 CHECKOUT NEWLY ADDED APPS HERE! 🆕</u></strong>
+	</a>
 </p>
 
 ## 📜 Table Of Contents
 <ul>
-  <li>📋 <a href="#-disclaimer">Disclaimer</a></li>
-  <li>🏷️ <a href="#%EF%B8%8F-tags">Tags</a></li>
-  <li>🆕 <a href="#-newly-added-apps">Newly Added Apps!</a></li>
+	<li>📋 <a href="#-disclaimer">Disclaimer</a></li>
+	<li>🏷️ <a href="#%EF%B8%8F-tags">Tags</a></li>
+	<li>🆕 <a href="#-newly-added-apps">Newly Added Apps!</a></li>
 </ul>
 <ul>
-  <li>
-    <details open>
-      <summary>📱 Known Apps</summary>
-      <ul>
-        <li>
-          <details>
-            <summary>🌐 <a href="#-social--communication">Social & Communication</a></summary>
-            <ul>
-              <li>
-                <details>
-                  <summary>👥 <a href="#-social-media">Social Media</a></summary>
-                  <ul>
-                    <li>🧠 <a href="#-reddit">Reddit</a></li>
-                    <li>🕊️ <a href="#%EF%B8%8F-x-twitter">X (Twitter)</a></li>
-                    <li>🐘 <a href="#-mastodon">Mastodon</a></li>
-                    <li>🎮 <a href="#-discord">Discord</a></li>
-                    <li>📸 <a href="#-instagram">Instagram</a></li>
-                    <li>✈️ <a href="#%EF%B8%8F-telegram">Telegram</a></li>
-                    <li>🐭 <a href="#-lemmy">Lemmy</a></li>
-                    <li>💬 <a href="#-whatsapp">WhatsApp</a></li>
-                    <li>🐻‍❄️ <a href="#‍%EF%B8%8F-vk">VK</a></li>
-                    <li>🎨 <a href="#-pixiv">Pixiv</a></li>
-                    <li>🔐 <a href="#-signal">Signal</a></li>
-                    <li>🗣️ <a href="#-matrix">Matrix</a></li>
-                    <li>🎥 <a href="#-twitch">Twitch</a></li>
-                    <li>🦋 <a href="#-bluesky">Bluesky</a></li>
-                    <li>🦤 <a href="#-nostr">Nostr</a></li>
-                  </ul>
-                </details>
-              </li>
-              <li>📞 <a href="#-communication">Communication</a></li>
-              <li>📧 <a href="#-email-clients">Email Clients</a></li>
-              <li>🈸 <a href="#-translators">Translators</a></li>
-              <li>👁️‍🗨️ <a href="#%EF%B8%8F%EF%B8%8F-accessibility">Accessibility</a></li>
-              <li>🔧 <a href="#-miscellaneous">Miscellaneous</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>🎨 <a href="#-personalization-and-ui">Personalization & UI</a></summary>
-            <ul>
-              <li>🏠 <a href="#-launchers">Launchers</a></li>
-              <li>🖌️ <a href="#%EF%B8%8F-theming-apps">Theming Apps</a></li>
-              <li>⌨️ <a href="#%EF%B8%8F-keyboards">Keyboards</a></li>
-              <li>🎴 <a href="#-iconswallpaperswidgets">Icons/Wallpapers/Widgets</a></li>
-              <li>👋 <a href="#-gesture-control">Gesture Control</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>🎬 <a href="#-media--entertainment">Media & Entertainment</a></summary>
-            <ul>
-              <li>🎵 <a href="#-music-players">Music Players</a></li>
-              <li>📽️ <a href="#%EF%B8%8F-video-players">Video Players</a></li>
-              <li>
-                <details>
-                  <summary>📺 <a href="#-streaming-services">Streaming Services</a></summary>
-                  <ul>
-                    <li>💌 <a href="#-youtube-clients">YouTube</a></li>
-                    <li>🎶 <a href="#-youtube-music-clients">YouTube Music</a></li>
-                    <li>🟢 <a href="#-spotify-clients">Spotify</a></li>
-                    <li>🐡 <a href="#-subsonic-clients">Subsonic</a></li>
-					<li>🔧 <a href="#-miscellaneous-anime-etc">Miscellaneous (Anime, etc.)</a></li>
-                  </ul>
-                </details>
-              </li>
-              <li>📑 <a href="#-tracking-services">Tracking Services</a></li>
-              <li>🎙️ <a href="#-podcast">Podcast</a></li>
-              <li>📖 <a href="#-audiobook--misc">Audiobook & Misc.</a></li>
-              <li>🖥️ <a href="#%EF%B8%8F-media-servers">Media Servers</a></li>
-              <li>🎛️ <a href="#%EF%B8%8F-equalizers">Equalizers</a></li>
-              <li>🖼️ <a href="#%EF%B8%8F-gallery--tools">Galleries & Tools</a></li>
-              <li>📷 <a href="#-camera">Cameras</a></li>
-              <li>🎙️ <a href="#%EF%B8%8F-audio-recorders">Audio Recorders</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>🧠 <a href="#-productivity--organization">Productivity & Organization</a></summary>
-            <ul>
-              <li>📝 <a href="#-notesto-dowish-lists">Notes/To-do/Wish-lists</a></li>
-              <li>📖 <a href="#-readers">Readers (RSS, Manga, etc.)</a></li>
-              <li>🗓️ <a href="#%EF%B8%8F-calendar">Calendars</a></li>
-              <li>⏱️ <a href="#%EF%B8%8F-clockstimers">Clocks/Timers</a></li>
-              <li>🔢 <a href="#-counters">Counters</a></li>
-              <li>🧮 <a href="#-calculatorsunit-convertors">Calculators/Unit Convertors</a></li>
-              <li>🎓 <a href="#-educationschool">Education/School</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>🧰 <a href="#-power-tools--utilities">Power Tools & Utilities</a></summary>
-            <ul>
-              <li>📁 <a href="#-file-explorers">File Explorers</a></li>
-              <li>🛍️ <a href="#%EF%B8%8F-app-stores">App Stores</a></li>
-              <li>📦 <a href="#-app-managers">App Managers</a></li>
-              <li>💾 <a href="#-backup">Backup</a></li>
-              <li>🧹 <a href="#-optimizercleaners">Optimizer/Cleaners</a></li>
-              <li>🪛 <a href="#-adb-tools">ADB Tools</a></li>
-              <li>📲 <a href="#-device-infomonitors">Device Info/Monitors</a></li>
-              <li>#️⃣ <a href="#%EF%B8%8F⃣-superuser-root">SuperUser (Root)</a></li>
-              <li>🔬 <a href="#-scanners">Scanners</a></li>
-              <li>🔦 <a href="#-flashlights">Flashlights</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>🌐 <a href="#-web--connectivity">Web & Connectivity</a></summary>
-            <ul>
-              <li>🌐 <a href="#-browsers">Browsers</a></li>
-              <li>🌎 <a href="#-vpnsproxies">VPNs/Proxies</a></li>
-              <li>⬇️ <a href="#%EF%B8%8F-download-managers">Download Managers</a></li>
-              <li>🗺️ <a href="#%EF%B8%8F-mapsnavigation">Maps/Navigation</a></li>
-              <li>🛰️ <a href="#%EF%B8%8F-remotes-and-smart-devices">Remotes and Smart Devices</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>💻 <a href="#-developer--power-user">Developer & Power User</a></summary>
-            <ul>
-              <li>🧑‍💻 <a href="#-textcode-editorside">Text/Code Editors/IDE</a></li>
-              <li>📄 <a href="#-document-reader">Document Reader</a></li>
-              <li>🧩 <a href="#-material-catalogs">Material Catalogs</a></li>
-              <li>🕹️ <a href="#%EF%B8%8F-device-automation">Device Automation</a></li>
-              <li>🤖 <a href="#-artificial-intelligence-ai">Artificial Intelligence (AI)</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>🍏 <a href="#-health--lifestyle">Health & Lifestyle</a></summary>
-            <ul>
-              <li>🧘‍♂️ <a href="#%EF%B8%8F-health--well-being">Health & Well-being</a></li>
-              <li>🛒 <a href="#-shopping--household">Shopping & Household</a></li>
-              <li>💸 <a href="#-economy">Economy</a></li>
-              <li>🌦️ <a href="#%EF%B8%8F-weather">Weather</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>🎮 <a href="#-games--emulators">Games & Emulators</a></summary>
-            <ul>
-              <li>🎮 <a href="#-games">Games</a></li>
-              <li>📟 <a href="#-emulators">Emulators</a></li>
-              <li>🔧 <a href="#-miscellaneous-tools">Miscellaneous Tools</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>🔐 <a href="#-security--privacy">Security & Privacy</a></summary>
-            <ul>
-              <li>🪪 <a href="#-2fa">2FA</a></li>
-              <li>🔑 <a href="#-password-manager">Password Manager</a></li>
-              <li>🧱 <a href="#-firewallad-blocker">Firewall/Ad-blocker</a></li>
-              <li>🗳️ <a href="#%EF%B8%8F-fileapp-encryption">File/App Encryption</a></li>
-              <li>⛓️‍💥 <a href="#%EF%B8%8F‍-link-cleaners">Link Cleaners</a></li>
-              <li>🔧 <a href="#-miscellaneous-1">Miscellaneous</a></li>
-            </ul>
-          </details>
-        </li>
-        <li>🔧 <a href="#-uncategorized-tools">Uncategorized Tools</a></li>
-      </ul>
-    </details>
-  </li>
+	<li>
+		<details open>
+			<summary>📱 Known Apps</summary>
+			<ul>
+				<li>
+					<details>
+						<summary>🌐 <a href="#-social--communication">Social & Communication</a></summary>
+						<ul>
+							<li>
+								<details>
+									<summary>👥 <a href="#-social-media">Social Media</a></summary>
+									<ul>
+										<li>🧠 <a href="#-reddit">Reddit</a></li>
+										<li>🕊️ <a href="#%EF%B8%8F-x-twitter">X (Twitter)</a></li>
+										<li>🐘 <a href="#-mastodon">Mastodon</a></li>
+										<li>🎮 <a href="#-discord">Discord</a></li>
+										<li>📸 <a href="#-instagram">Instagram</a></li>
+										<li>✈️ <a href="#%EF%B8%8F-telegram">Telegram</a></li>
+										<li>🐭 <a href="#-lemmy">Lemmy</a></li>
+										<li>💬 <a href="#-whatsapp">WhatsApp</a></li>
+										<li>🐻‍❄️ <a href="#‍%EF%B8%8F-vk">VK</a></li>
+										<li>🎨 <a href="#-pixiv">Pixiv</a></li>
+										<li>🔐 <a href="#-signal">Signal</a></li>
+										<li>🗣️ <a href="#-matrix">Matrix</a></li>
+										<li>🎥 <a href="#-twitch">Twitch</a></li>
+										<li>🦋 <a href="#-bluesky">Bluesky</a></li>
+										<li>🦤 <a href="#-nostr">Nostr</a></li>
+									</ul>
+								</details>
+							</li>
+							<li>📞 <a href="#-communication">Communication</a></li>
+							<li>📧 <a href="#-email-clients">Email Clients</a></li>
+							<li>🈸 <a href="#-translators">Translators</a></li>
+							<li>👁️‍🗨️ <a href="#%EF%B8%8F%EF%B8%8F-accessibility">Accessibility</a></li>
+							<li>🔧 <a href="#-miscellaneous">Miscellaneous</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>🎨 <a href="#-personalization-and-ui">Personalization & UI</a></summary>
+						<ul>
+							<li>🏠 <a href="#-launchers">Launchers</a></li>
+							<li>🖌️ <a href="#%EF%B8%8F-theming-apps">Theming Apps</a></li>
+							<li>⌨️ <a href="#%EF%B8%8F-keyboards">Keyboards</a></li>
+							<li>🎴 <a href="#-iconswallpaperswidgets">Icons/Wallpapers/Widgets</a></li>
+							<li>👋 <a href="#-gesture-control">Gesture Control</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>🎬 <a href="#-media--entertainment">Media & Entertainment</a></summary>
+						<ul>
+							<li>🎵 <a href="#-music-players">Music Players</a></li>
+							<li>📽️ <a href="#%EF%B8%8F-video-players">Video Players</a></li>
+							<li>
+								<details>
+									<summary>📺 <a href="#-streaming-services">Streaming Services</a></summary>
+									<ul>
+										<li>💌 <a href="#-youtube-clients">YouTube</a></li>
+										<li>🎶 <a href="#-youtube-music-clients">YouTube Music</a></li>
+										<li>🟢 <a href="#-spotify-clients">Spotify</a></li>
+										<li>🐡 <a href="#-subsonic-clients">Subsonic</a></li>
+										<li>🔧 <a href="#-miscellaneous-anime-etc">Miscellaneous (Anime, etc.)</a></li>
+									</ul>
+								</details>
+							</li>
+							<li>📑 <a href="#-tracking-services">Tracking Services</a></li>
+							<li>🎙️ <a href="#-podcast">Podcast</a></li>
+							<li>📖 <a href="#-audiobook--misc">Audiobook & Misc.</a></li>
+							<li>🖥️ <a href="#%EF%B8%8F-media-servers">Media Servers</a></li>
+							<li>🎛️ <a href="#%EF%B8%8F-equalizers">Equalizers</a></li>
+							<li>🖼️ <a href="#%EF%B8%8F-gallery--tools">Galleries & Tools</a></li>
+							<li>📷 <a href="#-camera">Cameras</a></li>
+							<li>🎙️ <a href="#%EF%B8%8F-audio-recorders">Audio Recorders</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>🧠 <a href="#-productivity--organization">Productivity & Organization</a></summary>
+						<ul>
+							<li>📝 <a href="#-notesto-dowish-lists">Notes/To-do/Wish-lists</a></li>
+							<li>📖 <a href="#-readers">Readers (RSS, Manga, etc.)</a></li>
+							<li>🗓️ <a href="#%EF%B8%8F-calendar">Calendars</a></li>
+							<li>⏱️ <a href="#%EF%B8%8F-clockstimers">Clocks/Timers</a></li>
+							<li>🔢 <a href="#-counters">Counters</a></li>
+							<li>🧮 <a href="#-calculatorsunit-convertors">Calculators/Unit Convertors</a></li>
+							<li>🎓 <a href="#-educationschool">Education/School</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>🧰 <a href="#-power-tools--utilities">Power Tools & Utilities</a></summary>
+						<ul>
+							<li>📁 <a href="#-file-explorers">File Explorers</a></li>
+							<li>🛍️ <a href="#%EF%B8%8F-app-stores">App Stores</a></li>
+							<li>📦 <a href="#-app-managers">App Managers</a></li>
+							<li>💾 <a href="#-backup">Backup</a></li>
+							<li>🧹 <a href="#-optimizercleaners">Optimizer/Cleaners</a></li>
+							<li>🪛 <a href="#-adb-tools">ADB Tools</a></li>
+							<li>📲 <a href="#-device-infomonitors">Device Info/Monitors</a></li>
+							<li>#️⃣ <a href="#%EF%B8%8F⃣-superuser-root">SuperUser (Root)</a></li>
+							<li>🔬 <a href="#-scanners">Scanners</a></li>
+							<li>🔦 <a href="#-flashlights">Flashlights</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>🌐 <a href="#-web--connectivity">Web & Connectivity</a></summary>
+						<ul>
+							<li>🌐 <a href="#-browsers">Browsers</a></li>
+							<li>🌎 <a href="#-vpnsproxies">VPNs/Proxies</a></li>
+							<li>⬇️ <a href="#%EF%B8%8F-download-managers">Download Managers</a></li>
+							<li>🗺️ <a href="#%EF%B8%8F-mapsnavigation">Maps/Navigation</a></li>
+							<li>🛰️ <a href="#%EF%B8%8F-remotes-and-smart-devices">Remotes and Smart Devices</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>💻 <a href="#-developer--power-user">Developer & Power User</a></summary>
+						<ul>
+							<li>🧑‍💻 <a href="#-textcode-editorside">Text/Code Editors/IDE</a></li>
+							<li>📄 <a href="#-document-reader">Document Reader</a></li>
+							<li>🧩 <a href="#-material-catalogs">Material Catalogs</a></li>
+							<li>🕹️ <a href="#%EF%B8%8F-device-automation">Device Automation</a></li>
+							<li>🤖 <a href="#-artificial-intelligence-ai">Artificial Intelligence (AI)</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>🍏 <a href="#-health--lifestyle">Health & Lifestyle</a></summary>
+						<ul>
+							<li>🧘‍♂️ <a href="#%EF%B8%8F-health--well-being">Health & Well-being</a></li>
+							<li>🛒 <a href="#-shopping--household">Shopping & Household</a></li>
+							<li>💸 <a href="#-economy">Economy</a></li>
+							<li>🌦️ <a href="#%EF%B8%8F-weather">Weather</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>🎮 <a href="#-games--emulators">Games & Emulators</a></summary>
+						<ul>
+							<li>🎮 <a href="#-games">Games</a></li>
+							<li>📟 <a href="#-emulators">Emulators</a></li>
+							<li>🔧 <a href="#-miscellaneous-tools">Miscellaneous Tools</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>
+					<details>
+						<summary>🔐 <a href="#-security--privacy">Security & Privacy</a></summary>
+						<ul>
+							<li>🪪 <a href="#-2fa">2FA</a></li>
+							<li>🔑 <a href="#-password-manager">Password Manager</a></li>
+							<li>🧱 <a href="#-firewallad-blocker">Firewall/Ad-blocker</a></li>
+							<li>🗳️ <a href="#%EF%B8%8F-fileapp-encryption">File/App Encryption</a></li>
+							<li>⛓️‍💥 <a href="#%EF%B8%8F‍-link-cleaners">Link Cleaners</a></li>
+							<li>🔧 <a href="#-miscellaneous-1">Miscellaneous</a></li>
+						</ul>
+					</details>
+				</li>
+				<li>🔧 <a href="#-uncategorized-tools">Uncategorized Tools</a></li>
+			</ul>
+		</details>
+	</li>
 </ul>
 <ul>
-  <li>🪢 <a href="#-sources">Sources</a></li>
+	<li>🪢 <a href="#-sources">Sources</a></li>
 </ul>
 
 ---
@@ -249,6 +249,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MY` [Fcitx5 for Android](https://github.com/fcitx5-android/fcitx5-android) <sup>`FOSS`</sup>
+- `MD3E` [Torrent Search](https://github.com/prajwalch/TorrentSearch) <sup>`FOSS`</sup>
+- `MD` [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) <sup>`FOSS`</sup>
+- `MDY` [GPTMobile](https://github.com/Taewan-P/gpt_mobile) <sup>`FOSS`</sup>
+- `MDY` [FoodYou](https://github.com/maksimowiczm/FoodYou) <sup>`FOSS`</sup>
+- `MD3E` [AniSync](https://github.com/Marco-9456/AniSync) <sup>`FOSS`</sup>
 - `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MY` [DisCorkie](https://play.google.com/store/apps/details?id=dev.appoutlet.DisCorkie)
 - `MD3E` [Dustvalve Next](https://github.com/Pingasmaster/dustvalve_next) <sup>`FOSS`</sup>
@@ -273,12 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [VK X](https://vkx.app/)
 - `MDY` [Payload Dumper](https://github.com/rhythmcache/payload-dumper-gui) <sup>`FOSS`</sup>
 - `MD` [ANX Reader](https://github.com/Anxcye/anx-reader) <sup>`FOSS`</sup>
-- `MDY` [Muviz Widgets](https://play.google.com/store/apps/details?id=com.sparkine.widgets) <sup>`💰`</sup>
-- `MDY` [Video Player - Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
-- `MDY` [EON](https://play.google.com/store/apps/details?id=qijaz221.github.io.musicplayer)
-- `MDY` [Harmonoid](https://github.com/harmonoid/harmonoid) <sup>`FOSS`</sup>
-- `MDY` [SaTunes](https://codeberg.org/antoinepirlot/Satunes) <sup>`FOSS`</sup>
-- `MD3E` [VIVI](https://github.com/vivizzz007/vivi-music) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -415,15 +415,15 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts) <sup>`FOSS`</sup>
 - **Dialer**
 	- `MD3E` [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) <sup>`FOSS`</sup>
-  	- `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
-  	- `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) <sup>`FOSS`</sup>
+	- `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+	- `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) <sup>`FOSS`</sup>
 	- `MDY` [Right Dialer](https://play.google.com/store/apps/details?id=com.goodwy.dialer) <sup>`FOSS`</sup>
 	- `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [MotoDialer](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 	- `MY` [Octavi Dialer](https://www.pling.com/p/1571900) <sup>`PORT`</sup>
 - **SMS Messenger**
 	- `MD3E` [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
- 	- `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) <sup>`FOSS`</sup>
+	- `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) <sup>`FOSS`</sup>
 	- `MDY` [Right Messages](https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger) <sup>`FOSS`</sup>
 	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - **Voicemail**
@@ -524,7 +524,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`💰`</sup>
 	- `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) <sup>`FOSS`</sup>
- 	- `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
+	- `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
 - **Miscellaneous**
 	- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup>
 	- `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -540,8 +540,9 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
 - `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`FOSS`</sup>
-- `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
+- `MY` [Fcitx5 for Android](https://github.com/fcitx5-android/fcitx5-android) <sup>`FOSS`</sup>
 - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
+- `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -557,7 +558,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Epik Material You Icons](https://play.google.com/store/apps/details?id=com.lknninex.epik) <sup>`💰`</sup>
 	- `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons) <sup>`FOSS`</sup>
 	- `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) <sup>`FOSS`</sup>
- 	- `MDY` [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [DGicons Monet](https://github.com/WaifuPX-DG/DGicons) <sup>`🪦`</sup>
 	- `MDY` [You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack) <sup>`💰`</sup>
 	- `MDY` [Adaptive You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack) <sup>`💰`</sup>
@@ -704,10 +705,10 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) <sup>`FOSS`</sup>
 - `MDY` [OpenTune](https://github.com/Arturo254/OpenTune) <sup>`FOSS`</sup>
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
-	- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-	- `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MD3E` [Metrolist](https://github.com/mostafaalagamy/Metrolist) <sup>`FOSS`</sup>  <sup>`FORK`</sup>
 		- `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MY` [RiMusic](https://github.com/fast4x/RiMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup><sup>`FORK`</sup>
 	- `MY` [ViTune](https://github.com/25huizengek1/ViTune) <sup>`FOSS`</sup> <sup>`🪦`</sup><sup>`FORK`</sup>
@@ -718,9 +719,9 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🟢 Spotify Clients
+- `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 - `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Jetispot](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 
 #### 🐡 Subsonic Clients
 - `MD3E` [Navic](https://github.com/paigely/Navic) <sup>`FOSS`</sup>
@@ -751,6 +752,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### 📑 Tracking Services
+- `MD3E` [AniSync](https://github.com/Marco-9456/AniSync) <sup>`FOSS`</sup>
 - `MD3E` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 - `MDY` [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase)
 - `MDY` [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -875,11 +877,12 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ## 🧠 Productivity & Organization
 ### 📝 Notes/To-do/Wish-lists
 - **Notes**
-- `MD3E` [June](https://github.com/DenserMeerkat/June) <sup>`FOSS`</sup>
+	- `MD3E` [June](https://github.com/DenserMeerkat/June) <sup>`FOSS`</sup>
 	- `MD3E` [VerveDo](https://github.com/Super12138/VerveDo)
 	- `MD3E` [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) <sup>`🐾`</sup>
-    - `MD3E` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
+	- `MD3E` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
 	- `MD3E` [Kori](https://github.com/YangDai2003/Kori) <sup>`FOSS`</sup>
+	- `MD3E` [FA Notes](https://play.google.com/store/apps/details?id=com.Fooks.Animations.and.Applications.Notes)
 	- `MDY` [GoodNotes](https://github.com/xephosbot/GoodNotesCompose) <sup>`FOSS`</sup>
 	- `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`FOSS`</sup>
 	- `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
@@ -898,7 +901,6 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) <sup>`🪦`</sup>
-	- `MD3E` [FA Notes](https://play.google.com/store/apps/details?id=com.Fooks.Animations.and.Applications.Notes)
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
@@ -950,7 +952,6 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ---
 ### 📖 Readers
 - **Manga/Novel/E-book Reader**
-	- `MD` [ANX Reader](https://github.com/Anxcye/anx-reader) <sup>`FOSS`</sup>
 	- `MDY` [Tachiyomi](https://tachiyomi.org/news/2024-01-13-goodbye) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 		- `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -965,6 +966,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Book's Story](https://github.com/Acclorite/book-story) <sup>`FOSS`</sup>
 	- `MDY` [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) <sup>`FOSS`</sup>
 	- `MDY` [Cantook](https://play.google.com/store/apps/details?id=com.aldiko.android)
+	- `MD` [ANX Reader](https://github.com/Anxcye/anx-reader) <sup>`FOSS`</sup>
 	- `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
 	- `MD` [LNReader](https://github.com/LNReader/lnreader) <sup>`FOSS`</sup>
 	- `MD` [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) <sup>`FOSS`</sup>
@@ -1034,7 +1036,6 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### 🧮 Calculators/Unit Convertors
-- `MY` [Calculite PWA](https://github.com/ingStudiosOfficial/calculite) <sup>`FOSS`</sup>
 - `MD3E` [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
 - `MD3E` [Vanilla](https://github.com/sosauce/Vanilla) <sup>`FOSS`</sup>
 - `MDY` [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1050,6 +1051,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Calculator You](https://github.com/forzzzzz/Calculator-You) <sup>`FOSS`</sup>
 - `MD` [Mint Calculator](https://github.com/boredcodebyk/mintcalc) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator)
+- `MY` [Calculite PWA](https://github.com/ingStudiosOfficial/calculite) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1057,7 +1059,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ### 🎓 Education/School
 - **Language & Dictionaries**
 	- `MDY` [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) <sup>`FOSS`</sup>
-- `MD3E` [Examduler PWA](https://github.com/ingStudiosOfficial/examduler) <sup>`FOSS`</sup>
+	- `MD3E` [Examduler PWA](https://github.com/ingStudiosOfficial/examduler) <sup>`FOSS`</sup>
 	- `MDY` [freeDictionaryApp](https://github.com/yamin8000/freeDictionaryApp) <sup>`FOSS`</sup>
 	- `MDY` [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
 	- `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`FOSS`</sup>
@@ -1074,7 +1076,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Literary Clock](https://github.com/AChep/literaryclock)  <sup>`FOSS`</sup>
 	- `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Miscellaneous**
-    - `MD3E` [Self Attendance](https://github.com/xtractiion/self.attendance)
+	- `MD3E` [Self Attendance](https://github.com/xtractiion/self.attendance)
 	- `MDY` [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) <sup>`FOSS`</sup>
 	- `MDY` [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) <sup>`FOSS`</sup>
 	- `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
@@ -1120,12 +1122,12 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`FOSS`</sup>
 	- `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) <sup>`FOSS`</sup> <sup>🪦</sup>
 	- `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`FOSS`</sup> <sup>`🪦`</sup>
- 		- `MDY` [Bunny Manager](https://github.com/pyoncord/BunnyManager) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
+		- `MDY` [Bunny Manager](https://github.com/pyoncord/BunnyManager) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 			- `MDY` [Revenge Manager](https://github.com/revenge-mod/revenge-manager) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Accrescent](https://github.com/accrescent/accrescent) <sup>`FOSS`</sup>
 	- `MDY` [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) <sup>`FOSS`</sup>
- 	- `MDY` [APK Updater](https://github.com/rumboalla/apkupdater) <sup>`FOSS`</sup>
-  	- `MDY` [UpdateMe](https://github.com/anfreire/updateMe-Mobile) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [APK Updater](https://github.com/rumboalla/apkupdater) <sup>`FOSS`</sup>
+	- `MDY` [UpdateMe](https://github.com/anfreire/updateMe-Mobile) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Github Store](https://github.com/rainxchzed/Github-Store) <sup>`FOSS`</sup>
 	- `MD` [Orion Store](https://github.com/RookieEnough/Orion-Store) <sup>`FOSS`</sup>
 
@@ -1158,7 +1160,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ---
 ### 🧹 Optimizer/Cleaners
 - `MDY` [Android Enhancer](https://github.com/iamlooper/Android-Enhancer)
-- `MDY` [Cleaner](https://github.com/D4rK7355608/com.d4rk.cleaner) <sup>`FOSS`</sup>
+- `MDY` [Smart Cleaner](https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android) <sup>`FOSS`</sup>
 - `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
 - `MDY` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 
@@ -1171,6 +1173,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [WADBS](https://github.com/Smooth-E/wireless-adb-switch) <sup>`FOSS`</sup>
 - `MDY` [LogFox](https://github.com/F0x1d/LogFox) <sup>`FOSS`</sup>
 - `MDY` [Logra](https://github.com/wingio/Logra) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD` [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) <sup>`FOSS`</sup>
 - `MY` [Termux Monet](https://github.com/Termux-Monet/termux-monet) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1225,8 +1228,8 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- [Monet-All](https://monet.jerryz.com.cn/en/) <sup>`FOSS`</sup> <sup>[`Supported apps`](https://monet.jerryz.com.cn/en/guide/apps)</sup>
 	- [HyperOS Monet Project](https://github.com/MIUI-Monet-Project/Module) <sup>`FOSS`</sup>
 - **Miscellaneous**
+	- `MD3E` [RvKernel Manager](https://github.com/Rve27/RvKernel-Manager) <sup>`FOSS`</sup>
 	- `MDY` [Shizuku](https://github.com/RikkaApps/Shizuku) <sup>`FOSS`</sup> <sup>`🐾`</sup>
- 	- `MD3E` [RvKernel Manager](https://github.com/Rve27/RvKernel-Manager) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1266,7 +1269,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Mulch](https://divestos.org/pages/our_apps#mulch) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Mask Browser](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
- 	- `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
+	- `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
 	- `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 	- `MY` [Vivaldi](https://vivaldi.com/source/)
 - **Other**
@@ -1274,7 +1277,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
 	- `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`FOSS`</sup>
 	- `MDY` [Styx](https://github.com/jamal2362/Styx) <sup>`FOSS`</sup> <sup>`🪦`</sup>
- 	- `MDY` [Viola Browser](https://codeberg.org/TipzTeam/viola) <sup>`FOSS`</sup>
+	- `MDY` [Viola Browser](https://codeberg.org/TipzTeam/viola) <sup>`FOSS`</sup>
 - **Bookmark Managers/Read it later**
 	- `MDY` [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)  <sup>`FOSS`</sup>
 	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
@@ -1290,7 +1293,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### 🌎 VPNs/Proxies
-*Free VPNs are not recommended: [Read](https://www.makeuseof.com/why-you-should-never-use-a-free-vpn/)*
+*Free VPNs are not recommended: [Read](https://www.mozilla.org/en-US/products/vpn/resource-center/risks-of-using-a-free-vpn/)*
 - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
 - `MDY` [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 - `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1317,7 +1320,8 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) <sup>`FOSS`</sup>
 	- `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Torrenting**
-    - `MD3E` [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	- `MD3E` [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	- `MD3E` [Torrent Search](https://github.com/prajwalch/TorrentSearch) <sup>`FOSS`</sup>
 	- `MDY` [Flow - Rutracker client](https://play.google.com/store/apps/details?id=me.rutrackersearch.app)
 	- `MDY` [Tremotesf](https://github.com/equeim/tremotesf-android) <sup>`FOSS`</sup>
 	- `MDY` [Flud+](https://play.google.com/store/apps/details?id=com.delphicoder.flud.paid) <sup>`💰`</sup>
@@ -1394,11 +1398,11 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### 📄 Document Reader
-- `MD` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) <sup>`FOSS`</sup>
 - `MD3E` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 - `MD3E` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
 - `MD3E` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
 - `MDY` [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) <sup>`FOSS`</sup>
+- `MD` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1440,6 +1444,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`FOSS`</sup>
 - `MDY` [Lumi AI](https://github.com/iamlooper/Lumi-AI)
 - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`FOSS`</sup>
+- `MDY` [GPTMobile](https://github.com/Taewan-P/gpt_mobile) <sup>`FOSS`</sup>
 - `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
 	- `MD3E` [Summary Expressive](https://github.com/kid1412621/SummaryExpressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Grok](https://play.google.com/store/apps/details?id=ai.x.grok)
@@ -1495,7 +1500,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [MedTimer](https://github.com/Futsch1/medTimer)  <sup>`FOSS`</sup>
 	- `MD` [MediTrak](https://github.com/AdamGuidarini/MediTrak)  <sup>`FOSS`</sup>
 - **Miscellaneous**
-  	- `MDY` [CoffeGram](https://github.com/phansier/Coffeegram) <sup>`FOSS`</sup>
+	- `MDY` [CoffeGram](https://github.com/phansier/Coffeegram) <sup>`FOSS`</sup>
 	- `MDY` [Ampersand](https://github.com/NyaomiDEV/Ampersand) <sup>`FOSS`</sup>
 	- `MDY` [MotionMate](https://github.com/0xf4b1/motionmate) <sup>`FOSS`</sup>
 	- `MDY` [Lullaby Pack](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.lullaby)
@@ -1504,7 +1509,8 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 	- `MDY` [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata)
 	- `MDY` [Eye Care](https://play.google.com/store/apps/details?id=com.a3.eyecare)
 	- `MDY` [Mindful](https://github.com/akaMrNagar/Mindful/) <sup>`FOSS`</sup>
-  	- `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [FoodYou](https://github.com/maksimowiczm/FoodYou) <sup>`FOSS`</sup>
 	- `MD` [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
 	- `MD` [Baby on Board (aka. BoB)](https://gitlab.com/LaBaude32/bob) <sup>`FOSS`</sup>
 	- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
@@ -1603,7 +1609,6 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 ### 🎮 Games
 - `MDY` [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) <sup>`FOSS`</sup>
 - `MDY` [Lichess beta](https://github.com/lichess-org/mobile) <sup>`FOSS`</sup>
-- `MDY` [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) <sup>`FOSS`</sup>
 - `MDY` [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe)
 - `MDY` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) <sup>`FOSS`</sup>
 - `MDY` [Gauguin](https://github.com/meikpiep/gauguin) <sup>`FOSS`</sup>
@@ -1618,7 +1623,6 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Solitaire - The Clean One](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
 - `MDY` [PokeMoney](https://play.google.com/store/apps/details?id=com.urbandroid.pokemoney)
 - `MD` [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle)
-- `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`FOSS`</sup> <sup>`⛔ Not an Android app`</sup>
 - `MD` [LoL Catalyst](https://play.google.com/store/apps/details?id=com.ggstudios.lolcatalyst)
 - `MY` [Sudoku](https://play.google.com/store/apps/details?id=ee.dustland.android.dustlandsudoku)
 - `MY` [Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
@@ -1637,7 +1641,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Joiplay](https://joiplay.net/)
 - `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) <sup>`FOSS`</sup>
 - `MDY` [Lime3DS](https://github.com/Lime3DS/Lime3DS) <sup>`FOSS`</sup>
-- `MDY` [Better xCloud](https://github.com/redphx/better-xcloud-android) <sup>`FOSS`</sup>
+- `MDY` [Better xCloud](https://github.com/redphx/better-xcloud-android)
 - `MDY` [RenPlay](https://github.com/Reset171/RenPlay) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1713,7 +1717,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 
 ---
 ### ⛓️‍💥 Link Cleaners
-- `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`FOSS`</sup>
+- `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Untracker](https://github.com/zhanghai/Untracker) <sup>`FOSS`</sup>
 - `MY` [URLCheck](https://github.com/TrianguloY/UrlChecker) <sup>`FOSS`</sup>
@@ -1785,7 +1789,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [Insigno](https://github.com/MindsHub/insigno_frontend) <sup>`FOSS`</sup>
 - `MDY` [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) <sup>`FOSS`</sup>
 - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MD3E` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MD3E` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
 - `MDY` [PI](https://github.com/SanmerApps/PI) <sup>`FOSS`</sup>
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`FOSS`</sup>
