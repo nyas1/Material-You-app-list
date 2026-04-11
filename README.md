@@ -313,10 +313,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 🎮 **Discord**
 - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
-- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/LampDelivery/Materii) OR [`#2`](
-https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedrice/MatuNight)</sup>
-- `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🪦`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme)</sup>
+- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️ Setup:` [`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
+- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`FOSS`</sup> <sup>`⚠️ Setup:` [`#1`](https://github.com/LampDelivery/Materii) [`#2`](
+https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/MatuNight)</sup>
+- `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🪦`</sup>  <sup>`⚠️ Setup:` [`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme)</sup>
 	- `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MY` [Bunny](https://github.com/pyoncord/Bunny) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 
@@ -347,7 +347,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MD` [Summit for Lemmy](https://github.com/idunnololz/summit-for-lemmy) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 💬 **Whatsapp**
-- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) <sup>`⚠️Requires Additional Setup:`[`#1`](https://t.me/MaterialYouApps/217)</sup>
+- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) <sup>`⚠️ Setup:` [`#1`](https://t.me/MaterialYouApps/217)</sup>
 - `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 - **Miscellaneous**
 	- `MD` [WA Enhancer](https://github.com/Dev4Mod/WaEnhancer) <sup>`FOSS`</sup> <sup>`🐾`</sup>
@@ -1095,7 +1095,7 @@ https://github.com/twixxty/Aliyoucord) OR [`#3`](https://github.com/vicefriedric
 - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup>
 - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract)  <sup>`FOSS`</sup>
 - `MDY` [File Navigator](https://github.com/w2sv/FileNavigator)  <sup>`FOSS`</sup>
-- `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280)  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator)`OR`[`#2`](https://github.com/jamal2362/Monet-Generator)</sup> <sup>`🐾`</sup>
+- `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280)  <sup>`⚠️ Setup:` [`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator) [`#2`](https://github.com/jamal2362/Monet-Generator)</sup> <sup>`🐾`</sup>
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager) <sup>`FOSS`</sup>
 - **File Transfer**
