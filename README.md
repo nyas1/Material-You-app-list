@@ -250,6 +250,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
 - `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
+- `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) <sup>`FOSS`</sup>
+- `MDY` [Love Alarm](https://github.com/harsh251004/LoveAlarm) <sup>`FOSS`</sup>
+- `MDY` [Restoid](https://github.com/hddq/restoid) <sup>`FOSS`</sup>
+- `MD3E` [Vitals: ICD-10 & 11 Browser](https://play.google.com/store/apps/details?id=com.icdbrowser.app)
 - `MD3E` [Caffeine Health](https://github.com/ohuc/CaffeineHealth) <sup>`FOSS`</sup>
 - `MDY` [DueDate](https://github.com/MateYou-Apps/DueDate) <sup>`FOSS`</sup>
 - `MDY` [BiBi Keyboard](https://github.com/BryceWG/BiBi-Keyboard) <sup>`FOSS`</sup> <sup>`💰`</sup>
@@ -275,10 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [vFlow](https://github.com/Chaomixian/vFlow) <sup>`FOSS`</sup>
 - `MDY` [DosesPro](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 - `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
-- `MD3E` [Gumroad Stats](https://github.com/sameerasw/GumroadStats) <sup>`FOSS`</sup>
-- `MD3E` [Canvas](https://github.com/sameerasw/canvas) <sup>`FOSS`</sup>
-- `MD3E` [Essentials](https://github.com/sameerasw/essentials) <sup>`FOSS`</sup>
-- `MD3E` [AirSync](https://github.com/sameerasw/airsync-android) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -879,7 +879,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ## 🧠 Productivity & Organization
 ### 📝 Notes/To-do/Wish-lists
 - **Notes**
-    - `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
+	- `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
 	- `MD3E` [June](https://github.com/DenserMeerkat/June) <sup>`FOSS`</sup>
 	- `MD3E` [VerveDo](https://github.com/Super12138/VerveDo)
 	- `MD3E` [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) <sup>`🐾`</sup>
@@ -1021,7 +1021,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
 - `MDY` [MotoClock](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - `MDY` [Clock You](https://github.com/you-apps/ClockYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [LoveAlarm](https://github.com/harsh251004/LoveAlarm)
+- `MDY` [LoveAlarm](https://github.com/harsh251004/LoveAlarm) <sup>`FOSS`</sup>
 - `MDY` [Overload](https://github.com/pabloscloud/Overload) <sup>`FOSS`</sup>
 - `MDY` [AtomicClock](https://play.google.com/store/apps/details?id=partl.atomicclock)
 - `MD` [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch)
@@ -1080,7 +1080,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Literary Clock](https://github.com/AChep/literaryclock)  <sup>`FOSS`</sup>
 	- `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Miscellaneous**
-	- `MD3E` [Self Attendance](https://play.google.com/store/apps/details?id=com.self.attendance) <sup>`FORK`</sup>
+	- `MD3E` [Self Attendance](https://play.google.com/store/apps/details?id=com.self.attendance)
+	- `MD3E` [Vitals: ICD-10 & 11 Browser](https://play.google.com/store/apps/details?id=com.icdbrowser.app)
 	- `MDY` [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) <sup>`FOSS`</sup>
 	- `MDY` [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) <sup>`FOSS`</sup>
 	- `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
@@ -1158,6 +1159,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`FOSS`</sup>
 - `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup) <sup>`FOSS`</sup>
 - `MDY` [AppListBackup](https://github.com/AndroidLabs-org/AppListBackup) <sup>`FOSS`</sup>
+- `MDY` [Restoid](https://github.com/hddq/restoid) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1470,6 +1472,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - **Sleep Tracker**
 	- `MDY` [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
 - **Workout Tracker**
+	- `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit)  <sup>`FOSS`</sup>
 	- `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
 	- `MDY` [Workout Tracker & Gym Plan Log](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
 	- `MDY` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup>
