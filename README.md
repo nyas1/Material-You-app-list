@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) <sup>`FOSS`</sup>
 - `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
 - `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) <sup>`FOSS`</sup>
 - `MDY` [Love Alarm](https://github.com/harsh251004/LoveAlarm) <sup>`FOSS`</sup>
@@ -278,7 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) <sup>`FOSS`</sup>
 - `MDY` [vFlow](https://github.com/Chaomixian/vFlow) <sup>`FOSS`</sup>
 - `MDY` [DosesPro](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
-- `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -870,6 +870,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Alibi](https://github.com/Myzel394/Alibi) <sup>`FOSS`</sup>
 - `MY` [MotoAudioRecorder](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - **Miscellaneous**
+	- `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) <sup>`FOSS`</sup>
 	- `MDY` [Audire](https://github.com/alexmercerind/audire) <sup>`FOSS`</sup>
 	- `MDY` [Audile](https://github.com/aleksey-saenko/MusicRecognizer) <sup>`FOSS`</sup>
 
