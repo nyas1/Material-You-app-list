@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) <sup>`FOSS`</sup>
 - `MDY` [Love Alarm](https://github.com/harsh251004/LoveAlarm) <sup>`FOSS`</sup>
 - `MDY` [Restoid](https://github.com/hddq/restoid) <sup>`FOSS`</sup>
 - `MD3E` [Vitals: ICD-10 & 11 Browser](https://play.google.com/store/apps/details?id=com.icdbrowser.app)
@@ -278,7 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [DosesPro](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 - `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 - `MD3E` [Gumroad Stats](https://github.com/sameerasw/GumroadStats) <sup>`FOSS`</sup>
-- `MD3E` [Canvas](https://github.com/sameerasw/canvas) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
