@@ -718,6 +718,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [You Tune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`FOSS`</sup>
 - `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD` [Echo Music](https://github.com/EchoMusicApp/Echo-Music) <sup>`FOSS`</sup>
 
 #### 🟢 Spotify Clients
 - `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
