@@ -250,6 +250,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
 - `MD3E` [mpvRx](https://github.com/Riteshp2001/mpvRx) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Materialbook](https://github.com/eepiemi/Materialbook) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Zenith](https://github.com/1372Slash/Zenith) <sup>`FOSS`</sup>
 - `MD3E` [WhatHDR](https://github.com/trlef19/WhatHDR) <sup>`FOSS`</sup>
 - `MD3E` [n0widgets](https://github.com/n0white/n0widgets)
 - `MD3E` [Med](https://github.com/FeDeveloper95/Med)
@@ -276,11 +278,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [MonoGram](https://github.com/monogram-android/monogram) <sup>`FOSS`</sup>
 - `MD3E` [Reef](https://github.com/aload0/Reef) <sup>`FOSS`</sup>
 - `MDY` [SoundPod](https://github.com/arunnechully/SoundPod) <sup>`FOSS`</sup>
-- `MY` [MonoTracker](https://github.com/QinMoMeak/MonoTracker) <sup>`FOSS`</sup>
-- `MY` [Fcitx5 for Android](https://github.com/fcitx5-android/fcitx5-android) <sup>`FOSS`</sup>
 - `MD3E` [Torrent Search](https://github.com/prajwalch/TorrentSearch) <sup>`FOSS`</sup>
-- `MD` [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) <sup>`FOSS`</sup>
-- `MDY` [FoodYou](https://github.com/maksimowiczm/FoodYou) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -389,6 +387,9 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 #### 🦤 **Nostr**
 - `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+
+#### 🟦 **Facebook**
+- `MD3E` [Materialbook](https://github.com/eepiemi/Materialbook) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🔧 **Miscellaneous**
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1497,6 +1498,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [trale](https://github.com/QuantumPhysique/trale) <sup>`FOSS`</sup>
 	- `MD` [FitBook](https://github.com/brandonp2412/FitBook)  <sup>`FOSS`</sup>
 - **Digital Well-being**
+	- `MD3E` [Zenith](https://github.com/1372Slash/Zenith) <sup>`FOSS`</sup>
 	- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`FOSS`</sup>
 	- `MDY` [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
 - **Blue Light/Brightness Filter**
@@ -1846,11 +1848,11 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Redomi](https://github.com/acszo/Redomi) <sup>`FOSS`</sup>
 - `MDY` [Tuner](https://github.com/thetwom/Tuner) <sup>`FOSS`</sup>
 - `MDY` [MusicSearch](https://github.com/lydavid/MusicSearch) <sup>`FOSS`</sup>
+- `MD3E` [Omni](https://github.com/AkaneFoundation/Omni) <sup>`FOSS`</sup>
 - `MDY` [GuessIron](https://github.com/mobeil1/GuessIron) <sup>`FOSS`</sup>
 - `MDY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) <sup>`FOSS`</sup>
 - `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Oshi Uploader](https://codeberg.org/quecomet/oshi)  <sup>`FOSS`</sup>
-- `MDY` [Omni](https://github.com/AkaneFoundation/Omni) <sup>`FOSS`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 - `MDY` [X Signer](https://github.com/yamenher/x-signer) <sup>`FOSS`</sup>
 - `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup>
