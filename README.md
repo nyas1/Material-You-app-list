@@ -250,6 +250,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
 - `MD3E` [mpvRx](https://github.com/Riteshp2001/mpvRx) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [WhatHDR](https://github.com/trlef19/WhatHDR) <sup>`FOSS`</sup>
+- `MD3E` [n0widgets](https://github.com/n0white/n0widgets)
+- `MD3E` [Med](https://github.com/FeDeveloper95/Med)
+- `MD` [Telephoto](https://github.com/ASRumon/Telephoto)
+- `MD` [Notebook](https://github.com/SaadhJawwadh/Note-taking) <sup>`FOSS`</sup>
 - `MD` [Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift) <sup>`💰`</sup>
 - `MDY` [Animeko](https://github.com/open-ani/animeko) <sup>`FOSS`</sup>
 - `MD3E` [Cashiro](https://ritesh-kanwar.github.io/cashiro.showcase/)
@@ -275,11 +280,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Fcitx5 for Android](https://github.com/fcitx5-android/fcitx5-android) <sup>`FOSS`</sup>
 - `MD3E` [Torrent Search](https://github.com/prajwalch/TorrentSearch) <sup>`FOSS`</sup>
 - `MD` [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) <sup>`FOSS`</sup>
-- `MDY` [GPTMobile](https://github.com/Taewan-P/gpt_mobile) <sup>`FOSS`</sup>
 - `MDY` [FoodYou](https://github.com/maksimowiczm/FoodYou) <sup>`FOSS`</sup>
-- `MD3E` [AniSync](https://github.com/Marco-9456/AniSync) <sup>`FOSS`</sup>
-- `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MY` [DisCorkie](https://play.google.com/store/apps/details?id=dev.appoutlet.DisCorkie)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -598,6 +599,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD` [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers)
 	- `MY` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`FOSS`</sup>
 - **Widgets/Shortcuts**
+	- `MD3E` [n0widgets](https://github.com/n0white/n0widgets)
 	- `MD3E` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
 	- `MDY` [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) <sup>`FOSS`</sup>
 	- `MDY` [Muviz Widgets](https://play.google.com/store/apps/details?id=com.sparkine.widgets) <sup>`💰`</sup>
@@ -851,7 +853,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`FOSS`</sup>
 	- `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) <sup>`💰`</sup>
 	- `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage)
-	- `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
+	- `MD` [Telephoto](https://github.com/ASRumon/Telephoto)
+	- `MD` [Momentum Editor](https://play.google.com/store.apps/details?id=com.lware.momentum)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -908,8 +911,9 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) <sup>`🪦`</sup>
 	- `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) <sup>`🪦`</sup>
-	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
+- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) <sup>`🪦`</sup>
+- `MD` [Notebook](https://github.com/SaadhJawwadh/Note-taking) <sup>`FOSS`</sup>
+- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
 	- `MD` [Snappr](https://github.com/Iamlooker/Snappr/) <sup>`FOSS`</sup>
@@ -1192,6 +1196,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 📲 Device Info/Monitors
+- `MD3E` [WhatHDR](https://github.com/trlef19/WhatHDR) <sup>`FOSS`</sup>
 - `MD3E` [Traffic Light](https://github.com/leekleak/traffic-light) <sup>`FOSS`</sup>
 - `MD` [Netgety](https://play.google.com/store/apps/details?id=com.psh.netgety)
 - `MDY` [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
@@ -1512,6 +1517,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - **Screen Time**
 	- `MD3E` [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
 - **Medicine Reminder**
+	- `MD3E` [Med](https://github.com/FeDeveloper95/Med)
 	- `MDY` [DosesPro - GLP-1 Tracker](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 	- `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App) <sup>`FOSS`</sup>
 	- `MDY` [MedTimer](https://github.com/Futsch1/medTimer)  <sup>`FOSS`</sup>
