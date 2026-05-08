@@ -1566,6 +1566,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
 	- `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`FOSS`</sup>
 	- `MD` [WalletCount](https://github.com/GittyMac/WalletCount) <sup>`FOSS`</sup>
+	- `MD` [Expensy](https://github.com/mina-android/Expensy) <sup>`FOSS`</sup>
 - **Cryptocurrency**
 	- `MDY` [PapriCoin](https://github.com/T8RIN/PapriCoin) <sup>`FOSS`</sup>
 	- `MDY` [CoinTrend](https://github.com/CoinTrend/CoinTrend) <sup>`FOSS`</sup>
