@@ -63,6 +63,7 @@
 										<li>💬 <a href="#-whatsapp">WhatsApp</a></li>
 										<li>🐻‍❄️ <a href="#‍%EF%B8%8F-vk">VK</a></li>
 										<li>🎨 <a href="#-pixiv">Pixiv</a></li>
+										<li>🟦 <a href="#-facebook">Facebook</a></li>
 										<li>🔐 <a href="#-signal">Signal</a></li>
 										<li>🗣️ <a href="#-matrix">Matrix</a></li>
 										<li>🎥 <a href="#-twitch">Twitch</a></li>
@@ -250,6 +251,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
 - `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
+- `MDY` [Helium](https://github.com/jqssun/android-helium-browser) <sup>`FOSS`</sup>
 - `MD` [Hear quran](https://play.google.com/store/apps/details?id=com.psh.hear_quran)
 - `MD3E` [Momentum](https://github.com/shub39/Momentum) <sup>`FOSS`</sup>
 - `MD3E` [Sound profiles](https://play.google.com/store/apps/details?id=com.a3.soundprofiles)
@@ -278,7 +280,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Love Alarm](https://github.com/harsh251004/LoveAlarm) <sup>`FOSS`</sup>
 - `MDY` [Restoid](https://github.com/hddq/restoid) <sup>`FOSS`</sup>
 - `MD3E` [Vitals: ICD-10 & 11 Browser](https://play.google.com/store/apps/details?id=com.icdbrowser.app)
-- `MD3E` [Caffeine Health](https://github.com/ohuc/CaffeineHealth) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
