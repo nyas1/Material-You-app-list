@@ -253,7 +253,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift) <sup>`💰`</sup>
 - `MDY` [Animeko](https://github.com/open-ani/animeko) <sup>`FOSS`</sup>
 - `MD3E` [Cashiro](https://ritesh-kanwar.github.io/cashiro.showcase/)
-- `MD` [Netgety](https://play.google.com/store/apps/details?id=com.psh.netgety)
+- `MD` [Netgety](https://play.google.com/store.apps/details?id=com.psh.netgety)
+- `MDY` [MasterKey](https://github.com/PSHTeam/masterkey_core) <sup>`FOSS`</sup> <sup>`💰`</sup>
+- `MD` [Time wise](https://play.google.com/store/apps/details?id=com.psh.time_wise) <sup>`💰`</sup>
+- `MD` [Pixel bookmarks](https://play.google.com/store/apps/details?id=com.psh.pixel_bookmarks) <sup>`💰`</sup>
+- `MD` [CoMaps](https://github.com/comaps/comaps/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD` [Inaho](https://github.com/LoggingNewMemory/Inaho)
 - `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) <sup>`FOSS`</sup>
 - `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
 - `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) <sup>`FOSS`</sup>
@@ -275,14 +280,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [AniSync](https://github.com/Marco-9456/AniSync) <sup>`FOSS`</sup>
 - `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MY` [DisCorkie](https://play.google.com/store/apps/details?id=dev.appoutlet.DisCorkie)
-- `MD3E` [Dustvalve Next](https://github.com/Pingasmaster/dustvalve_next) <sup>`FOSS`</sup>
-- `MD3E` [Examduler PWA](https://github.com/ingStudiosOfficial/examduler) <sup>`FOSS`</sup>
-- `MY` [Calculite PWA](https://github.com/ingStudiosOfficial/calculite) <sup>`FOSS`</sup>
-- `MDY` [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [RenPlay](https://github.com/Reset171/RenPlay) <sup>`FOSS`</sup>
-- `MD3E` [June](https://github.com/DenserMeerkat/June) <sup>`FOSS`</sup>
-- `MD` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) <sup>`FOSS`</sup>
-- `MDY` [vFlow](https://github.com/Chaomixian/vFlow) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -674,6 +671,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
 - `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
+- `MD` [Inaho](https://github.com/LoggingNewMemory/Inaho)
 - `MD` [VK X](https://vkx.app/)
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
@@ -944,7 +942,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
 	- `MDY` [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) <sup>`FOSS`</sup>
 	- `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
-	- `MD` [RemindMe](https://play.google.com/store/apps/details?id=com.anafthdev.remindme) <sup>`🪦`</sup>
+	- `MD` [Time wise](https://play.google.com/store/apps/details?id=com.psh.time_wise) <sup>`💰`</sup>
+	- `MD` [RemindMe](https://play.google.com/store.apps/details?id=com.anafthdev.remindme) <sup>`🪦`</sup>
 	- `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Miscellaneous**
 	- `MDY` [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
@@ -1297,6 +1296,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
 	- `MDY` [Linkdy](https://play.google.com/store/apps/details?id=com.jgeek00.linkdy)
 	- `MDY` [Linkora](https://github.com/sakethpathike/Linkora)  <sup>`FOSS`</sup>
+	- `MD` [Pixel bookmarks](https://play.google.com/store/apps/details?id=com.psh.pixel_bookmarks) <sup>`💰`</sup>
 	- `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
 	- `MD` [Omnivore](https://github.com/omnivore-app/omnivore)  <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [frigoligo](https://github.com/casimir/frigoligo)  <sup>`FOSS`</sup>
@@ -1353,11 +1353,12 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 🗺️ Maps/Navigation
 - `MDY` [BTC Map](https://github.com/teambtcmap/btcmap-android) <sup>`FOSS`</sup>
 - `MDY` [Mulciber](https://play.google.com/store/apps/details?id=it.mirko.bus)
-- `MDY` [RideBus](https://play.google.com/store/apps/details?id=org.xtimms.ridebus)
+- `MDY` [RideBus](https://play.google.com/store.apps/details?id=org.xtimms.ridebus)
 - `MDY` [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega)
 - `MDY` [Tridenta](https://github.com/Stypox/tridenta) <sup>`FOSS`</sup>
 - `MDY` [Compass](https://github.com/SynapseTech/Compass) <sup>`FOSS`</sup>
 - `MDY` [Bimba](https://f-droid.org/packages/xyz.apiote.bimba.czwek/) <sup>`FOSS`</sup>
+- `MD` [CoMaps](https://github.com/comaps/comaps/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD` [Trail Sense](https://github.com/kylecorry31/Trail-Sense) <sup>`FOSS`</sup>
 - `MD` [EVMap](https://github.com/ev-map/EVMap) <sup>`FOSS`</sup>
 - `MD` [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
@@ -1694,6 +1695,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 🔑 Password Manager
 - `MD3E` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app) <sup>`🐾`</sup>
+- `MDY` [MasterKey](https://github.com/PSHTeam/masterkey_core) <sup>`FOSS`</sup> <sup>`💰`</sup>
 - `MDY` [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) <sup>`FOSS`</sup>
 - `MDY` [Nextcloud Passwords](https://github.com/hegocre/NextcloudPasswords) <sup>`FOSS`</sup>
 - `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`FOSS`</sup>
