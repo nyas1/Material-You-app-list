@@ -723,8 +723,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Musify](https://github.com/gokadzev/Musify) <sup>`FOSS`</sup>
 - `MDY` [You Tune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`FOSS`</sup>
-- `MDY` [Echo](https://github.com/EchoMusicApp/Echo-Music) <sup>`FOSS`</sup>
 - `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD` [Echo Music](https://github.com/EchoMusicApp/Echo-Music) <sup>`FOSS`</sup>
 - `MD` [Harmoni](https://github.com/onedev22/harmoni) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🟢 Spotify Clients
