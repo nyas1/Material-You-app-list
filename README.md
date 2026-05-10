@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD` [Expensy](https://github.com/mina-android/Expensy) <sup>`FOSS`</sup>
 - `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) <sup>`FOSS`</sup>
 - `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
 - `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) <sup>`FOSS`</sup>
@@ -278,7 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [June](https://github.com/DenserMeerkat/June) <sup>`FOSS`</sup>
 - `MD` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) <sup>`FOSS`</sup>
 - `MDY` [vFlow](https://github.com/Chaomixian/vFlow) <sup>`FOSS`</sup>
-- `MDY` [DosesPro](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
