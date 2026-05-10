@@ -250,7 +250,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
-- `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
+- `MD` [Expensy](https://github.com/mina-android/Expensy) <sup>`FOSS`</sup>
+- `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Helium](https://github.com/jqssun/android-helium-browser) <sup>`FOSS`</sup>
 - `MD` [Hear quran](https://play.google.com/store/apps/details?id=com.psh.hear_quran)
 - `MD3E` [Momentum](https://github.com/shub39/Momentum) <sup>`FOSS`</sup>
@@ -262,7 +263,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Zenith](https://github.com/1372Slash/Zenith) <sup>`FOSS`</sup>
 - `MD3E` [WhatHDR](https://github.com/trlef19/WhatHDR) <sup>`FOSS`</sup>
 - `MD3E` [n0widgets](https://github.com/n0white/n0widgets)
-- `MD3E` [Med](https://github.com/FeDeveloper95/Med)
+- `MD3E` [Med](https://github.com/FeDeveloper95/Med) <sup>`FOSS`</sup>
 - `MD` [Telephoto](https://github.com/ASRumon/Telephoto)
 - `MD` [Notebook](https://github.com/SaadhJawwadh/Note-taking) <sup>`FOSS`</sup>
 - `MD` [Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift) <sup>`💰`</sup>
@@ -279,7 +280,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) <sup>`FOSS`</sup>
 - `MDY` [Love Alarm](https://github.com/harsh251004/LoveAlarm) <sup>`FOSS`</sup>
 - `MDY` [Restoid](https://github.com/hddq/restoid) <sup>`FOSS`</sup>
-- `MD3E` [Vitals: ICD-10 & 11 Browser](https://play.google.com/store/apps/details?id=com.icdbrowser.app)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1526,7 +1526,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - **Screen Time**
 	- `MD3E` [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
 - **Medicine Reminder**
-	- `MD3E` [Med](https://github.com/FeDeveloper95/Med)
+	- `MD3E` [Med](https://github.com/FeDeveloper95/Med) <sup>`FOSS`</sup>
 	- `MDY` [DosesPro - GLP-1 Tracker](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 	- `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App) <sup>`FOSS`</sup>
 	- `MDY` [MedTimer](https://github.com/Futsch1/medTimer)  <sup>`FOSS`</sup>
@@ -1591,6 +1591,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
 	- `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`FOSS`</sup>
 	- `MD` [WalletCount](https://github.com/GittyMac/WalletCount) <sup>`FOSS`</sup>
+	- `MD` [Expensy](https://github.com/mina-android/Expensy) <sup>`FOSS`</sup>
 - **Cryptocurrency**
 	- `MDY` [PapriCoin](https://github.com/T8RIN/PapriCoin) <sup>`FOSS`</sup>
 	- `MDY` [CoinTrend](https://github.com/CoinTrend/CoinTrend) <sup>`FOSS`</sup>
