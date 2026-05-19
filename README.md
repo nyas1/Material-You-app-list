@@ -250,6 +250,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [NagramX](https://github.com/risin42/NagramX) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`MOD`</sup>
+- `MD3E` [Meld](https://github.com/FrancescoGrazioso/Meld) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Terminal EX](https://github.com/Graywizard888/Terminal_EX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Blockit](https://play.google.com/store/apps/details?id=com.hypenet.focused) <sup>`💰`</sup>
 - `MD` [Music speed changer](https://play.google.com/store/apps/details?id=com.smp.musicspeed) <sup>`💰`</sup>
 - `MD` [Wear audio recorder](https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone) <sup>`💰`</sup>
@@ -277,18 +280,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Telephoto](https://github.com/ASRumon/Telephoto)
 - `MD` [Notebook](https://github.com/SaadhJawwadh/Note-taking) <sup>`FOSS`</sup>
 - `MD` [Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift) <sup>`💰`</sup>
-- `MDY` [Animeko](https://github.com/open-ani/animeko) <sup>`FOSS`</sup>
-- `MD3E` [Cashiro](https://ritesh-kanwar.github.io/cashiro.showcase/)
-- `MD` [Netgety](https://play.google.com/store.apps/details?id=com.psh.netgety)
-- `MDY` [MasterKey](https://github.com/PSHTeam/masterkey_core) <sup>`FOSS`</sup> <sup>`💰`</sup>
-- `MD` [Time wise](https://play.google.com/store/apps/details?id=com.psh.time_wise) <sup>`💰`</sup>
-- `MD` [Pixel bookmarks](https://play.google.com/store/apps/details?id=com.psh.pixel_bookmarks) <sup>`💰`</sup>
-- `MD` [CoMaps](https://github.com/comaps/comaps/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD` [Inaho](https://github.com/LoggingNewMemory/Inaho)
-- `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) <sup>`FOSS`</sup>
-- `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
-- `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
-- `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -343,6 +334,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Forkgram](https://github.com/forkgram/TelegramAndroid) <sup>`FOSS`</sup>
 - `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
+	- `MD3E` [NagramX](https://github.com/risin42/NagramX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
 - `MY` [Mercurygram](https://github.com/Mercurygram/Mercurygram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -665,6 +657,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [PixelPlayer](https://github.com/theovilardo/PixelPlayer) <sup>`FOSS`</sup>
 - `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
 - `MD3E` [Chocola](https://github.com/sosauce/Chocola) <sup>`FOSS`</sup>
+- `MD3E` [Meld](https://github.com/FrancescoGrazioso/Meld) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) <sup>`💰`</sup>
 - `MDY` [SaTunes](https://codeberg.org/antoinepirlot/Satunes) <sup>`FOSS`</sup>
 - `MDY` [Harmonoid](https://github.com/harmonoid/harmonoid) <sup>`FOSS`</sup>
 - `MDY` [EON](https://play.google.com/store/apps/details?id=qijaz221.github.io.musicplayer)
@@ -769,7 +763,6 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
 - `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
 - `MD` [Drive Stream](https://github.com/itszechs/DriveStream) <sup>`FOSS`</sup>
-- `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
 - `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 ---
@@ -1213,6 +1206,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Logra](https://github.com/wingio/Logra) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) <sup>`FOSS`</sup>
 - `MY` [Termux Monet](https://github.com/Termux-Monet/termux-monet) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Terminal EX](https://github.com/Graywizard888/Terminal_EX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1512,9 +1506,9 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
 - **Workout Tracker**
 	- `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit)  <sup>`FOSS`</sup>
+	- `MD3E` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
 	- `MDY` [Workout Tracker & Gym Plan Log](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
-	- `MDY` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup>
 	- `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer)  <sup>`FOSS`</sup>
 	- `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 	- `MD` [Massive](https://github.com/brandonp2412/Massive)  <sup>`FOSS`</sup>
