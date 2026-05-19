@@ -250,6 +250,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Blockit](https://play.google.com/store/apps/details?id=com.hypenet.focused) <sup>`💰`</sup>
+- `MD` [Music speed changer](https://play.google.com/store/apps/details?id=com.smp.musicspeed) <sup>`💰`</sup>
+- `MD` [Wear audio recorder](https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone) <sup>`💰`</sup>
+- `MD` [Coon gallery](https://github.com/BOTPanzer/Coon-Gallery/) <sup>`FOSS`</sup>
+- `MD` [Scanly](https://github.com/Azyrn/Scanly) <sup>`FOSS`</sup>
 - `MD3E` [Gradient Weather](https://play.google.com/store/apps/details?id=com.subtlesignals.gradientweather)
 - `MDY` [Conversations](https://codeberg.org/iNPUTmice/Conversations) <sup>`FOSS`</sup>
 - `MDY` [Threema](https://github.com/threema-ch/threema-android) <sup>`FOSS`</sup> <sup>`💰`</sup>
@@ -832,11 +837,12 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 🎛️ Equalizers
-- `MD` [Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift) <sup>`💰`</sup>
 - `MDY` [Wavelet](https://play.google.com/store.apps/details?id=com.pittvandewitt.wavelet)
 - `MDY` [ViperFX RE](https://github.com/WSTxda/ViperFX-RE-Releases) <sup>`MOD`</sup>
 - `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) <sup>`FOSS`</sup>
 - `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`MOD`</sup>
+- `MD` [Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift) <sup>`💰`</sup>
+- `MD` [Music speed changer](https://play.google.com/store/apps/details?id=com.smp.musicspeed) <sup>`💰`</sup>
 - `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -852,6 +858,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Gallery](https://github.com/IacobIonut01/Gallery) <sup>`FOSS`</sup>
 - `MDY` [Right Gallery](https://play.google.com/store/apps/details?id=com.goodwy.gallery) <sup>`FOSS`</sup>
 - `MDY` [Immich](https://github.com/immich-app/immich) <sup>`FOSS`</sup>
+- `MD` [Coon gallery](https://github.com/BOTPanzer/Coon-Gallery/) <sup>`FOSS`</sup>
 - `MY` [Aves](https://github.com/deckerst/aves) <sup>`FOSS`</sup>
 - **Tools**
 	- `MD3E` [Canvas](https://github.com/sameerasw/canvas) <sup>`FOSS`</sup>
@@ -889,6 +896,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
 - `MDY` [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor)
 - `MDY` [Alibi](https://github.com/Myzel394/Alibi) <sup>`FOSS`</sup>
+- `MD` [Wear audio recorder](https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone) <sup>`💰`</sup>
 - `MY` [MotoAudioRecorder](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - **Miscellaneous**
 	- `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) <sup>`FOSS`</sup>
@@ -1279,6 +1287,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) <sup>`FOSS`</sup>
 - `MDY` [Genius Scan](https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free)
 - `MDY` [Catalog Scanner (for ACNH)](https://play.google.com/store/apps/details?id=com.acnh.catalog_scanner)
+- `MD` [Scanly](https://github.com/Azyrn/Scanly) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1513,6 +1522,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [trale](https://github.com/QuantumPhysique/trale) <sup>`FOSS`</sup>
 	- `MD` [FitBook](https://github.com/brandonp2412/FitBook)  <sup>`FOSS`</sup>
 - **Digital Well-being**
+	- `MD3E` [Blockit](https://play.google.com/store/apps/details?id=com.hypenet.focused) <sup>`💰`</sup>
 	- `MD3E` [Zenith](https://github.com/1372Slash/Zenith) <sup>`FOSS`</sup>
 	- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`FOSS`</sup>
 	- `MDY` [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
