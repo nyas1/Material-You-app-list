@@ -250,6 +250,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Shizuku](https://github.com/thedjchi/Shizuku) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
 - `MD` [Moon Translator](https://github.com/MoonMonet/Translator) <sup>`FOSS`</sup>
 - `MY` [WebLibre](https://github.com/FaFre/WebLibre) <sup>`FOSS`</sup>
@@ -279,8 +280,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Echo](https://github.com/EchoMusicApp/Echo-Music) <sup>`FOSS`</sup>
 - `MD` [Harmoni](https://github.com/onedev22/harmoni) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [mpvRx](https://github.com/Riteshp2001/mpvRx) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [Materialbook](https://github.com/eepiemi/Materialbook) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -693,9 +692,10 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### ▶️ Video Players
-- `MD3E` [mpvRx](https://github.com/Riteshp2001/mpvRx) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MD3E` [mpvEx](https://github.com/marlboro-advance/mpvEx) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	- `MD3E` [mpvRx](https://github.com/Riteshp2001/mpvRx) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MDY` [Video Player - Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
