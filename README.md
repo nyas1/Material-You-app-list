@@ -250,6 +250,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Flow](https://github.com/A-EDev/Flow) <sup>`FOSS`</sup>
 - `MD3E` [LastChat](https://github.com/Cocolalilal/LastChat) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Shizuku](https://github.com/thedjchi/Shizuku) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
@@ -279,7 +280,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Momentum](https://github.com/shub39/Momentum) <sup>`FOSS`</sup>
 - `MD3E` [Sound profiles](https://play.google.com/store/apps/details?id=com.a3.soundprofiles)
 - `MDY` [Echo](https://github.com/EchoMusicApp/Echo-Music) <sup>`FOSS`</sup>
-- `MD` [Harmoni](https://github.com/onedev22/harmoni) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -706,6 +706,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 📺 Streaming Services
 #### 💌 Youtube Clients
+- `MD3E` [Flow](https://github.com/A-EDev/Flow) <sup>`FOSS`</sup>
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
 - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
 - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`FOSS`</sup> <sup>`🪦`</sup>
