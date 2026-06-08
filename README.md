@@ -680,7 +680,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
-- `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
+- `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Inaho](https://github.com/LoggingNewMemory/Inaho)
 - `MD` [VK X](https://vkx.app/)
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -709,7 +709,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 #### 💌 Youtube Clients
 - `MDY` [Flow](https://github.com/A-EDev/Flow) <sup>`FOSS`</sup>
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
-- `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
+- `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
 - `MDY` [TubeSync](https://github.com/khaled-0/TubeSync) <sup>`FOSS`</sup>
@@ -740,20 +740,20 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 #### 🟢 Spotify Clients
 - `MD3E` [Outify](https://github.com/iTomKo/Outify) <sup>`FOSS`</sup>
 - `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [Jetispot](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [Jetispot](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 
 #### 🐡 Subsonic Clients
 - `MD3E` [Navic](https://github.com/paigely/Navic) <sup>`FOSS`</sup>
-- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`FOSS`</sup>
+- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`FOSS`</sup>
 - `MDY` [Youamp](https://github.com/siper/Youamp) <sup>`FOSS`</sup>
-- `MD` [Tempo](https://github.com/CappielloAntonio/tempo) <sup>`FOSS`</sup>
+- `MD` [Tempo](https://github.com/CappielloAntonio/tempo) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🔧 Miscellaneous (Anime, etc.)
 - `MDY` [Animeko](https://github.com/open-ani/animeko) <sup>`FOSS`</sup>
 - `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 	- `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Dantotsu](https://github.com/rebelonion/Dantotsu) <sup>`FOSS`</sup>
+- `MDY` [Dantotsu](https://github.com/rebelonion/Dantotsu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Awery](https://github.com/MrBoomDeveloper/Awery) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -763,10 +763,10 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) <sup>`FOSS`</sup>
 - `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`FOSS`</sup>
-- `MD` [Tokei](https://github.com/Sovan22/Tokeii) <sup>`FOSS`</sup>
+- `MD` [Tokei](https://github.com/Sovan22/Tokeii) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
 - `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
-- `MD` [Drive Stream](https://github.com/itszechs/DriveStream) <sup>`FOSS`</sup>
+- `MD` [Drive Stream](https://github.com/itszechs/DriveStream) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 ---
@@ -783,7 +783,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Live Football on TV Guide](https://play.google.com/store/apps/details?id=com.livefootballontv.free)
 - `MDY` [Movies](https://github.com/michaelbel/movies) <sup>`FOSS`</sup>
 - `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-- `MDY` [Nekome](https://github.com/Chesire/Nekome) <sup>`FOSS`</sup>
+- `MDY` [Nekome](https://github.com/Chesire/Nekome) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [PiliPala](https://github.com/guozhigq/pilipala) <sup>`FOSS`</sup>
 - `MDY` [Tivi](https://github.com/chrisbanes/tivi) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) <sup>`FOSS`</sup>
