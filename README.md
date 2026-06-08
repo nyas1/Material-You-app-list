@@ -599,11 +599,11 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Frames](https://github.com/jahirfiquitiva/Frames) <sup>`FOSS`</sup>
 	- `MDY` [iOSXPC Wallpaper](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers)
 	- `MDY` [Wallpapers Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos)
-	- `MDY` [Wallman](https://gitlab.com/colorata/wallman) <sup>`FOSS`</sup>
+	- `MDY` [Wallman](https://gitlab.com/colorata/wallman) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper)
 	- `MDY` [WallFlow](https://github.com/ammargitham/WallFlow/) <sup>`FOSS`</sup>
 	- `MD` [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers)
-	- `MY` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`FOSS`</sup>
+	- `MY` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Widgets/Shortcuts**
 	- `MD3E` [n0widgets](https://play.google.com/store/apps/details?id=com.n0white.n0widgets) <sup>`💰`</sup>
 	- `MD3E` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
@@ -642,11 +642,11 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 👋 Gesture Control
-- `MDY` [Tap, Tap](https://github.com/KieronQuinn/TapTap) <sup>`FOSS`</sup>
+- `MDY` [Tap, Tap](https://github.com/KieronQuinn/TapTap) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Rotation](https://play.google.com/store/apps/details?id=com.pranavpandey.rotation)
 - `MDY` [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock)
 - `MDY` [Pocket Mode](https://github.com/AChep/PocketMode) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [SoundTap](https://github.com/Angel-Studio/SoundTap) <sup>`FOSS`</sup>
+- `MDY` [SoundTap](https://github.com/Angel-Studio/SoundTap) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -668,10 +668,10 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup>
 	- `MDY` [Metro](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 	- `MDY` [Apex Music](https://play.google.com/store/apps/details?id=com.ttop.app.apex) <sup>`FORK`</sup> <sup>`🪦`</sup>
-- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
+- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) <sup>`🪦`</sup>
 - `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
-- `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup>
-- `MDY` [Zen](https://github.com/pakka-papad/Zen) <sup>`FOSS`</sup>
+- `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Zen](https://github.com/pakka-papad/Zen) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Fossify Music Player](https://github.com/FossifyOrg/Music-Player) <sup>`FOSS`</sup>
 - `MDY` [Vibe You](https://github.com/you-apps/VibeYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup> <sup>`🪦`</sup>
