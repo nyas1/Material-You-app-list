@@ -1434,7 +1434,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [CodeFusion](https://play.google.com/store/apps/details?id=com.alif.editor.code)
 - `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
 - `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup>
+- `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) <sup>`FOSS`</sup>
 - `MDY` [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) <sup>`FOSS`</sup>
 - `MDY` [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) <sup>`FOSS`</sup>
@@ -1460,7 +1460,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [MaterialGallery android](https://github.com/NUmeroAndDev/MaterialGallery-android) <sup>`FOSS`</sup>
 - `MDY` [Material Components for Android](https://github.com/material-components/material-components-android) <sup>`FOSS`</sup>
 - `MDY` [Compose Material Theme](https://play.google.com/store/apps/details?id=compose.material.theme)
-- `MDY` [Previewer](https://github.com/Smooth-E/monet-color-previewer) <sup>`FOSS`</sup>
+- `MDY` [Previewer](https://github.com/Smooth-E/monet-color-previewer) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Material3 Catalog Compose](https://play.google.com/store/apps/details?id=wonky.product.materialyoucatalog)
 - `MD` [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose)
 - `MD` [Android Material UI/UX](https://play.google.com/store/apps/details?id=com.boltuix.materialuiux)
@@ -1475,7 +1475,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Klick'r](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
 - `MDY` [Syncthing](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup>
-- `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup>
+- `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [EasySync](https://github.com/phpbg/easysync) <sup>`FOSS`</sup>
 - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) <sup>`💰`</sup>
 - `MY` [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) <sup>`FOSS`</sup>
@@ -1520,27 +1520,27 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Workout Tracker & Gym Plan Log](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
 	- `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer) <sup>`FOSS`</sup>
 	- `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
-	- `MD` [Massive](https://github.com/brandonp2412/Massive) <sup>`FOSS`</sup>
+	- `MD` [Massive](https://github.com/brandonp2412/Massive) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Body Weight**
 	- `MDY` [trale](https://github.com/QuantumPhysique/trale) <sup>`FOSS`</sup>
 	- `MD` [FitBook](https://github.com/brandonp2412/FitBook) <sup>`FOSS`</sup>
 - **Digital Well-being**
 	- `MD3E` [Blockit](https://play.google.com/store/apps/details?id=com.hypenet.focused) <sup>`💰`</sup>
 	- `MD3E` [Zenith](https://github.com/1372Slash/Zenith) <sup>`FOSS`</sup>
-	- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`FOSS`</sup>
+	- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
 - **Blue Light/Brightness Filter**
 	- `MDY` [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
 	- `MDY` [Low Brightness](https://github.com/D4rK7355608/com.d4rk.lowbrightness) <sup>`FOSS`</sup>
-	- `MDY` [NightScreen](https://github.com/SkyD666/NightScreen) <sup>`FOSS`</sup>
+	- `MDY` [NightScreen](https://github.com/SkyD666/NightScreen) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 - **Habit Tracker**
 	- `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
-	- `MDY` [Soberity](https://github.com/KiARC/Sobriety) <sup>`FOSS`</sup>
-	- `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`FOSS`</sup>
+	- `MDY` [Soberity](https://github.com/KiARC/Sobriety) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Table Habit](https://github.com/FriesI23/mhabit) <sup>`FOSS`</sup>
-	- `MDY` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
-	- `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) <sup>`FOSS`</sup>
+	- `MDY` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Koduko](https://github.com/Mazahir26/koduko) <sup>`FOSS`</sup>
 	- `MD` [Habo](https://github.com/xpavle00/Habo) <sup>`FOSS`</sup>
 	- `MD` [Terra](https://play.google.com/store/apps/details?id=com.ikramhasan.terra)
