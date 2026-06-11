@@ -898,9 +898,9 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) <sup>`🪦`</sup>
 	- `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) <sup>`🪦`</sup>
-- `MD` [Notebook](https://github.com/SaadhJawwadh/Note-taking) <sup>`FOSS`</sup>
-- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
+	- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) <sup>`🪦`</sup>
+	- `MD` [Notebook](https://github.com/SaadhJawwadh/Note-taking) <sup>`FOSS`</sup>
+	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
 	- `MD` [Snappr](https://github.com/Iamlooker/Snappr/) <sup>`FOSS`</sup> <sup>`🪦`</sup>
