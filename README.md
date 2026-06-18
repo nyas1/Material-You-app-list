@@ -249,6 +249,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD` [Lifewatch](https://play.google.com/store/apps/details?id=com.urbandroid.lifewatch)
+- `MD3E` [ueberboese](https://github.com/julius-d/ueberboese-app) <sup>`FOSS`</sup>
 - `MD3E` [WiFiAudioStreaming-Android](https://gitlab.com/marcomorosi.dev/wifiaudiostreaming-android) <sup>`FOSS`</sup>
 - `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) <sup>`FOSS`</sup>
 - `MDY` [storii](https://github.com/likhithpraveenk/storii) <sup>`FOSS`</sup>
@@ -277,8 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Coon gallery](https://github.com/BOTPanzer/Coon-Gallery/) <sup>`FOSS`</sup>
 - `MD` [Scanly](https://github.com/Azyrn/Scanly) <sup>`FOSS`</sup>
 - `MD3E` [Gradient Weather](https://play.google.com/store/apps/details?id=com.subtlesignals.gradientweather)
-- `MDY` [Conversations](https://codeberg.org/iNPUTmice/Conversations) <sup>`FOSS`</sup>
-- `MDY` [Threema](https://github.com/threema-ch/threema-android) <sup>`FOSS`</sup> <sup>`💰`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1242,7 +1242,6 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) <sup>`FOSS`</sup>
 - `MDY` [Genius Scan](https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free)
 - `MDY` [Catalog Scanner (for ACNH)](https://play.google.com/store/apps/details?id=com.acnh.catalog_scanner)
-- `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) <sup>`FOSS`</sup>
 - `MD` [Scanly](https://github.com/Azyrn/Scanly) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1462,18 +1461,19 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [Kenko](https://github.com/Iamlooker/Kenko) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD3E` [hōtter](https://play.google.com/store/apps/details?id=com.hotter.workout) <sup>`💰`</sup>
 	- `MDY` [Flexify](https://github.com/brandonp2412/Flexify) <sup>`FOSS`</sup>
-	- `MDY` [Workout Tracker & Gym Plan Log](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
+	- `MDY` [GymRun](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
 	- `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer) <sup>`FOSS`</sup>
-	- `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
+	- `MD` [WGER](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 	- `MD` [Massive](https://github.com/brandonp2412/Massive) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Body Weight**
 	- `MDY` [FitBook](https://github.com/brandonp2412/FitBook) <sup>`FOSS`</sup>
 	- `MDY` [trale](https://github.com/QuantumPhysique/trale) <sup>`FOSS`</sup>
-- **Digital Well-being**
+- **Digital Well-being & Screen Time**
 	- `MD3E` [Blockit](https://play.google.com/store/apps/details?id=com.hypenet.focused) <sup>`💰`</sup>
+	- `MD3E` [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
 	- `MD3E` [Zenith](https://github.com/1372Slash/Zenith) <sup>`FOSS`</sup>
-	- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
+	- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Blue Light/Brightness Filter**
 	- `MDY` [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
 	- `MDY` [NightScreen](https://github.com/SkyD666/NightScreen) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1488,8 +1488,6 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD` [Koduko](https://github.com/Mazahir26/koduko) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Habo](https://github.com/xpavle00/Habo) <sup>`FOSS`</sup>
 	- `MD` [Terra](https://play.google.com/store/apps/details?id=com.ikramhasan.terra)
-- **Screen Time**
-	- `MD3E` [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
 - **Medicine Reminder**
 	- `MD3E` [Med](https://github.com/FeDeveloper95/Med) <sup>`FOSS`</sup>
 	- `MDY` [DosesPro - GLP-1 Tracker](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
@@ -1510,6 +1508,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD` [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
 	- `MD` [Baby on Board](https://gitlab.com/LaBaude32/bob) <sup>`FOSS`</sup>
 	- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MD` [Lifewatch](https://play.google.com/store/apps/details?id=com.urbandroid.lifewatch)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1727,9 +1726,11 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
 - `MD3E` [Randomix](https://github.com/m-i-n-a-r/randomix) <sup>`FOSS`</sup>
 - `MD3E` [Sound profiles](https://play.google.com/store/apps/details?id=com.a3.soundprofiles)
+- `MD3E` [ueberboese](https://github.com/julius-d/ueberboese-app) <sup>`FOSS`</sup>
 - `MD3E` [WiFiAudioStreaming-Android](https://gitlab.com/marcomorosi.dev/wifiaudiostreaming-android) <sup>`FOSS`</sup>
 - `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [GitNex](https://codeberg.org/gitnex/GitNex) <sup>`FOSS`</sup>
+- `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) <sup>`FOSS`</sup>
 - `MDY` [DioHub](https://github.com/namanshergill/diohub) <sup>`FOSS`</sup>
 - `MDY` [Geto](https://github.com/JackEblan/Geto) <sup>`FOSS`</sup>
 - `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) <sup>`FOSS`</sup>
