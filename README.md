@@ -244,12 +244,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 |**`🪦`**|Development stopped or paused indefinitely|
 |**`🐾`**|Apps personally used|
 
-- ⛔ Some indicators might be off—I identified MD/MY/MDY status by screenshots. Please report any mistakes.
 - ⚠️ Some apps may need extra steps to enable MY theming.
 - 🔗 Links can be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, official sites, etc. I use GitHub when possible, but not all apps are there. Report broken links!
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [WiFiAudioStreaming-Android](https://gitlab.com/marcomorosi.dev/wifiaudiostreaming-android) <sup>`FOSS`</sup>
+- `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) <sup>`FOSS`</sup>
 - `MDY` [storii](https://github.com/likhithpraveenk/storii) <sup>`FOSS`</sup>
 - `MDY` [Taison](https://github.com/Gent8/Taison) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [MetroFuse](https://github.com/956tris/MetroFuse) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -278,8 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Gradient Weather](https://play.google.com/store/apps/details?id=com.subtlesignals.gradientweather)
 - `MDY` [Conversations](https://codeberg.org/iNPUTmice/Conversations) <sup>`FOSS`</sup>
 - `MDY` [Threema](https://github.com/threema-ch/threema-android) <sup>`FOSS`</sup> <sup>`💰`</sup>
-- `MD` [Equran](https://github.com/ya27hw/equran_app) <sup>`FOSS`</sup>
-- `MD` [Trudido](https://github.com/dominikmuellr/trudido) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1243,6 +1242,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) <sup>`FOSS`</sup>
 - `MDY` [Genius Scan](https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free)
 - `MDY` [Catalog Scanner (for ACNH)](https://play.google.com/store/apps/details?id=com.acnh.catalog_scanner)
+- `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) <sup>`FOSS`</sup>
 - `MD` [Scanly](https://github.com/Azyrn/Scanly) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1727,6 +1727,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
 - `MD3E` [Randomix](https://github.com/m-i-n-a-r/randomix) <sup>`FOSS`</sup>
 - `MD3E` [Sound profiles](https://play.google.com/store/apps/details?id=com.a3.soundprofiles)
+- `MD3E` [WiFiAudioStreaming-Android](https://gitlab.com/marcomorosi.dev/wifiaudiostreaming-android) <sup>`FOSS`</sup>
 - `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [GitNex](https://codeberg.org/gitnex/GitNex) <sup>`FOSS`</sup>
 - `MDY` [DioHub](https://github.com/namanshergill/diohub) <sup>`FOSS`</sup>
