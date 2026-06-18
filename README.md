@@ -250,6 +250,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [storii](https://github.com/likhithpraveenk/storii) <sup>`FOSS`</sup>
+- `MDY` [Taison](https://github.com/Gent8/Taison) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [MetroFuse](https://github.com/956tris/MetroFuse) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD` [Do it](https://github.com/maximilian-schwaerzler/Do-It) <sup>`FOSS`</sup>
+- `MD` [OpenPillReminder](https://github.com/mariinkys/OpenPillReminder) <sup>`FOSS`</sup>
 - `MD3E` [Kite](https://github.com/zenzer0s/Kite) <sup>`FOSS`</sup>
 - `MD3E` [mpvFlux](https://github.com/Muhammedahmed18/mpvFlux) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Flow](https://github.com/A-EDev/Flow) <sup>`FOSS`</sup>
@@ -275,18 +280,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Threema](https://github.com/threema-ch/threema-android) <sup>`FOSS`</sup> <sup>`💰`</sup>
 - `MD` [Equran](https://github.com/ya27hw/equran_app) <sup>`FOSS`</sup>
 - `MD` [Trudido](https://github.com/dominikmuellr/trudido) <sup>`FOSS`</sup>
-- `MD` [Expensy](https://github.com/mina-android/Expensy) <sup>`FOSS`</sup>
-- `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Helium](https://github.com/jqssun/android-helium-browser) <sup>`FOSS`</sup>
-- `MD` [Hear quran](https://play.google.com/store/apps/details?id=com.psh.hear_quran)
-- `MD3E` [Momentum](https://github.com/shub39/Momentum) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ## 🌐 Social & Communication
 ### 👥 Social Media
 #### 🧠 **Reddit**
-*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/Reddit-Client-ID-Guide.md)!
+*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://github.com/wchill/patcheddit)!
 - `MDY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
 	- `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
@@ -705,6 +705,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 	- `MD3E` [Metrolist](https://github.com/mostafaalagamy/Metrolist) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+		- `MDY` [MetroFuse](https://github.com/956tris/MetroFuse) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -791,8 +792,9 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 📖 Audiobook & Misc.
 - `MD3E` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
-- `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) <sup>`FOSS`</sup>
 - `MDY` [Auraninja](https://github.com/Giuig/auraninja) <sup>`FOSS`</sup>
+- `MDY` [storii](https://github.com/likhithpraveenk/storii) <sup>`FOSS`</sup>
+- `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) <sup>`FOSS`</sup>
 - `MD` [Equran](https://github.com/ya27hw/equran_app) <sup>`FOSS`</sup>
 - `MD` [Hear quran](https://play.google.com/store/apps/details?id=com.psh.hear_quran)
 
@@ -912,9 +914,10 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
 	- `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [TimeNoder2](https://play.google.com/store/apps/details?id=com.janzimola.goal_venture2)
-	- `MD` [Trudido](https://github.com/dominikmuellr/trudido) <sup>`FOSS`</sup>
+	- `MD` [Do it](https://github.com/maximilian-schwaerzler/Do-It) <sup>`FOSS`</sup>
 	- `MD` [Mightyday](https://play.google.com/store/apps/details?id=com.edisoncal.edison)
 	- `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
+	- `MD` [Trudido](https://github.com/dominikmuellr/trudido) <sup>`FOSS`</sup>
 	- `MD` [Zest](https://github.com/darkmoonight/Zest) <sup>`FOSS`</sup>
 	- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
@@ -955,6 +958,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 		- `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [Komikku](https://github.com/komikku-app/komikku) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Mihon](https://github.com/mihonapp/mihon) <sup>`FOSS`</sup>
+		- `MDY` [Taison](https://github.com/Gent8/Taison) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Kotatsu](https://github.com/KotatsuApp/Kotatsu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Ranobe](https://github.com/ranobe-org/ranobe) <sup>`FOSS`</sup>
@@ -1492,6 +1496,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App) <sup>`FOSS`</sup>
 	- `MDY` [MedTimer](https://github.com/Futsch1/medTimer) <sup>`FOSS`</sup>
 	- `MD` [MediTrak](https://github.com/AdamGuidarini/MediTrak) <sup>`FOSS`</sup>
+	- `MD` [OpenPillReminder](https://github.com/mariinkys/OpenPillReminder) <sup>`FOSS`</sup>
 - **Miscellaneous**
 	- `MDY` [CoffeeGram](https://github.com/phansier/Coffeegram) <sup>`FOSS`</sup>
 	- `MDY` [Ampersand](https://github.com/NyaomiDEV/Ampersand) <sup>`FOSS`</sup>
