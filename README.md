@@ -249,6 +249,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [N-Zik](https://github.com/N-Zik-Group/N-Zik) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD` [Khushu](https://github.com/greykaizen/khushu) <sup>`FOSS`</sup>
+- `MDY` [Inzx](https://github.com/nirmaleeswar30/Inzx) <sup>`FOSS`</sup>
+- `MD3E` [Lockbook](https://github.com/lockbook/lockbook) <sup>`FOSS`</sup>
+- `MD3E` [Snippets](https://github.com/blindman81/Snippets) <sup>`FOSS`</sup>
 - `MDY` [Study4U](https://github.com/MoHamed-B-M/study4u) <sup>`FOSS`</sup>
 - `MDY` [Novery](https://github.com/1Finn2me/Novery) <sup>`FOSS`</sup>
 - `MD3E` [Calendula](https://gitea.jeanlucmakiola.de/makiolaj/calendula) <sup>`FOSS`</sup>
@@ -274,10 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Shizuku](https://github.com/thedjchi/Shizuku) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
 - `MD` [Moon Translator](https://github.com/MoonMonet/Translator) <sup>`FOSS`</sup>
-- `MY` [WebLibre](https://github.com/FaFre/WebLibre) <sup>`FOSS`</sup>
-- `MD3E` [ADNS](https://github.com/eyalm2000/adns) <sup>`FOSS`</sup>
-- `MDY` [Beam](https://github.com/montafra/beam) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [hōtter](https://play.google.com/store/apps/details?id=com.hotter.workout) <sup>`💰`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -709,11 +710,13 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MY` [RiMusic](https://github.com/fast4x/RiMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup><sup>`FORK`</sup>
 	- `MY` [ViTune](https://github.com/25huizengek1/ViTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [N-Zik](https://github.com/N-Zik-Group/N-Zik) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music) <sup>`FOSS`</sup>
 - `MDY` [Musify](https://github.com/gokadzev/Musify) <sup>`FOSS`</sup>
 - `MDY` [You Tune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`FOSS`</sup>
 - `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Inzx](https://github.com/nirmaleeswar30/Inzx) <sup>`FOSS`</sup>
 - `MD` [Echo Music](https://github.com/EchoMusicApp/Echo-Music) <sup>`FOSS`</sup>
 - `MD` [Harmoni](https://github.com/onedev22/harmoni) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
@@ -834,6 +837,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [Canvas](https://github.com/sameerasw/canvas) <sup>`FOSS`</sup>
 	- `MD3E` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 	- `MD3E` [Momentum](https://github.com/shub39/Momentum) <sup>`FOSS`</sup>
+	- `MD3E` [Snippets](https://github.com/blindman81/Snippets) <sup>`FOSS`</sup>
 	- `MDY` [ImageCraft](https://github.com/YangDai2003/ImageCraft-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
 	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
@@ -883,6 +887,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
 	- `MD3E` [Kori](https://github.com/YangDai2003/Kori) <sup>`FOSS`</sup>
 	- `MD3E` [FA Notes](https://play.google.com/store/apps/details?id=com.Fooks.Animations.and.Applications.Notes)
+	- `MD3E` [Lockbook](https://github.com/lockbook/lockbook) <sup>`FOSS`</sup>
 	- `MDY` [GoodNotes](https://github.com/xephosbot/GoodNotesCompose) <sup>`FOSS`</sup>
 	- `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
@@ -1811,6 +1816,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD` [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler) <sup>`FOSS`</sup>
+- `MD` [Khushu](https://github.com/greykaizen/khushu) <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [RunePad](https://github.com/SuhasDissa/RunePad) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Bhagavad Gita](https://github.com/WirelessAlien/BhagavadGitaApp) <sup>`FOSS`</sup> <sup>`🪦`</sup>
