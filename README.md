@@ -249,6 +249,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [Quitter](https://github.com/brandonp2412/Quitter) <sup>`FOSS`</sup>
+- `MD3E` [Clock Master](https://github.com/PranshulGG/ClockMaster) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD3E` [Lune](https://github.com/MrDemonc/Lune) <sup>`FOSS`</sup>
+- `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) <sup>`FOSS`</sup>
+- `MD3E` [Fast Times](https://github.com/tom-murphy-development/FastTimes) <sup>`FOSS`</sup>
 - `MD3E` [Watch Master](https://github.com/PranshulGG/WatchMaster) <sup>`FOSS`</sup>
 - `MD3E` [Weather You](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou)
 - `MD3E` [Minus](https://github.com/isaacsa51/Minus) <sup>`FOSS`</sup>
@@ -274,11 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Seal X](https://play.google.com/store/apps/details?id=com.hkapps.sealdownloader)
 - `MDY` [Voli](https://play.google.com/store/apps/details?id=com.urbandroid.voli)
 - `MD3E` [Remberball](https://play.google.com/store/apps/details?id=com.urbandroid.brall)
-- `MDY` [Lifewatch](https://play.google.com/store/apps/details?id=com.urbandroid.lifewatch)
-- `MD3E` [ueberboese](https://github.com/julius-d/ueberboese-app) <sup>`FOSS`</sup>
-- `MD3E` [WiFiAudioStreaming-Android](https://gitlab.com/marcomorosi.dev/wifiaudiostreaming-android) <sup>`FOSS`</sup>
-- `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) <sup>`FOSS`</sup>
-- `MDY` [storii](https://github.com/likhithpraveenk/storii) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -646,6 +646,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Meld](https://github.com/FrancescoGrazioso/Meld) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) <sup>`💰`</sup>
 - `MD3E` [Groovy](https://play.google.com/store/apps/details?id=com.bitmavrick.groovy)
+- `MD3E` [Lune](https://github.com/MrDemonc/Lune) <sup>`FOSS`</sup>
 - `MDY` [SaTunes](https://codeberg.org/antoinepirlot/Satunes) <sup>`FOSS`</sup>
 - `MDY` [Harmonoid](https://github.com/harmonoid/harmonoid) <sup>`FOSS`</sup>
 - `MDY` [Booming Music](https://github.com/ProjectOrbital/BoomingMusic) <sup>`FOSS`</sup>
@@ -679,6 +680,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MD3E` [mpvFlux](https://github.com/Muhammedahmed18/mpvFlux) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
+- `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) <sup>`FOSS`</sup>
 - `MDY` [Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
@@ -1018,6 +1020,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Tomato](https://github.com/nsh07/Tomato) <sup>`FOSS`</sup>
 - `MD3E` [Cofi](https://github.com/rozPierog/Cofi) <sup>`FOSS`</sup>
 - `MD3E` [Reef](https://github.com/aload0/Reef) <sup>`FOSS`</sup>
+- `MD3E` [Clock Master](https://github.com/PranshulGG/ClockMaster) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD3E` [Fast Times](https://github.com/tom-murphy-development/FastTimes) <sup>`FOSS`</sup>
 - `MDY` [Clock](https://github.com/BlackyHawky/Clock) <sup>`FOSS`</sup>
 - `MDY` [Chrono](https://github.com/vicolo-dev/chrono) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
@@ -1522,6 +1526,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Voli](https://play.google.com/store/apps/details?id=com.urbandroid.voli)
 	- `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [FoodYou](https://github.com/maksimowiczm/FoodYou) <sup>`FOSS`</sup>
+	- `MDY` [Quitter](https://github.com/brandonp2412/Quitter) <sup>`FOSS`</sup>
 	- `MD` [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
 	- `MD` [Baby on Board](https://gitlab.com/LaBaude32/bob) <sup>`FOSS`</sup>
 	- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup> <sup>`🪦`</sup>
