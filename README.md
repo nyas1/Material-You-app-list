@@ -249,6 +249,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Watch Master](https://github.com/PranshulGG/WatchMaster) <sup>`FOSS`</sup>
+- `MD3E` [Weather You](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou)
+- `MD3E` [Minus](https://github.com/isaacsa51/Minus) <sup>`FOSS`</sup>
+- `MD3E` [Be Nice](https://codeberg.org/tkuenneth/benice) <sup>`FOSS`</sup>
+- `MD3E` [MonoMail](https://github.com/shrivatsav-0/monomail) <sup>`FOSS`</sup>
 - `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) <sup>`FOSS`</sup>
 - `MD3E` [Pennywise AI](https://github.com/sarim2000/pennywiseai-tracker) <sup>`FOSS`</sup>
 - `MD3E` [ObtainX](https://github.com/bikram-agarwal/ObtainX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -274,12 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [WiFiAudioStreaming-Android](https://gitlab.com/marcomorosi.dev/wifiaudiostreaming-android) <sup>`FOSS`</sup>
 - `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) <sup>`FOSS`</sup>
 - `MDY` [storii](https://github.com/likhithpraveenk/storii) <sup>`FOSS`</sup>
-- `MDY` [Taison](https://github.com/Gent8/Taison) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [MetroFuse](https://github.com/956tris/MetroFuse) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD` [Do it](https://github.com/maximilian-schwaerzler/Do-It) <sup>`FOSS`</sup>
-- `MD` [OpenPillReminder](https://github.com/mariinkys/OpenPillReminder) <sup>`FOSS`</sup>
-- `MD3E` [Kite](https://github.com/zenzer0s/Kite) <sup>`FOSS`</sup>
-- `MD3E` [mpvFlux](https://github.com/Muhammedahmed18/mpvFlux) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -434,6 +433,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 📧 Email Clients
 - `MD3E` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
+- `MD3E` [MonoMail](https://github.com/shrivatsav-0/monomail) <sup>`FOSS`</sup>
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
 - `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
@@ -470,6 +470,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ## 🎨 Personalization and UI
 ### 🏠 Launchers
+- `MD3E` [Be Nice](https://codeberg.org/tkuenneth/benice) <sup>`FOSS`</sup>
 - `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -734,11 +735,11 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 #### 🔧 Miscellaneous (Anime, etc.)
 - `MDY` [Animeko](https://github.com/open-ani/animeko) <sup>`FOSS`</sup>
-- `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+- `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup>
 	- `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Dantotsu](https://github.com/rebelonion/Dantotsu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Awery](https://github.com/MrBoomDeveloper/Awery) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+- `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
 - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
@@ -753,6 +754,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 📑 Tracking Services
 - `MD3E` [AniSync](https://github.com/Marco-9456/AniSync) <sup>`FOSS`</sup>
 - `MD3E` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
+- `MD3E` [Watch Master](https://github.com/PranshulGG/WatchMaster) <sup>`FOSS`</sup>
 - `MDY` [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase)
 - `MDY` [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) <sup>`FOSS`</sup>
@@ -1219,7 +1221,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### #️⃣ SuperUser (Root)
 - **SU Manager**
-	- `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
+	- `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [KernelSU](https://github.com/tiann/KernelSU/) <sup>`FOSS`</sup>
 	- `MDY` [APatch](https://github.com/bmax121/APatch) <sup>`FOSS`</sup>
@@ -1318,7 +1320,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### ⬇️ Download Managers
 - **Full-Featured Download Manager**
 	- `MDY` [Material Download Manager](https://play.google.com/store/apps/details?id=com.akira.mdm)
-	- `MY` [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) <sup>`🐾`</sup>
+	- `MY` [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
 - **YouTube**
 	- `MD3E` [Kite](https://github.com/zenzer0s/Kite) <sup>`FOSS`</sup>
 	- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`FOSS`</sup>
@@ -1549,6 +1551,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [Cashiro](https://github.com/ritesh-kanwar/Cashiro) <sup>`FOSS`</sup>
 	- `MD3E` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
 	- `MD3E` [Pennywise AI](https://github.com/sarim2000/pennywiseai-tracker) <sup>`FOSS`</sup>
+	- `MD3E` [Minus](https://github.com/isaacsa51/Minus) <sup>`FOSS`</sup>
 	- `MDY` [Everplan](https://play.google.com/store/apps/details?id=com.bitmavrick.everplan)
 	- `MDY` [1Money](https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq)
 	- `MDY` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) <sup>`FOSS`</sup>
@@ -1589,6 +1592,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 🌦️ Weather
 - `MD3E` [Gradient Weather](https://play.google.com/store/apps/details?id=com.subtlesignals.gradientweather)
 - `MD3E` [Weather](https://play.google.com/store/apps/details?id=com.google.android.apps.weather)
+- `MD3E` [Weather You](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou)
 - `MDY` [WeatherMaster](https://github.com/PranshulGG/WeatherMaster) <sup>`FOSS`</sup>
 - `MDY` [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
 - `MDY` [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
@@ -1805,7 +1809,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Omni](https://github.com/AkaneFoundation/Omni) <sup>`FOSS`</sup>
 - `MDY` [GuessIron](https://github.com/mobeil1/GuessIron) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) <sup>`FOSS`</sup>
-- `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+- `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 - `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) <sup>`FOSS`</sup>
 - `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup> <sup>`🪦`</sup>
