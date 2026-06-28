@@ -249,6 +249,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) <sup>`FOSS`</sup>
+- `MD3E` [Pennywise AI](https://github.com/sarim2000/pennywiseai-tracker) <sup>`FOSS`</sup>
+- `MD3E` [ObtainX](https://github.com/bikram-agarwal/ObtainX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Transport You](https://github.com/you-apps/TransportYou) <sup>`FOSS`</sup>
+- `MDY` [Open Notes](https://github.com/Fandroid745/Open-notes) <sup>`FOSS`</sup>
 - `MD` [Gym Day](https://play.google.com/store/apps/details?id=com.anthonyng.workoutapp) <sup>`💰`</sup>
 - `MDY` [N-Zik](https://github.com/N-Zik-Group/N-Zik) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD` [Khushu](https://github.com/greykaizen/khushu) <sup>`FOSS`</sup>
@@ -275,10 +280,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [OpenPillReminder](https://github.com/mariinkys/OpenPillReminder) <sup>`FOSS`</sup>
 - `MD3E` [Kite](https://github.com/zenzer0s/Kite) <sup>`FOSS`</sup>
 - `MD3E` [mpvFlux](https://github.com/Muhammedahmed18/mpvFlux) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Flow](https://github.com/A-EDev/Flow) <sup>`FOSS`</sup>
-- `MD3E` [LastChat](https://github.com/Cocolalilal/LastChat) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Shizuku](https://github.com/thedjchi/Shizuku) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -904,6 +905,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) <sup>`🪦`</sup>
+	- `MDY` [Open Notes](https://github.com/Fandroid745/Open-notes) <sup>`FOSS`</sup>
 	- `MD` [Notebook](https://github.com/SaadhJawwadh/Note-taking) <sup>`FOSS`</sup>
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
@@ -1117,6 +1119,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [URV Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) <sup>`FOSS`</sup>
 	- `MD3E` [Morphe Manager](https://github.com/MorpheApp/morphe-manager) <sup>`FOSS`</sup>
 	- `MDY` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+		- `MD3E` [ObtainX](https://github.com/bikram-agarwal/ObtainX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`FOSS`</sup>
 	- `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) <sup>`FOSS`</sup> <sup>🪦</sup>
 	- `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1347,6 +1350,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega)
 - `MDY` [Tridenta](https://github.com/Stypox/tridenta) <sup>`FOSS`</sup>
 - `MDY` [Bimba](https://f-droid.org/packages/xyz.apiote.bimba.czwek/) <sup>`FOSS`</sup>
+- `MDY` [Transport You](https://github.com/you-apps/TransportYou) <sup>`FOSS`</sup>
 - `MD` [CoMaps](https://github.com/comaps/comaps/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD` [Trail Sense](https://github.com/kylecorry31/Trail-Sense) <sup>`FOSS`</sup>
 - `MD` [EVMap](https://github.com/ev-map/EVMap) <sup>`FOSS`</sup>
@@ -1544,6 +1548,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - **Expense Managers**
 	- `MD3E` [Cashiro](https://github.com/ritesh-kanwar/Cashiro) <sup>`FOSS`</sup>
 	- `MD3E` [Deplan](https://play.google.com/store/apps/details?id=xyz.izadi.deplan.android)
+	- `MD3E` [Pennywise AI](https://github.com/sarim2000/pennywiseai-tracker) <sup>`FOSS`</sup>
 	- `MDY` [Everplan](https://play.google.com/store/apps/details?id=com.bitmavrick.everplan)
 	- `MDY` [1Money](https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq)
 	- `MDY` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) <sup>`FOSS`</sup>
@@ -1802,6 +1807,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) <sup>`FOSS`</sup>
 - `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
+- `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) <sup>`FOSS`</sup>
 - `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
