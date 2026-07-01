@@ -249,6 +249,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [Grove](https://github.com/resurrectdev1/grove) <sup>`FOSS`</sup>
+- `MDY` [Local player](https://github.com/cvc953/localplayer) <sup>`FOSS`</sup>
+- `MDY` [Areada](https://github.com/iTsMe-Zen/Areada) <sup>`FOSS`</sup>
+- `MDY` [Lyrics Grabbr](https://github.com/illusionman1212/lyrics-grabbr) <sup>`FOSS`</sup>
+- `MDY` [Voyager](https://github.com/AlanHuang99/Voyager) <sup>`FOSS`</sup>
 - `MD3E` [Gitling](https://github.com/maneeshacooray/Gitling) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Futon](https://github.com/AppFuton/Futon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -274,11 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Inzx](https://github.com/nirmaleeswar30/Inzx) <sup>`FOSS`</sup>
 - `MD3E` [Lockbook](https://github.com/lockbook/lockbook) <sup>`FOSS`</sup>
 - `MD3E` [Snippets](https://github.com/blindman81/Snippets) <sup>`FOSS`</sup>
-- `MDY` [Study4U](https://github.com/MoHamed-B-M/study4u) <sup>`FOSS`</sup>
-- `MDY` [Novery](https://github.com/1Finn2me/Novery) <sup>`FOSS`</sup>
-- `MD3E` [Calendula](https://gitea.jeanlucmakiola.de/makiolaj/calendula) <sup>`FOSS`</sup>
-- `MDY` [Calculator Hide Files](https://github.com/Binondi/Calculator-Hide-Files) <sup>`FOSS`</sup>
-- `MD3E` [Photon Gallery](https://github.com/Bn5prS/Photon_Gallery) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -666,6 +666,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
 - `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Local player](https://github.com/cvc953/localplayer) <sup>`FOSS`</sup>
 - `MD` [Inaho](https://github.com/LoggingNewMemory/Inaho) <sup>`FOSS`</sup>
 - `MD` [VK X](https://vkx.app/)
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1105,6 +1106,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract) <sup>`FOSS`</sup>
 - `MDY` [File Navigator](https://github.com/w2sv/FileNavigator) <sup>`FOSS`</sup>
+- `MDY` [Voyager](https://github.com/AlanHuang99/Voyager) <sup>`FOSS`</sup>
 - `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) <sup>`⚠️ Setup:` [`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator) [`#2`](https://github.com/jamal2362/Monet-Generator)</sup> <sup>`🐾`</sup>
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager) <sup>`FOSS`</sup>
@@ -1416,6 +1418,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 - `MD3E` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
 - `MD3E` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
+- `MDY` [Areada](https://github.com/iTsMe-Zen/Areada) <sup>`FOSS`</sup>
 - `MDY` [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) <sup>`FOSS`</sup>
 - `MDY` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) <sup>`FOSS`</sup>
 
@@ -1504,6 +1507,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [Remberball](https://play.google.com/store/apps/details?id=com.urbandroid.brall)
 	- `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
 	- `MDY` [Soberity](https://github.com/KiARC/Sobriety) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Grove](https://github.com/resurrectdev1/grove) <sup>`FOSS`</sup>
 	- `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Table Habit](https://github.com/FriesI23/mhabit) <sup>`FOSS`</sup>
 	- `MDY` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1821,6 +1825,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 - `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) <sup>`FOSS`</sup>
+- `MDY` [Lyrics Grabbr](https://github.com/illusionman1212/lyrics-grabbr) <sup>`FOSS`</sup>
 - `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
