@@ -249,6 +249,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Gitling](https://github.com/maneeshacooray/Gitling) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Futon](https://github.com/AppFuton/Futon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Flare](https://github.com/DimensionDev/Flare) <sup>`FOSS`</sup>
 - `MDY` [Quitter](https://github.com/brandonp2412/Quitter) <sup>`FOSS`</sup>
 - `MD3E` [Clock Master](https://github.com/PranshulGG/ClockMaster) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD3E` [Lune](https://github.com/MrDemonc/Lune) <sup>`FOSS`</sup>
@@ -275,10 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Calendula](https://gitea.jeanlucmakiola.de/makiolaj/calendula) <sup>`FOSS`</sup>
 - `MDY` [Calculator Hide Files](https://github.com/Binondi/Calculator-Hide-Files) <sup>`FOSS`</sup>
 - `MD3E` [Photon Gallery](https://github.com/Bn5prS/Photon_Gallery) <sup>`FOSS`</sup>
-- `MDY` [GeoWeather](https://github.com/FreetimeMaker/GeoWeather) <sup>`FOSS`</sup>
-- `MDY` [Seal X](https://play.google.com/store/apps/details?id=com.hkapps.sealdownloader)
-- `MDY` [Voli](https://play.google.com/store/apps/details?id=com.urbandroid.voli)
-- `MD3E` [Remberball](https://play.google.com/store/apps/details?id=com.urbandroid.brall)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -392,6 +392,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Materialbook](https://github.com/eepiemi/Materialbook) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🔧 **Miscellaneous**
+- `MD3E` [Flare](https://github.com/DimensionDev/Flare) <sup>`FOSS`</sup>
 - `MDY` [Conversations](https://codeberg.org/iNPUTmice/Conversations) <sup>`FOSS`</sup>
 - `MDY` [Threema](https://github.com/threema-ch/threema-android) <sup>`FOSS`</sup> <sup>`💰`</sup>
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -970,6 +971,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 		- `MDY` [Taison](https://github.com/Gent8/Taison) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Kotatsu](https://github.com/KotatsuApp/Kotatsu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+		- `MDY` [Futon](https://github.com/AppFuton/Futon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+		- `MDY` [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Ranobe](https://github.com/ranobe-org/ranobe) <sup>`FOSS`</sup>
 	- `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) <sup>`FOSS`</sup>
 	- `MDY` [Book's Story](https://github.com/Acclorite/book-story) <sup>`FOSS`</sup>
@@ -1157,7 +1160,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 💾 Backup
-- `MDY` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`🐾`</sup>
+- `MD3E` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`🐾`</sup>
 - `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`FOSS`</sup>
 - `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup) <sup>`FOSS`</sup>
 - `MDY` [AppListBackup](https://github.com/AndroidLabs-org/AppListBackup) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1700,7 +1703,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 🧱 Firewall/Ad-blocker
-- `MD3E` [ADNS](https://github.com/eyalm2000/adns) <sup>`FOSS`</sup>
+- `MD3E` [ADNS](https://github.com/eyalm2000/adns) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Athena](https://github.com/Kin69/Athena) <sup>`FOSS`</sup>
 - `MDY` [DNSNet](https://github.com/t895/DNSNet) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`FOSS`</sup>
@@ -1750,6 +1753,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 🔧 Uncategorized Tools
 - `MD3E` [Essentials](https://github.com/sameerasw/essentials) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+- `MD3E` [Gitling](https://github.com/maneeshacooray/Gitling) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
 - `MD3E` [Randomix](https://github.com/m-i-n-a-r/randomix) <sup>`FOSS`</sup>
 - `MD3E` [Sound profiles](https://play.google.com/store/apps/details?id=com.a3.soundprofiles)
