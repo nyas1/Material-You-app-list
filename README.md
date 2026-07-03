@@ -1231,6 +1231,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### #️⃣ SuperUser (Root)
 - **SU Manager**
 	- `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MD3E` [Magisk-but-expressive](https://github.com/Anto426/Magisk-but-expressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [KernelSU](https://github.com/tiann/KernelSU/) <sup>`FOSS`</sup>
 	- `MDY` [APatch](https://github.com/bmax121/APatch) <sup>`FOSS`</sup>
