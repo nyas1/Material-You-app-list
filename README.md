@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Magisk-but-expressive](https://github.com/Anto426/Magisk-but-expressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Grove](https://github.com/resurrectdev1/grove) <sup>`FOSS`</sup>
 - `MDY` [Local player](https://github.com/cvc953/localplayer) <sup>`FOSS`</sup>
 - `MDY` [Areada](https://github.com/iTsMe-Zen/Areada) <sup>`FOSS`</sup>
@@ -278,7 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Khushu](https://github.com/greykaizen/khushu) <sup>`FOSS`</sup>
 - `MDY` [Inzx](https://github.com/nirmaleeswar30/Inzx) <sup>`FOSS`</sup>
 - `MD3E` [Lockbook](https://github.com/lockbook/lockbook) <sup>`FOSS`</sup>
-- `MD3E` [Snippets](https://github.com/blindman81/Snippets) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
