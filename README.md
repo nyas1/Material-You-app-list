@@ -683,7 +683,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [mpvFlux](https://github.com/Muhammedahmed18/mpvFlux) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) <sup>`FOSS`</sup>
-- `MDY` [Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
+- `MD3E` [Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
 - `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sup>`FOSS`</sup> <sup>`🪦`</sup>
