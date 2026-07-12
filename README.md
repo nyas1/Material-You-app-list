@@ -249,6 +249,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown)
+- `MD3E` [MpvRxN](https://github.com/WHITE-KNIGHT5/MpvRxN) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MD3E` [Damier](https://play.google.com/store/apps/details?id=de.lijucay.damier)
+- `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) <sup>`FOSS`</sup>
+- `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) <sup>`FOSS`</sup>
 - `MD3E` [Ilay for Reddit](https://github.com/bennybar/LuliReddit) <sup>`FOSS`</sup>
 - `MD3E` [Tokn](https://github.com/tokn-authenticator/tokn) <sup>`FOSS`</sup>
@@ -274,11 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Minus](https://github.com/isaacsa51/Minus) <sup>`FOSS`</sup>
 - `MD3E` [Be Nice](https://codeberg.org/tkuenneth/benice) <sup>`FOSS`</sup>
 - `MD3E` [MonoMail](https://github.com/shrivatsav-0/monomail) <sup>`FOSS`</sup>
-- `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) <sup>`FOSS`</sup>
-- `MD3E` [Pennywise AI](https://github.com/sarim2000/pennywiseai-tracker) <sup>`FOSS`</sup>
-- `MD3E` [ObtainX](https://github.com/bikram-agarwal/ObtainX) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Transport You](https://github.com/you-apps/TransportYou) <sup>`FOSS`</sup>
-- `MDY` [Open Notes](https://github.com/Fandroid745/Open-notes) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -682,6 +682,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [mpvRx](https://github.com/Riteshp2001/mpvRx) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MD3E` [mpvFlux](https://github.com/Muhammedahmed18/mpvFlux) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MD3E` [MpvRxN](https://github.com/WHITE-KNIGHT5/MpvRxN) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) <sup>`FOSS`</sup>
 - `MD3E` [Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
@@ -710,6 +711,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 	- `MD3E` [Metrolist](https://github.com/mostafaalagamy/Metrolist) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+			- `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [MetroFuse](https://github.com/956tris/MetroFuse) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -1028,6 +1030,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Cofi](https://github.com/rozPierog/Cofi) <sup>`FOSS`</sup>
 - `MD3E` [Reef](https://github.com/aload0/Reef) <sup>`FOSS`</sup>
 - `MD3E` [Clock Master](https://github.com/PranshulGG/ClockMaster) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown)
 - `MD3E` [Fast Times](https://github.com/tom-murphy-development/FastTimes) <sup>`FOSS`</sup>
 - `MDY` [Clock](https://github.com/BlackyHawky/Clock) <sup>`FOSS`</sup>
 - `MDY` [Chrono](https://github.com/vicolo-dev/chrono) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1419,6 +1422,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 📄 Document Reader
+- `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) <sup>`FOSS`</sup>
 - `MD3E` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 - `MD3E` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
 - `MD3E` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
@@ -1509,6 +1513,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [NightScreen](https://github.com/SkyD666/NightScreen) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 - **Habit Tracker**
+	- `MD3E` [Damier](https://play.google.com/store/apps/details?id=de.lijucay.damier)
 	- `MD3E` [Remberball](https://play.google.com/store/apps/details?id=com.urbandroid.brall)
 	- `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
 	- `MDY` [Soberity](https://github.com/KiARC/Sobriety) <sup>`FOSS`</sup> <sup>`🪦`</sup>
