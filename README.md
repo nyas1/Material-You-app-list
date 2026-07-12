@@ -249,6 +249,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [Asukaplayer](https://github.com/qianmokano/Asukaplayer) <sup>`FOSS`</sup>
+- `MD3E` [MKM](https://github.com/abhay-byte/mkm) <sup>`FOSS`</sup>
+- `MDY` [Trending AI](https://github.com/HarlonWang/TrendingAI) <sup>`FOSS`</sup>
+- `MDY` [NOVA](https://github.com/nofuturekid/nova) <sup>`FOSS`</sup>
+- `MD` [Hidroly](https://github.com/om1cael/Hidroly) <sup>`FOSS`</sup>
 - `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown)
 - `MD3E` [MpvRxN](https://github.com/WHITE-KNIGHT5/MpvRxN) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Damier](https://play.google.com/store/apps/details?id=de.lijucay.damier)
@@ -274,11 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Lune](https://github.com/MrDemonc/Lune) <sup>`FOSS`</sup>
 - `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) <sup>`FOSS`</sup>
 - `MD3E` [Fast Times](https://github.com/tom-murphy-development/FastTimes) <sup>`FOSS`</sup>
-- `MD3E` [Watch Master](https://github.com/PranshulGG/WatchMaster) <sup>`FOSS`</sup>
-- `MD3E` [Weather You](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou)
-- `MD3E` [Minus](https://github.com/isaacsa51/Minus) <sup>`FOSS`</sup>
-- `MD3E` [Be Nice](https://codeberg.org/tkuenneth/benice) <sup>`FOSS`</sup>
-- `MD3E` [MonoMail](https://github.com/shrivatsav-0/monomail) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -686,6 +686,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) <sup>`FOSS`</sup>
 - `MD3E` [Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
+- `MDY` [Asukaplayer](https://github.com/qianmokano/Asukaplayer) <sup>`FOSS`</sup>
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
 - `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -997,6 +998,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [News](https://github.com/bubelov/news) <sup>`FOSS`</sup>
 	- `MDY` [Feeder](https://github.com/spacecowboy/Feeder) <sup>`FOSS`</sup>
 	- `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Trending AI](https://github.com/HarlonWang/TrendingAI) <sup>`FOSS`</sup>
 	- `MDY` [Twine](https://github.com/msasikanth/twine/) <sup>`FOSS`</sup>
 	- `MDY` [Capy Reader](https://github.com/jocmp/capyreader) <sup>`FOSS`</sup>
 	- `MDY` [FeedFlow](https://github.com/prof18/feed-flow) <sup>`FOSS`</sup>
@@ -1252,6 +1254,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- [Monet-All](https://monet.jerryz.com.cn/en/) <sup>`FOSS`</sup> <sup>[`Supported apps`](https://monet.jerryz.com.cn/en/guide/apps)</sup>
 	- [HyperOS Monet Project](https://github.com/MIUI-Monet-Project/Module) <sup>`FOSS`</sup>
 - **Miscellaneous**
+	- `MD3E` [MKM](https://github.com/abhay-byte/mkm) <sup>`FOSS`</sup>
 	- `MD3E` [RvKernel Manager](https://github.com/Rve27/RvKernel-Manager) <sup>`FOSS`</sup>
 	- `MDY` [Shizuku](https://github.com/RikkaApps/Shizuku) <sup>`FOSS`</sup>
 		- `MDY` [Shizuku](https://github.com/thedjchi/Shizuku) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
@@ -1544,9 +1547,10 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [FoodYou](https://github.com/maksimowiczm/FoodYou) <sup>`FOSS`</sup>
 	- `MDY` [Quitter](https://github.com/brandonp2412/Quitter) <sup>`FOSS`</sup>
-	- `MD` [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
 	- `MD` [Baby on Board](https://gitlab.com/LaBaude32/bob) <sup>`FOSS`</sup>
 	- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MD` [Hidroly](https://github.com/om1cael/Hidroly) <sup>`FOSS`</sup>
+	- `MD` [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
 	- `MDY` [Lifewatch](https://play.google.com/store/apps/details?id=com.urbandroid.lifewatch)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1777,6 +1781,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [GitNex](https://codeberg.org/gitnex/GitNex) <sup>`FOSS`</sup>
 - `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) <sup>`FOSS`</sup>
+- `MDY` [NOVA](https://github.com/nofuturekid/nova) <sup>`FOSS`</sup>
 - `MDY` [DioHub](https://github.com/namanshergill/diohub) <sup>`FOSS`</sup>
 - `MDY` [Geto](https://github.com/JackEblan/Geto) <sup>`FOSS`</sup>
 - `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) <sup>`FOSS`</sup>
