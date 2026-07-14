@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) <sup>`FOSS`</sup>
 - `MD` [Fulguris](https://github.com/Slion/Fulguris) <sup>`FOSS`</sup>
 - `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) <sup>`FOSS`</sup>
 - `MDY` [Kanon](https://gitlab.com/syk.sh/kanon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -1508,6 +1509,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD` [WGER](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 	- `MD` [Massive](https://github.com/brandonp2412/Massive) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Gym Day](https://play.google.com/store/apps/details?id=com.anthonyng.workoutapp) <sup>`💰`</sup>
+	- `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) <sup>`FOSS`</sup>
 - **Body Weight**
 	- `MD3E` [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) <sup>`FOSS`</sup>
 	- `MDY` [FitBook](https://github.com/brandonp2412/FitBook) <sup>`FOSS`</sup>
