@@ -249,6 +249,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) <sup>`FOSS`</sup>
+- `MD3E` [Chameleon](https://github.com/Rabkaps/Chameleon) <sup>`FOSS`</sup>
+- `MD3E` [Bubble Notice](https://github.com/GraceThings/bubble-notice-android) <sup>`FOSS`</sup>
+- `MD3E` [Algidy](https://github.com/NhuHuy-79/Algidy) <sup>`FOSS`</sup>
 - `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) <sup>`FOSS`</sup>
 - `MD` [Fulguris](https://github.com/Slion/Fulguris) <sup>`FOSS`</sup>
 - `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) <sup>`FOSS`</sup>
@@ -265,7 +269,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Hidroly](https://github.com/om1cael/Hidroly) <sup>`FOSS`</sup>
 - `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown)
 - `MD3E` [MpvRxN](https://github.com/WHITE-KNIGHT5/MpvRxN) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [Damier](https://play.google.com/store/apps/details?id=de.lijucay.damier)
+- `MD3E` [Damier](https://github.com/Lijucay/Damier) <sup>`FOSS`</sup>
 - `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) <sup>`FOSS`</sup>
 - `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) <sup>`FOSS`</sup>
@@ -275,11 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Sorter](https://github.com/isaacsa51/Sorter) <sup>`FOSS`</sup>
 - `MD3E` [Magisk-but-expressive](https://github.com/Anto426/Magisk-but-expressive) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Grove](https://github.com/resurrectdev1/grove) <sup>`FOSS`</sup>
-- `MDY` [Local player](https://github.com/cvc953/localplayer) <sup>`FOSS`</sup>
-- `MDY` [Areada](https://github.com/iTsMe-Zen/Areada) <sup>`FOSS`</sup>
-- `MDY` [Lyrics Grabbr](https://github.com/illusionman1212/lyrics-grabbr) <sup>`FOSS`</sup>
-- `MDY` [Voyager](https://github.com/AlanHuang99/Voyager) <sup>`FOSS`</sup>
-- `MD3E` [Gitling](https://github.com/maneeshacooray/Gitling) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -794,6 +793,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 🎙️ Podcast
+- `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) <sup>`FOSS`</sup>
 - `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) <sup>`FOSS`</sup>
 - `MDY` [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app)
 - `MDY` [FocusPodcast and AudioBooks](https://play.google.com/store/apps/details?id=allen.town.focus.podcast)
@@ -1331,6 +1331,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 🌎 VPNs/Proxies
 *Free VPNs are not recommended: [Read](https://www.mozilla.org/en-US/products/vpn/resource-center/risks-of-using-a-free-vpn/)*
+- `MD3E` [Chameleon](https://github.com/Rabkaps/Chameleon) <sup>`FOSS`</sup>
 - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
 - `MDY` [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
@@ -1525,7 +1526,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [NightScreen](https://github.com/SkyD666/NightScreen) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 - **Habit Tracker**
-	- `MD3E` [Damier](https://play.google.com/store/apps/details?id=de.lijucay.damier)
+	- `MD3E` [Damier](https://github.com/Lijucay/Damier) <sup>`FOSS`</sup>
 	- `MD3E` [Remberball](https://play.google.com/store/apps/details?id=com.urbandroid.brall)
 	- `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
 	- `MDY` [Soberity](https://github.com/KiARC/Sobriety) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1566,6 +1567,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 🛒 Shopping & Household
+- `MD3E` [Algidy](https://github.com/NhuHuy-79/Algidy) <sup>`FOSS`</sup>
 - `MDY` [Grocy](https://github.com/patzly/grocy-android) <sup>`FOSS`</sup>
 - `MD` [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
 - **Recipes**
@@ -1781,6 +1783,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 🔧 Uncategorized Tools
+- `MD3E` [Bubble Notice](https://github.com/GraceThings/bubble-notice-android) <sup>`FOSS`</sup>
 - `MD3E` [Essentials](https://github.com/sameerasw/essentials) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MD3E` [Gitling](https://github.com/maneeshacooray/Gitling) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
