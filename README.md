@@ -1503,13 +1503,13 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) <sup>`FOSS`</sup>
 	- `MD3E` [Kenko](https://github.com/Iamlooker/Kenko) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD3E` [hōtter](https://play.google.com/store/apps/details?id=com.hotter.workout) <sup>`💰`</sup>
+	- `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) <sup>`FOSS`</sup>
 	- `MDY` [Flexify](https://github.com/brandonp2412/Flexify) <sup>`FOSS`</sup>
 	- `MDY` [GymRun](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
 	- `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer) <sup>`FOSS`</sup>
 	- `MD` [WGER](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 	- `MD` [Massive](https://github.com/brandonp2412/Massive) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Gym Day](https://play.google.com/store/apps/details?id=com.anthonyng.workoutapp) <sup>`💰`</sup>
-	- `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) <sup>`FOSS`</sup>
 - **Body Weight**
 	- `MD3E` [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) <sup>`FOSS`</sup>
 	- `MDY` [FitBook](https://github.com/brandonp2412/FitBook) <sup>`FOSS`</sup>
