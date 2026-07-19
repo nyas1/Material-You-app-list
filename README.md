@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) <sup>`FOSS`</sup>
 - `MD` [Fulguris](https://github.com/Slion/Fulguris) <sup>`FOSS`</sup>
 - `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) <sup>`FOSS`</sup>
 - `MDY` [Kanon](https://gitlab.com/syk.sh/kanon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -1502,6 +1503,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) <sup>`FOSS`</sup>
 	- `MD3E` [Kenko](https://github.com/Iamlooker/Kenko) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD3E` [hōtter](https://play.google.com/store/apps/details?id=com.hotter.workout) <sup>`💰`</sup>
+	- `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) <sup>`FOSS`</sup>
 	- `MDY` [Flexify](https://github.com/brandonp2412/Flexify) <sup>`FOSS`</sup>
 	- `MDY` [GymRun](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
 	- `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer) <sup>`FOSS`</sup>
