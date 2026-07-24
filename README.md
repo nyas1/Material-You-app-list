@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [Adaptive Theme](https://github.com/xLexip/Adaptive-Theme) <sup>`FOSS`</sup>
 - `MD3E` [SuiDays](https://play.google.com/store/apps/details?id=io.github.gracethings.suidays)
 - `MD3E` [Pixel World](https://play.google.com/store/apps/details?id=com.velviagris.adventure)
 - `MD` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
@@ -278,7 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Damier](https://github.com/Lijucay/Damier) <sup>`FOSS`</sup>
 - `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) <sup>`FOSS`</sup>
 - `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -513,6 +513,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Telegram Themer](https://github.com/therxmv/Telegram-Themer) <sup>`FOSS`</sup>
 	- `MDY` [Telemone](https://github.com/Number869/TeleMone) <sup>`FOSS`</sup>
 - **SystemUI**
+	- `MDY` [Adaptive Theme](https://github.com/xLexip/Adaptive-Theme) <sup>`FOSS`</sup>
 	- `MDY` [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) <sup>`FOSS`</sup>
 	- `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) <sup>`FOSS`</sup>
 	- `MDY` [PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
