@@ -390,7 +390,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🟦 **Facebook**
-- `MD3E` [Materialbook](https://github.com/eepiemi/Materialbook) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MY` [Materialbook](https://github.com/eepiemi/Materialbook) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🔧 **Miscellaneous**
 - `MD3E` [Flare](https://github.com/DimensionDev/Flare) <sup>`FOSS`</sup>
@@ -529,7 +529,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### ⌨️ Keyboards
-- `MDY` [FUTO Keyboard](https://keyboard.futo.org/) <sup>`FOSS`</sup>
+- `MDY` [FUTO Keyboard](https://keyboard.futo.org/)
 - `MDY` [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard) <sup>`FOSS`</sup>
 - `MDY` [BiBi Keyboard](https://github.com/BryceWG/BiBi-Keyboard) <sup>`FOSS`</sup> <sup>`💰`</sup>
 - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
@@ -593,7 +593,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD` [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers)
 	- `MY` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Widgets/Shortcuts**
-	- `MD3E` [n0widgets](https://play.google.com/store/apps/details?id=com.n0white.n0widgets) <sup>`💰`</sup>
+	- `MD3E` [n0widgets](https://play.google.com/store/apps/details?id=com.n0white.n0widgets)
 	- `MD3E` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
 	- `MDY` [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) <sup>`FOSS`</sup>
 	- `MDY` [Muviz Widgets](https://play.google.com/store/apps/details?id=com.sparkine.widgets) <sup>`💰`</sup>
@@ -838,7 +838,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 🖼️ Gallery & Tools
 - `MD3E` [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
-- `MD3E` [Photon Gallery](https://github.com/Bn5prS/Photon_Gallery) <sup>`FOSS`</sup>
+- `MD3E` [Photon Gallery](https://github.com/RomanK2311/Photon_Gallery) <sup>`FOSS`</sup>
 - `MDY` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) <sup>`FOSS`</sup>
 - `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup> <sup>`MOD`</sup>
 - `MDY` [Fossify Gallery](https://github.com/FossifyOrg/Gallery) <sup>`FOSS`</sup>
