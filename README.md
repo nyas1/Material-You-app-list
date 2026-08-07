@@ -806,6 +806,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 📖 Audiobook & Misc.
+- `MD3E` [Material Quran](https://github.com/2plus1star/material-quran) <sup>`FOSS`</sup>
 - `MD3E` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
 - `MDY` [Auraninja](https://github.com/Giuig/auraninja) <sup>`FOSS`</sup>
 - `MDY` [storii](https://github.com/likhithpraveenk/storii) <sup>`FOSS`</sup>
@@ -1037,6 +1038,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Tomato](https://github.com/nsh07/Tomato) <sup>`FOSS`</sup>
 - `MD3E` [Cofi](https://github.com/rozPierog/Cofi) <sup>`FOSS`</sup>
 - `MD3E` [Reef](https://github.com/aload0/Reef) <sup>`FOSS`</sup>
+- `MD3E` [Material Prayer Times](https://github.com/2plus1star/material-prayer-times) <sup>`FOSS`</sup>
 - `MD3E` [Clock Master](https://github.com/PranshulGG/ClockMaster) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown)
 - `MD3E` [Fast Times](https://github.com/tom-murphy-development/FastTimes) <sup>`FOSS`</sup>
