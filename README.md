@@ -249,6 +249,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
+- `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
+- `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
 - `MD3E` [SuiDays](https://play.google.com/store/apps/details?id=io.github.gracethings.suidays)
 - `MD3E` [Pixel World](https://play.google.com/store/apps/details?id=com.velviagris.adventure)
 - `MD` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
@@ -264,7 +267,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) <sup>`FOSS`</sup>
 - `MDY` [Kanon](https://gitlab.com/syk.sh/kanon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools) <sup>`FOSS`</sup>
-- `MDY` [NewPipe Material](https://github.com/wizdom13/NewPipe_Material) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [WizeStream](https://github.com/wizdom13/WizeStream) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Pdf Unlocker](https://github.com/OpenAppex/pdfunlocker) <sup>`FOSS`</sup>
 - `MDY` [Compose stopwatch](https://github.com/JustDeax/ComposeStopwatch) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [CalculatorM3](https://github.com/gergelyvagujhelyi/CalculatorM3) <sup>`FOSS`</sup>
@@ -276,9 +279,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown)
 - `MD3E` [MpvRxN](https://github.com/WHITE-KNIGHT5/MpvRxN) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD3E` [Damier](https://github.com/Lijucay/Damier) <sup>`FOSS`</sup>
-- `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) <sup>`FOSS`</sup>
-- `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MD3E` [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -701,8 +701,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Flow](https://github.com/A-EDev/Flow) <sup>`FOSS`</sup>
 - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
-- `MDY` [NewPipe Material](https://github.com/wizdom13/NewPipe_Material) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [TubeSync](https://github.com/khaled-0/TubeSync) <sup>`FOSS`</sup>
+- `MDY` [WizeStream](https://github.com/wizdom13/WizeStream) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Syncara](https://github.com/khaled-0/Syncara) <sup>`FOSS`</sup>
 - `MD` [Materialious](https://github.com/Materialious/Materialious) <sup>`FOSS`</sup>
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
@@ -1123,6 +1123,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract) <sup>`FOSS`</sup>
 - `MDY` [File Navigator](https://github.com/w2sv/FileNavigator) <sup>`FOSS`</sup>
 - `MDY` [Voyager](https://github.com/AlanHuang99/Voyager) <sup>`FOSS`</sup>
+- `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) <sup>`⚠️ Setup:` [`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator) [`#2`](https://github.com/jamal2362/Monet-Generator)</sup> <sup>`🐾`</sup>
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager) <sup>`FOSS`</sup>
@@ -1307,6 +1308,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Mulch](https://divestos.org/pages/our_apps#mulch) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
+    - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 	- `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 	- `MY` [Vivaldi](https://vivaldi.com/source/)
 - **Other**
@@ -1861,6 +1863,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 - `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) <sup>`FOSS`</sup>
 - `MDY` [Lyrics Grabbr](https://github.com/illusionman1212/lyrics-grabbr) <sup>`FOSS`</sup>
+- `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
 - `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
