@@ -264,7 +264,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) <sup>`FOSS`</sup>
 - `MDY` [Kanon](https://gitlab.com/syk.sh/kanon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools) <sup>`FOSS`</sup>
-- `MDY` [NewPipe Material](https://github.com/wizdom13/NewPipe_Material) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [WizeStream](https://github.com/wizdom13/WizeStream) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Pdf Unlocker](https://github.com/OpenAppex/pdfunlocker) <sup>`FOSS`</sup>
 - `MDY` [Compose stopwatch](https://github.com/JustDeax/ComposeStopwatch) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [CalculatorM3](https://github.com/gergelyvagujhelyi/CalculatorM3) <sup>`FOSS`</sup>
@@ -701,8 +701,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Flow](https://github.com/A-EDev/Flow) <sup>`FOSS`</sup>
 - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
-- `MDY` [NewPipe Material](https://github.com/wizdom13/NewPipe_Material) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [TubeSync](https://github.com/khaled-0/TubeSync) <sup>`FOSS`</sup>
+- `MDY` [WizeStream](https://github.com/wizdom13/WizeStream) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Syncara](https://github.com/khaled-0/Syncara) <sup>`FOSS`</sup>
 - `MD` [Materialious](https://github.com/Materialious/Materialious) <sup>`FOSS`</sup>
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
