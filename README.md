@@ -435,6 +435,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 📧 Email Clients
 - `MD3E` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
+- `MD3E` [Mailfo](https://play.google.com/store/apps/details?id=com.mailfo.tmailapp)
 - `MD3E` [MonoMail](https://github.com/shrivatsav-0/monomail) <sup>`FOSS`</sup>
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
