@@ -253,7 +253,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Pixel World](https://play.google.com/store/apps/details?id=com.velviagris.adventure)
 - `MD` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
 - `MDY` [Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) <sup>`FOSS`</sup>
-- `MDY` [FinalBenchmark 2](https://github.com/abhay-byte/finalbenchmark-platform) <sup>`FOSS`</sup>
+- `MD3E` [Fern](https://github.com/wized2/Fern) <sup>`FOSS`</sup>
 - `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) <sup>`FOSS`</sup>
 - `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) <sup>`FOSS`</sup>
 - `MD3E` [Chameleon](https://github.com/Rabkaps/Chameleon) <sup>`FOSS`</sup>
