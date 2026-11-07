@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic) <sup>`FOSS`</sup>
 - `MDY` [Aster Mail](https://github.com/Aster-Privacy/Aster-Android) <sup>`FOSS`</sup>
 - `MD3E` [Tellyscope](https://github.com/man15h/tellyscope) <sup>`FOSS`</sup>
 - `MDY` [Adaptive Theme](https://github.com/xLexip/Adaptive-Theme) <sup>`FOSS`</sup>
@@ -725,6 +726,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Kanon](https://gitlab.com/syk.sh/kanon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Inzx](https://github.com/nirmaleeswar30/Inzx) <sup>`FOSS`</sup>
+- `MDY` [SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic) <sup>`FOSS`</sup>
 - `MD` [Echo Music](https://github.com/EchoMusicApp/Echo-Music) <sup>`FOSS`</sup>
 - `MD` [Harmoni](https://github.com/onedev22/harmoni) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
