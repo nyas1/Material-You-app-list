@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [Aster Mail](https://github.com/Aster-Privacy/Aster-Android) <sup>`FOSS`</sup>
 - `MD3E` [Tellyscope](https://github.com/man15h/tellyscope) <sup>`FOSS`</sup>
 - `MDY` [Adaptive Theme](https://github.com/xLexip/Adaptive-Theme) <sup>`FOSS`</sup>
 - `MD3E` [SuiDays](https://play.google.com/store/apps/details?id=io.github.gracethings.suidays)
@@ -437,6 +438,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 📧 Email Clients
 - `MD3E` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 - `MD3E` [MonoMail](https://github.com/shrivatsav-0/monomail) <sup>`FOSS`</sup>
+- `MDY` [Aster Mail](https://github.com/Aster-Privacy/Aster-Android) <sup>`FOSS`</sup>
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
 - `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
