@@ -898,10 +898,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 📝 Notes/To-do/Wish-lists
 - **Notes**
 	- `MD3E` [Nouto](https://github.com/HotarunIchijou/Nouto) <sup>`FOSS`</sup>
-	- `MD3E` [June](https://github.com/DenserMeerkat/June) <sup>`FOSS`</sup>
-	- `MD3E` [VerveDo](https://github.com/Super12138/VerveDo) <sup>`FOSS`</sup>
 	- `MD3E` [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) <sup>`🐾`</sup>
-	- `MD3E` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
+	- `MD3E` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD3E` [Kori](https://github.com/YangDai2003/Kori) <sup>`FOSS`</sup>
 	- `MD3E` [FA Notes](https://play.google.com/store/apps/details?id=com.Fooks.Animations.and.Applications.Notes)
 	- `MD3E` [Lockbook](https://github.com/lockbook/lockbook) <sup>`FOSS`</sup>
@@ -931,6 +929,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD` [Notify](https://github.com/aritra-tech/Notify) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **Todo/Tasks**
 	- `MD3E` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
+   	- `MD3E` [VerveDo](https://github.com/Super12138/VerveDo) <sup>`FOSS`</sup>
 	- `MDY` [Flux](https://github.com/chindaronit/Flux/tree/v2.2) <sup>`FOSS`</sup>
 	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
 	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
@@ -945,6 +944,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
 - **Diary/Journal**
 	- `MD3E` [Google Journal](https://play.google.com/store/apps/details?id=com.google.android.apps.pixel.aurelius)
+   	- `MD3E` [June](https://github.com/DenserMeerkat/June) <sup>`FOSS`</sup>
 	- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
 	- `MDY` [StoryPad](https://github.com/theachoem/storypad) <sup>`FOSS`</sup>
 	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
