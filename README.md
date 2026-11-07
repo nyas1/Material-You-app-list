@@ -256,7 +256,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD3E` [Pixel World](https://play.google.com/store/apps/details?id=com.velviagris.adventure)
 - `MD` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
 - `MDY` [Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) <sup>`FOSS`</sup>
-- `MDY` [FinalBenchmark 2](https://github.com/abhay-byte/finalbenchmark-platform) <sup>`FOSS`</sup>
+- `MD3E` [Fern](https://github.com/wized2/Fern) <sup>`FOSS`</sup>
 - `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) <sup>`FOSS`</sup>
 - `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) <sup>`FOSS`</sup>
 - `MD3E` [Chameleon](https://github.com/Rabkaps/Chameleon) <sup>`FOSS`</sup>
@@ -1207,6 +1207,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 📲 Device Info/Monitors
 - `MD3E` [WhatHDR](https://github.com/trlef19/WhatHDR) <sup>`FOSS`</sup>
 - `MD3E` [Traffic Light](https://github.com/leekleak/traffic-light) <sup>`FOSS`</sup>
+- `MD3E` [Fern](https://github.com/wized2/Fern) <sup>`FOSS`</sup>
 - `MDY` [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) <sup>`FOSS`</sup>
 - `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) <sup>`🐾`</sup>
