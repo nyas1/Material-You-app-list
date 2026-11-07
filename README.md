@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Tellyscope](https://github.com/man15h/tellyscope) <sup>`FOSS`</sup>
 - `MDY` [Adaptive Theme](https://github.com/xLexip/Adaptive-Theme) <sup>`FOSS`</sup>
 - `MD3E` [SuiDays](https://play.google.com/store/apps/details?id=io.github.gracethings.suidays)
 - `MD3E` [Pixel World](https://play.google.com/store/apps/details?id=com.velviagris.adventure)
@@ -1387,6 +1388,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 🛰️ Remotes and Smart Devices
 - `MD3E` [AirSync](https://github.com/sameerasw/airsync-android) <sup>`FOSS`</sup>
 - `MD3E` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
+- `MD3E` [Tellyscope](https://github.com/man15h/tellyscope) <sup>`FOSS`</sup>
 - `MDY` [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) <sup>`FOSS`</sup>
 - `MDY` [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote)
 - `MDY` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`FOSS`</sup>
