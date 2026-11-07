@@ -988,6 +988,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Novery](https://github.com/1Finn2me/Novery) <sup>`FOSS`</sup>
 	- `MDY` [Cantook](https://play.google.com/store/apps/details?id=com.aldiko.android)
 	- `MD` [ANX Reader](https://github.com/Anxcye/anx-reader) <sup>`FOSS`</sup>
+	- `MD` [Easemic](https://github.com/dirtyfancy/easemic) <sup>`FOSS`</sup>
 	- `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
 	- `MD` [LNReader](https://github.com/LNReader/lnreader) <sup>`FOSS`</sup>
 	- `MD` [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) <sup>`FOSS`</sup> <sup>`🪦`</sup>
