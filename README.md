@@ -600,7 +600,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Bitcoin Timechain Widgets](https://github.com/gooGofZ/BitcoinTimechainWidgets) <sup>`FOSS`</sup>
 	- `MDY` [Everyday](https://play.google.com/store/apps/details?id=com.pranavpandey.calendar)
 	- `MDY` [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt) <sup>`🪦`</sup>
-	- `MDY` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💰`</sup> sup>`🪦`</sup>
+	- `MDY` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💰`</sup> <sup>`🪦`</sup>
 	- `MDY` [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💰`</sup> <sup>`🪦`</sup>
 	- `MDY` [Android 13 KWGT](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💰`</sup>
 	- `MDY` [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup>`💰`</sup>
