@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Dinduy](https://github.com/ilhamdanialsaputra/Dinduy-Notes) <sup>`FOSS`</sup>
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
@@ -903,6 +904,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD3E` [Kori](https://github.com/YangDai2003/Kori) <sup>`FOSS`</sup>
 	- `MD3E` [FA Notes](https://play.google.com/store/apps/details?id=com.Fooks.Animations.and.Applications.Notes)
 	- `MD3E` [Lockbook](https://github.com/lockbook/lockbook) <sup>`FOSS`</sup>
+	- `MD3E` [Dinduy](https://github.com/ilhamdanialsaputra/Dinduy-Notes) <sup>`FOSS`</sup>
 	- `MDY` [GoodNotes](https://github.com/xephosbot/GoodNotesCompose) <sup>`FOSS`</sup>
 	- `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
