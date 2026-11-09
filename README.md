@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Pearform: Habit & Goal Tracker](https://play.google.com/store/apps/details?id=com.kristianka.pearform)
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
@@ -1538,6 +1539,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - **Habit Tracker**
 	- `MD3E` [Damier](https://github.com/Lijucay/Damier) <sup>`FOSS`</sup>
 	- `MD3E` [Remberball](https://play.google.com/store/apps/details?id=com.urbandroid.brall)
+	- `MD3E` [Pearform: Habit & Goal Tracker](https://play.google.com/store/apps/details?id=com.kristianka.pearform)
 	- `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
 	- `MDY` [Soberity](https://github.com/KiARC/Sobriety) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Grove](https://github.com/resurrectdev1/grove) <sup>`FOSS`</sup>
