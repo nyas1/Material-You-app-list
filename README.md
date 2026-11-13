@@ -417,18 +417,21 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 📞 Communication
 - **Contacts**
 	- `MD3E` [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
+    - `MD3E` [Cinnamon](https://github.com/sosauce/Cinnamon) <sup>`FOSS`</sup>
 	- `MDY` [Connect You](https://github.com/you-apps/ConnectYou) <sup>`FOSS`</sup>
 	- `MDY` [Fossify Contacts](https://github.com/FossifyOrg/Contacts) <sup>`FOSS`</sup>
 	- `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts) <sup>`FOSS`</sup>
 - **Dialer**
 	- `MD3E` [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) <sup>`FOSS`</sup>
 	- `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+    - `MD3E` [Cinnamon](https://github.com/sosauce/Cinnamon) <sup>`FOSS`</sup>
 	- `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) <sup>`FOSS`</sup>
 	- `MDY` [Right Dialer](https://play.google.com/store/apps/details?id=com.goodwy.dialer) <sup>`FOSS`</sup>
 	- `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MY` [Octavi Dialer](https://www.pling.com/p/1571900) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - **SMS Messenger**
 	- `MD3E` [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
+    - `MD3E` [Cinnamon](https://github.com/sosauce/Cinnamon) <sup>`FOSS`</sup>
 	- `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) <sup>`FOSS`</sup>
 	- `MDY` [Right Messages](https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger) <sup>`FOSS`</sup>
 - **Voicemail**
