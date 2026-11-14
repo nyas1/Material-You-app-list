@@ -249,8 +249,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [ZedSecure](https://github.com/CluvexStudio/ZedSecure) <sup>`MD3E`</sup>
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Pro) <sup>`FOSS`</sup>
-- `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
 - `MDY` [SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic) <sup>`FOSS`</sup>
 - `MDY` [Aster Mail](https://github.com/Aster-Privacy/Aster-Android) <sup>`FOSS`</sup>
@@ -1337,6 +1337,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 🌎 VPNs/Proxies
 *Free VPNs are not recommended: [Read](https://www.mozilla.org/en-US/products/vpn/resource-center/risks-of-using-a-free-vpn/)*
+- `MD3E` [ZedSecure](https://github.com/CluvexStudio/ZedSecure) <sup>`MD3E`</sup>
 - `MD3E` [Chameleon](https://github.com/Rabkaps/Chameleon) <sup>`FOSS`</sup>
 - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
 - `MDY` [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
