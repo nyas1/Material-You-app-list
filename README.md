@@ -401,7 +401,6 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Threema](https://github.com/threema-ch/threema-android) <sup>`FOSS`</sup> <sup>`💰`</sup>
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
 - `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 - `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1000,6 +999,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 - **RSS/News Reader**
 	- `MD3E` [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) <sup>`FOSS`</sup>
+    - `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
 	- `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`FOSS`</sup>
 	- `MDY` [News](https://github.com/bubelov/news) <sup>`FOSS`</sup>
 	- `MDY` [Feeder](https://github.com/spacecowboy/Feeder) <sup>`FOSS`</sup>
