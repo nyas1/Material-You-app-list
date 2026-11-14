@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MDY` [OpenKey](https://github.com/OpenSelfHosting/OpenKey) <sup>`FOSS`</sup>
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
@@ -1721,6 +1722,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ---
 ### 🔑 Password Manager
 - `MD3E` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app) <sup>`🐾`</sup>
+- `MDY` [OpenKey](https://github.com/OpenSelfHosting/OpenKey) <sup>`FOSS`</sup>
 - `MDY` [MasterKey](https://github.com/PSHTeam/masterkey_core) <sup>`FOSS`</sup> <sup>`💰`</sup>
 - `MDY` [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) <sup>`FOSS`</sup>
 - `MDY` [Nextcloud Passwords](https://github.com/hegocre/NextcloudPasswords) <sup>`FOSS`</sup>
