@@ -249,7 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
-- `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
+- `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Pro) <sup>`FOSS`</sup>
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
 - `MDY` [SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic) <sup>`FOSS`</sup>
@@ -1125,7 +1125,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract) <sup>`FOSS`</sup>
 - `MDY` [File Navigator](https://github.com/w2sv/FileNavigator) <sup>`FOSS`</sup>
 - `MDY` [Voyager](https://github.com/AlanHuang99/Voyager) <sup>`FOSS`</sup>
-- `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
+- `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Pro) <sup>`FOSS`</sup>
 - `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) <sup>`⚠️ Setup:` [`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator) [`#2`](https://github.com/jamal2362/Monet-Generator)</sup> <sup>`🐾`</sup>
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager) <sup>`FOSS`</sup>
