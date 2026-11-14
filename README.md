@@ -261,7 +261,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
 - `MDY` [Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) <sup>`FOSS`</sup>
 - `MD3E` [Fern](https://github.com/wized2/Fern) <sup>`FOSS`</sup>
-- `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) <sup>`FOSS`</sup>
 - `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) <sup>`FOSS`</sup>
 - `MD3E` [Chameleon](https://github.com/Rabkaps/Chameleon) <sup>`FOSS`</sup>
 - `MD3E` [Bubble Notice](https://github.com/GraceThings/bubble-notice-android) <sup>`FOSS`</sup>
@@ -1426,7 +1425,6 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Code Studio](https://play.google.com/store/apps/details?id=com.alif.ide)
 - `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) <sup>`FOSS`</sup>
 - `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
-- `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) <sup>`FOSS`</sup>
 - `MDY` [Html Editor](https://play.google.com/store/apps/details?id=com.qamar.editor.html)
 - `MDY` [JStudio](https://play.google.com/store/apps/details?id=com.qamar.ide.java)
 - `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup> <sup>`🪦`</sup>
