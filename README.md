@@ -248,6 +248,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - 🔗 Links can be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, official sites, etc. I use GitHub when possible, but not all apps are there. Report broken links!
 
 ## 🆕 Newly Added Apps!
+- `MDY` [AIPOS Password Manager](https://github.com/gininaba/AIPOSPasswordManager) <sup>`FOSS`</sup>
+- `MDY` [Offline Password Manager](https://github.com/jagadeesh-k-2802/password-manager-compose) <sup>`FOSS`</sup>
 *Last **30 apps** that were recently added to list!*
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
@@ -1732,6 +1734,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD` [KeySpace](https://github.com/Keyspace-cloud/android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [NewPass](https://github.com/6eero/NewPass) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [KeePassVault](https://github.com/aivanovski/kpassnotes) <sup>`FOSS`</sup>
+- `MDY` [AIPOS Password Manager](https://github.com/gininaba/AIPOSPasswordManager) <sup>`FOSS`</sup>
+- `MDY` [Offline Password Manager](https://github.com/jagadeesh-k-2802/password-manager-compose) <sup>`FOSS`</sup>
 - **Password Generator**
 	- `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
