@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Zafiro](https://github.com/niki914/zafiro) <sup>`FOSS`</sup>
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
@@ -1481,6 +1482,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 🤖 Artificial Intelligence (AI)
+- `MD3E` [Zafiro](https://github.com/niki914/zafiro) <sup>`FOSS`</sup>
 - `MDY` [RikkaHub](https://github.com/rikkahub/rikkahub) <sup>`FOSS`</sup>
 	- `MD3E` [LastChat](https://github.com/Cocolalilal/LastChat) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [AI Hub](https://github.com/SilentCoderHere/aihub) <sup>`FOSS`</sup>
