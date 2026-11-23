@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Tempo](https://github.com/XDanfr/Tempo) <sup>`FOSS`</sup>
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
@@ -258,7 +259,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Adaptive Theme](https://github.com/xLexip/Adaptive-Theme) <sup>`FOSS`</sup>
 - `MD3E` [SuiDays](https://play.google.com/store/apps/details?id=io.github.gracethings.suidays)
 - `MD3E` [Pixel World](https://play.google.com/store/apps/details?id=com.velviagris.adventure)
-- `MD` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
+- `MD3E` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
 - `MDY` [Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) <sup>`FOSS`</sup>
 - `MD3E` [Fern](https://github.com/wized2/Fern) <sup>`FOSS`</sup>
 - `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) <sup>`FOSS`</sup>
@@ -684,11 +685,11 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 - `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) <sup>`FOSS`</sup>
 - `MD3E` [Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
+- `MD3E` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
 - `MDY` [Asukaplayer](https://github.com/qianmokano/Asukaplayer) <sup>`FOSS`</sup>
 - `MDY` [WPX VLC Player Mod](https://t.me/waifupx_official/233) <sup>`MOD`</sup> <sup>`🪦`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
 - `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MD` [Aperture](https://github.com/XDanfr/Aperture) <sup>`FOSS`</sup>
 - `MD` [Smoovie](https://play.google.com/store/apps/details?id=au.com.grapheme.smoovie) <sup>`💰`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1095,6 +1096,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MD` [dymka](https://github.com/nexy791/dymka) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Google Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural)
 - **Schedule/Grade Tracker**
+	- `MD3E` [Tempo](https://github.com/XDanfr/Tempo) <sup>`FOSS`</sup>
 	- `MDY` [NETI Client](https://github.com/dertefter/NETIClient) <sup>`FOSS`</sup>
 	- `MDY` [Driftly](https://github.com/DP-Hridayan/Driftly) <sup>`FOSS`</sup>
 	- `MDY` [Lanis Mobile](https://github.com/alessioC42/lanis-mobile) <sup>`FOSS`</sup>
