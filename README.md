@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD3E` [Material 3 VLC](https://github.com/pedrobrantes/material3-vlc) <sup>`FOSS`</sup>
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
@@ -526,6 +527,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 	- `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`💰`</sup> <sup>`🪦`</sup>
 	- `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) <sup>`FOSS`</sup>
 	- `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
+- **VLC**
+	- `MD3E` [Material 3 VLC](https://github.com/pedrobrantes/material3-vlc) <sup>`FOSS`</sup>
 - **Miscellaneous**
 	- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`FOSS`</sup> <sup>`🪦`</sup>
