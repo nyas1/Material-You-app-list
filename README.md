@@ -249,6 +249,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **30 apps** that were recently added to list!*
+- `MD` [Greenly Garden](https://play.google.com/store/apps/details?id=com.greenly.app)
 - `MDY` [WizeFiles](https://github.com/wizdom13/WizeFiles-Beta)
 - `MDY` [Ultimatum](https://github.com/gonzazoid/Ultimatum) <sup>`FOSS`</sup>
 - `MDY` [Deliveries](https://github.com/itsvic-dev/deliveries) <sup>`FOSS`</sup>
@@ -1580,6 +1581,7 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD3E` [Algidy](https://github.com/NhuHuy-79/Algidy) <sup>`FOSS`</sup>
 - `MDY` [Grocy](https://github.com/patzly/grocy-android) <sup>`FOSS`</sup>
 - `MD` [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
+- `MD` [Greenly Garden](https://play.google.com/store/apps/details?id=com.greenly.app)
 - **Recipes**
 	- `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [kitshn](https://github.com/aimok04/kitshn) <sup>`FOSS`</sup>
